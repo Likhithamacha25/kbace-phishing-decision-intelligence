@@ -1,0 +1,28 @@
+metric,comparison,kb,other,diff,p_wilcoxon,p_nb,p_holm
+expected cost,KB-ACE vs Cost-aware cascade,0.220435,0.160975,0.0594597,1.90735e-06,7.74708e-05,1.71661e-05
+expected cost,KB-ACE vs Expert scorecard (rules only),0.220435,0.554477,-0.334042,1.90735e-06,1.15078e-13,1.71661e-05
+expected cost,KB-ACE vs Gradient boosting (URL only),0.220435,0.425933,-0.205498,1.90735e-06,1.76454e-10,1.71661e-05
+expected cost,KB-ACE vs Gradient boosting (all evidence),0.220435,0.236773,-0.0163381,0.000394821,0.158711,0.000394821
+expected cost,KB-ACE vs KB-ACE + monotone constraints,0.220435,0.266458,-0.0460234,1.90735e-06,0.00033391,1.71661e-05
+expected cost,KB-ACE vs KB-ACE w/o threat augmentation,0.220435,0.194374,0.0260607,9.53674e-06,0.020314,1.90735e-05
+expected cost,KB-ACE vs KB-ACE w/o trust anchoring,0.220435,0.192597,0.0278374,5.72205e-06,0.0190477,1.71661e-05
+expected cost,KB-ACE vs Logistic regression,0.220435,0.351234,-0.1308,1.90735e-06,3.27581e-08,1.71661e-05
+expected cost,KB-ACE vs Random forest,0.220435,0.253007,-0.0325723,1.90735e-06,0.0169144,1.71661e-05
+"recall, full mimicry",KB-ACE vs Cost-aware cascade,0.921911,0,0.921911,8.84492e-05,6.33336e-19,0.000619144
+"recall, full mimicry",KB-ACE vs Expert scorecard (rules only),0.921911,0.99119,-0.0692788,0.000155096,0.018547,0.000619144
+"recall, full mimicry",KB-ACE vs Gradient boosting (URL only),0.921911,0,0.921911,8.84492e-05,6.33336e-19,0.000619144
+"recall, full mimicry",KB-ACE vs Gradient boosting (all evidence),0.921911,0,0.921911,8.84492e-05,6.33336e-19,0.000619144
+"recall, full mimicry",KB-ACE vs KB-ACE + monotone constraints,0.921911,0.8389,0.0830112,9.53674e-06,0.048997,7.62939e-05
+"recall, full mimicry",KB-ACE vs KB-ACE w/o threat augmentation,0.921911,0,0.921911,8.84492e-05,6.33336e-19,0.000619144
+"recall, full mimicry",KB-ACE vs KB-ACE w/o trust anchoring,0.921911,0.660381,0.26153,0.000386178,0.338997,0.000619144
+"recall, full mimicry",KB-ACE vs Logistic regression,0.921911,0,0.921911,8.84492e-05,6.33336e-19,0.000619144
+"recall, full mimicry",KB-ACE vs Random forest,0.921911,0.249305,0.672606,1.90735e-06,3.38187e-05,1.71661e-05
+"recall, 10 forged cues",KB-ACE vs Cost-aware cascade,0.889262,0,0.889262,1.90735e-06,2.64709e-23,1.71661e-05
+"recall, 10 forged cues",KB-ACE vs Expert scorecard (rules only),0.889262,0.489323,0.399939,1.90735e-06,0.0032327,1.71661e-05
+"recall, 10 forged cues",KB-ACE vs Gradient boosting (URL only),0.889262,0,0.889262,1.90735e-06,2.64709e-23,1.71661e-05
+"recall, 10 forged cues",KB-ACE vs Gradient boosting (all evidence),0.889262,0,0.889262,1.90735e-06,2.64709e-23,1.71661e-05
+"recall, 10 forged cues",KB-ACE vs KB-ACE + monotone constraints,0.889262,0.842692,0.0465699,1.90735e-06,0.00737439,1.71661e-05
+"recall, 10 forged cues",KB-ACE vs KB-ACE w/o threat augmentation,0.889262,0,0.889262,1.90735e-06,2.64709e-23,1.71661e-05
+"recall, 10 forged cues",KB-ACE vs KB-ACE w/o trust anchoring,0.889262,0.813162,0.0760998,1.90735e-06,0.00490041,1.71661e-05
+"recall, 10 forged cues",KB-ACE vs Logistic regression,0.889262,0,0.889262,1.90735e-06,2.64709e-23,1.71661e-05
+"recall, 10 forged cues",KB-ACE vs Random forest,0.889262,0.28624,0.603022,1.90735e-06,1.2207e-05,1.71661e-05

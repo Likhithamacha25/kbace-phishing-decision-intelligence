@@ -1,0 +1,84 @@
+{
+  "attack_order": [
+    "URL_of_Anchor",
+    "Prefix_Suffix",
+    "having_Sub_Domain",
+    "Request_URL",
+    "Links_in_tags",
+    "Domain_registeration_length",
+    "SFH",
+    "having_IP_Address",
+    "URL_Length",
+    "Shortining_Service",
+    "Abnormal_URL",
+    "having_At_Symbol",
+    "HTTPS_token",
+    "port",
+    "double_slash_redirecting",
+    "on_mouseover",
+    "Redirect",
+    "Submitting_to_email",
+    "popUpWidnow",
+    "Favicon",
+    "Iframe",
+    "RightClick"
+  ],
+  "attack_values": {
+    "having_IP_Address": 1.0,
+    "URL_Length": 1.0,
+    "Shortining_Service": -1.0,
+    "having_At_Symbol": 1.0,
+    "double_slash_redirecting": -1.0,
+    "Prefix_Suffix": 1.0,
+    "having_Sub_Domain": 1.0,
+    "HTTPS_token": -1.0,
+    "Favicon": -1.0,
+    "port": 1.0,
+    "Request_URL": 1.0,
+    "URL_of_Anchor": 1.0,
+    "Links_in_tags": 1.0,
+    "SFH": 1.0,
+    "Submitting_to_email": 1.0,
+    "Redirect": 0.0,
+    "on_mouseover": 1.0,
+    "RightClick": 1.0,
+    "popUpWidnow": -1.0,
+    "Iframe": -1.0,
+    "Domain_registeration_length": -1.0,
+    "Abnormal_URL": -1.0
+  },
+  "data": {
+    "rows": 11055,
+    "unique_patterns": 5785,
+    "duplicate_rows": 5270,
+    "conflicting_patterns": 64,
+    "phishing": 4898,
+    "legitimate": 6157
+  },
+  "splits": 20,
+  "seed": 2026,
+  "costs": {
+    "c_fp": 1.0,
+    "c_fn": 10.0,
+    "acq": [
+      0.0,
+      0.02,
+      0.1
+    ]
+  },
+  "forgeable": 22,
+  "audit": {
+    "agree": 19,
+    "conflict": 5,
+    "weak": 5,
+    "no prior": 1
+  },
+  "conflicts": [
+    "Shortining_Service",
+    "double_slash_redirecting",
+    "HTTPS_token",
+    "Domain_registeration_length",
+    "Abnormal_URL"
+  ],
+  "runtime_s": 884
+}

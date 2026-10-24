@@ -1,0 +1,4601 @@
+split,policy,k,recall
+0,Logistic regression,0,0.979239
+0,Logistic regression,1,0.748789
+0,Logistic regression,2,0.00207612
+0,Logistic regression,3,0
+0,Logistic regression,4,0
+0,Logistic regression,5,0
+0,Logistic regression,6,0
+0,Logistic regression,7,0
+0,Logistic regression,8,0
+0,Logistic regression,9,0
+0,Logistic regression,10,0
+0,Logistic regression,11,0
+0,Logistic regression,12,0
+0,Logistic regression,13,0
+0,Logistic regression,14,0
+0,Logistic regression,15,0
+0,Logistic regression,16,0
+0,Logistic regression,17,0
+0,Logistic regression,18,0
+0,Logistic regression,19,0
+0,Logistic regression,20,0
+0,Logistic regression,21,0
+0,Logistic regression,22,0
+0,Random forest,0,0.99308
+0,Random forest,1,0.946021
+0,Random forest,2,0.770934
+0,Random forest,3,0.726644
+0,Random forest,4,0.70519
+0,Random forest,5,0.485813
+0,Random forest,6,0.380623
+0,Random forest,7,0.30519
+0,Random forest,8,0.289965
+0,Random forest,9,0.310727
+0,Random forest,10,0.352941
+0,Random forest,11,0.314879
+0,Random forest,12,0.341869
+0,Random forest,13,0.338408
+0,Random forest,14,0.361246
+0,Random forest,15,0.3391
+0,Random forest,16,0.3391
+0,Random forest,17,0.3391
+0,Random forest,18,0.338408
+0,Random forest,19,0.338408
+0,Random forest,20,0.33564
+0,Random forest,21,0.333564
+0,Random forest,22,0.310727
+0,Gradient boosting (all evidence),0,0.99654
+0,Gradient boosting (all evidence),1,0.914879
+0,Gradient boosting (all evidence),2,0
+0,Gradient boosting (all evidence),3,0
+0,Gradient boosting (all evidence),4,0
+0,Gradient boosting (all evidence),5,0
+0,Gradient boosting (all evidence),6,0
+0,Gradient boosting (all evidence),7,0
+0,Gradient boosting (all evidence),8,0
+0,Gradient boosting (all evidence),9,0
+0,Gradient boosting (all evidence),10,0
+0,Gradient boosting (all evidence),11,0
+0,Gradient boosting (all evidence),12,0
+0,Gradient boosting (all evidence),13,0
+0,Gradient boosting (all evidence),14,0
+0,Gradient boosting (all evidence),15,0
+0,Gradient boosting (all evidence),16,0
+0,Gradient boosting (all evidence),17,0
+0,Gradient boosting (all evidence),18,0
+0,Gradient boosting (all evidence),19,0
+0,Gradient boosting (all evidence),20,0
+0,Gradient boosting (all evidence),21,0
+0,Gradient boosting (all evidence),22,0
+0,Gradient boosting (URL only),0,0.989619
+0,Gradient boosting (URL only),1,0.989619
+0,Gradient boosting (URL only),2,0
+0,Gradient boosting (URL only),3,0
+0,Gradient boosting (URL only),4,0
+0,Gradient boosting (URL only),5,0
+0,Gradient boosting (URL only),6,0
+0,Gradient boosting (URL only),7,0
+0,Gradient boosting (URL only),8,0
+0,Gradient boosting (URL only),9,0
+0,Gradient boosting (URL only),10,0
+0,Gradient boosting (URL only),11,0
+0,Gradient boosting (URL only),12,0
+0,Gradient boosting (URL only),13,0
+0,Gradient boosting (URL only),14,0
+0,Gradient boosting (URL only),15,0
+0,Gradient boosting (URL only),16,0
+0,Gradient boosting (URL only),17,0
+0,Gradient boosting (URL only),18,0
+0,Gradient boosting (URL only),19,0
+0,Gradient boosting (URL only),20,0
+0,Gradient boosting (URL only),21,0
+0,Gradient boosting (URL only),22,0
+0,Expert scorecard (rules only),0,0.986851
+0,Expert scorecard (rules only),1,0.968858
+0,Expert scorecard (rules only),2,0.885121
+0,Expert scorecard (rules only),3,0.799308
+0,Expert scorecard (rules only),4,0.707266
+0,Expert scorecard (rules only),5,0.523183
+0,Expert scorecard (rules only),6,0.377855
+0,Expert scorecard (rules only),7,0.434602
+0,Expert scorecard (rules only),8,0.382699
+0,Expert scorecard (rules only),9,0.279585
+0,Expert scorecard (rules only),10,0.415917
+0,Expert scorecard (rules only),11,0.597924
+0,Expert scorecard (rules only),12,0.814533
+0,Expert scorecard (rules only),13,0.80692
+0,Expert scorecard (rules only),14,0.970934
+0,Expert scorecard (rules only),15,0.970242
+0,Expert scorecard (rules only),16,0.970242
+0,Expert scorecard (rules only),17,0.967474
+0,Expert scorecard (rules only),18,0.967474
+0,Expert scorecard (rules only),19,0.967474
+0,Expert scorecard (rules only),20,0.999308
+0,Expert scorecard (rules only),21,1
+0,Expert scorecard (rules only),22,1
+0,KB-ACE,0,0.993772
+0,KB-ACE,1,0.968858
+0,KB-ACE,2,0.937024
+0,KB-ACE,3,0.925952
+0,KB-ACE,4,0.925952
+0,KB-ACE,5,0.934256
+0,KB-ACE,6,0.906574
+0,KB-ACE,7,0.901038
+0,KB-ACE,8,0.898962
+0,KB-ACE,9,0.908651
+0,KB-ACE,10,0.90519
+0,KB-ACE,11,0.913495
+0,KB-ACE,12,0.933564
+0,KB-ACE,13,0.937716
+0,KB-ACE,14,0.930104
+0,KB-ACE,15,0.930104
+0,KB-ACE,16,0.930104
+0,KB-ACE,17,0.931488
+0,KB-ACE,18,0.931488
+0,KB-ACE,19,0.931488
+0,KB-ACE,20,0.959862
+0,KB-ACE,21,0.941869
+0,KB-ACE,22,0.942561
+0,KB-ACE + monotone constraints,0,0.989619
+0,KB-ACE + monotone constraints,1,0.971626
+0,KB-ACE + monotone constraints,2,0.934948
+0,KB-ACE + monotone constraints,3,0.92872
+0,KB-ACE + monotone constraints,4,0.923875
+0,KB-ACE + monotone constraints,5,0.918339
+0,KB-ACE + monotone constraints,6,0.882353
+0,KB-ACE + monotone constraints,7,0.875433
+0,KB-ACE + monotone constraints,8,0.865744
+0,KB-ACE + monotone constraints,9,0.852595
+0,KB-ACE + monotone constraints,10,0.862284
+0,KB-ACE + monotone constraints,11,0.87128
+0,KB-ACE + monotone constraints,12,0.870588
+0,KB-ACE + monotone constraints,13,0.869204
+0,KB-ACE + monotone constraints,14,0.844291
+0,KB-ACE + monotone constraints,15,0.843599
+0,KB-ACE + monotone constraints,16,0.856055
+0,KB-ACE + monotone constraints,17,0.869204
+0,KB-ACE + monotone constraints,18,0.877509
+0,KB-ACE + monotone constraints,19,0.877509
+0,KB-ACE + monotone constraints,20,0.897578
+0,KB-ACE + monotone constraints,21,0.87128
+0,KB-ACE + monotone constraints,22,0.87128
+0,KB-ACE w/o trust anchoring,0,0.977163
+0,KB-ACE w/o trust anchoring,1,0.914187
+0,KB-ACE w/o trust anchoring,2,0.844983
+0,KB-ACE w/o trust anchoring,3,0.750865
+0,KB-ACE w/o trust anchoring,4,0.747405
+0,KB-ACE w/o trust anchoring,5,0.747405
+0,KB-ACE w/o trust anchoring,6,0.746021
+0,KB-ACE w/o trust anchoring,7,0.746021
+0,KB-ACE w/o trust anchoring,8,0.760554
+0,KB-ACE w/o trust anchoring,9,0.110035
+0,KB-ACE w/o trust anchoring,10,0.839446
+0,KB-ACE w/o trust anchoring,11,0.839446
+0,KB-ACE w/o trust anchoring,12,0.835294
+0,KB-ACE w/o trust anchoring,13,0.87128
+0,KB-ACE w/o trust anchoring,14,0.87128
+0,KB-ACE w/o trust anchoring,15,0.87128
+0,KB-ACE w/o trust anchoring,16,0.87128
+0,KB-ACE w/o trust anchoring,17,0.87128
+0,KB-ACE w/o trust anchoring,18,0.87128
+0,KB-ACE w/o trust anchoring,19,0.87128
+0,KB-ACE w/o trust anchoring,20,0.87128
+0,KB-ACE w/o trust anchoring,21,0.87128
+0,KB-ACE w/o trust anchoring,22,0.87128
+0,KB-ACE w/o threat augmentation,0,0.990311
+0,KB-ACE w/o threat augmentation,1,0.90173
+0,KB-ACE w/o threat augmentation,2,0
+0,KB-ACE w/o threat augmentation,3,0
+0,KB-ACE w/o threat augmentation,4,0
+0,KB-ACE w/o threat augmentation,5,0
+0,KB-ACE w/o threat augmentation,6,0
+0,KB-ACE w/o threat augmentation,7,0
+0,KB-ACE w/o threat augmentation,8,0
+0,KB-ACE w/o threat augmentation,9,0
+0,KB-ACE w/o threat augmentation,10,0
+0,KB-ACE w/o threat augmentation,11,0
+0,KB-ACE w/o threat augmentation,12,0
+0,KB-ACE w/o threat augmentation,13,0
+0,KB-ACE w/o threat augmentation,14,0
+0,KB-ACE w/o threat augmentation,15,0
+0,KB-ACE w/o threat augmentation,16,0
+0,KB-ACE w/o threat augmentation,17,0
+0,KB-ACE w/o threat augmentation,18,0
+0,KB-ACE w/o threat augmentation,19,0
+0,KB-ACE w/o threat augmentation,20,0
+0,KB-ACE w/o threat augmentation,21,0
+0,KB-ACE w/o threat augmentation,22,0
+0,Cost-aware cascade,0,0.990311
+0,Cost-aware cascade,1,0.89827
+0,Cost-aware cascade,2,0
+0,Cost-aware cascade,3,0
+0,Cost-aware cascade,4,0
+0,Cost-aware cascade,5,0
+0,Cost-aware cascade,6,0
+0,Cost-aware cascade,7,0
+0,Cost-aware cascade,8,0
+0,Cost-aware cascade,9,0
+0,Cost-aware cascade,10,0
+0,Cost-aware cascade,11,0
+0,Cost-aware cascade,12,0
+0,Cost-aware cascade,13,0
+0,Cost-aware cascade,14,0
+0,Cost-aware cascade,15,0
+0,Cost-aware cascade,16,0
+0,Cost-aware cascade,17,0
+0,Cost-aware cascade,18,0
+0,Cost-aware cascade,19,0
+0,Cost-aware cascade,20,0
+0,Cost-aware cascade,21,0
+0,Cost-aware cascade,22,0
+1,Logistic regression,0,0.980569
+1,Logistic regression,1,0.759889
+1,Logistic regression,2,0.00346981
+1,Logistic regression,3,0
+1,Logistic regression,4,0
+1,Logistic regression,5,0
+1,Logistic regression,6,0
+1,Logistic regression,7,0
+1,Logistic regression,8,0
+1,Logistic regression,9,0
+1,Logistic regression,10,0
+1,Logistic regression,11,0
+1,Logistic regression,12,0
+1,Logistic regression,13,0
+1,Logistic regression,14,0
+1,Logistic regression,15,0
+1,Logistic regression,16,0
+1,Logistic regression,17,0
+1,Logistic regression,18,0
+1,Logistic regression,19,0
+1,Logistic regression,20,0
+1,Logistic regression,21,0
+1,Logistic regression,22,0
+1,Random forest,0,0.979875
+1,Random forest,1,0.915337
+1,Random forest,2,0.652325
+1,Random forest,3,0.603053
+1,Random forest,4,0.37821
+1,Random forest,5,0.340042
+1,Random forest,6,0.263012
+1,Random forest,7,0.170021
+1,Random forest,8,0.164469
+1,Random forest,9,0.1839
+1,Random forest,10,0.203331
+1,Random forest,11,0.145038
+1,Random forest,12,0.136711
+1,Random forest,13,0.118668
+1,Random forest,14,0.104788
+1,Random forest,15,0.0791117
+1,Random forest,16,0.0777238
+1,Random forest,17,0.0818876
+1,Random forest,18,0.0818876
+1,Random forest,19,0.0825815
+1,Random forest,20,0.0811936
+1,Random forest,21,0.0770298
+1,Random forest,22,0.074254
+1,Gradient boosting (all evidence),0,0.99653
+1,Gradient boosting (all evidence),1,0.907703
+1,Gradient boosting (all evidence),2,0.00624566
+1,Gradient boosting (all evidence),3,0.000693963
+1,Gradient boosting (all evidence),4,0
+1,Gradient boosting (all evidence),5,0
+1,Gradient boosting (all evidence),6,0
+1,Gradient boosting (all evidence),7,0
+1,Gradient boosting (all evidence),8,0
+1,Gradient boosting (all evidence),9,0
+1,Gradient boosting (all evidence),10,0
+1,Gradient boosting (all evidence),11,0
+1,Gradient boosting (all evidence),12,0
+1,Gradient boosting (all evidence),13,0
+1,Gradient boosting (all evidence),14,0
+1,Gradient boosting (all evidence),15,0
+1,Gradient boosting (all evidence),16,0
+1,Gradient boosting (all evidence),17,0
+1,Gradient boosting (all evidence),18,0
+1,Gradient boosting (all evidence),19,0
+1,Gradient boosting (all evidence),20,0
+1,Gradient boosting (all evidence),21,0
+1,Gradient boosting (all evidence),22,0
+1,Gradient boosting (URL only),0,1
+1,Gradient boosting (URL only),1,1
+1,Gradient boosting (URL only),2,0
+1,Gradient boosting (URL only),3,0
+1,Gradient boosting (URL only),4,0
+1,Gradient boosting (URL only),5,0
+1,Gradient boosting (URL only),6,0
+1,Gradient boosting (URL only),7,0
+1,Gradient boosting (URL only),8,0
+1,Gradient boosting (URL only),9,0
+1,Gradient boosting (URL only),10,0
+1,Gradient boosting (URL only),11,0
+1,Gradient boosting (URL only),12,0
+1,Gradient boosting (URL only),13,0
+1,Gradient boosting (URL only),14,0
+1,Gradient boosting (URL only),15,0
+1,Gradient boosting (URL only),16,0
+1,Gradient boosting (URL only),17,0
+1,Gradient boosting (URL only),18,0
+1,Gradient boosting (URL only),19,0
+1,Gradient boosting (URL only),20,0
+1,Gradient boosting (URL only),21,0
+1,Gradient boosting (URL only),22,0
+1,Expert scorecard (rules only),0,0.988897
+1,Expert scorecard (rules only),1,0.976405
+1,Expert scorecard (rules only),2,0.8966
+1,Expert scorecard (rules only),3,0.827897
+1,Expert scorecard (rules only),4,0.652325
+1,Expert scorecard (rules only),5,0.532963
+1,Expert scorecard (rules only),6,0.394171
+1,Expert scorecard (rules only),7,0.455933
+1,Expert scorecard (rules only),8,0.409438
+1,Expert scorecard (rules only),9,0.322693
+1,Expert scorecard (rules only),10,0.430257
+1,Expert scorecard (rules only),11,0.621096
+1,Expert scorecard (rules only),12,0.596808
+1,Expert scorecard (rules only),13,0.808466
+1,Expert scorecard (rules only),14,0.808466
+1,Expert scorecard (rules only),15,0.968772
+1,Expert scorecard (rules only),16,0.968772
+1,Expert scorecard (rules only),17,0.968772
+1,Expert scorecard (rules only),18,0.968772
+1,Expert scorecard (rules only),19,1
+1,Expert scorecard (rules only),20,1
+1,Expert scorecard (rules only),21,0.999306
+1,Expert scorecard (rules only),22,0.999306
+1,KB-ACE,0,0.990285
+1,KB-ACE,1,0.950035
+1,KB-ACE,2,0.910479
+1,KB-ACE,3,0.900763
+1,KB-ACE,4,0.901457
+1,KB-ACE,5,0.906315
+1,KB-ACE,6,0.899375
+1,KB-ACE,7,0.89313
+1,KB-ACE,8,0.88966
+1,KB-ACE,9,0.870229
+1,KB-ACE,10,0.872311
+1,KB-ACE,11,0.877863
+1,KB-ACE,12,0.877863
+1,KB-ACE,13,0.870229
+1,KB-ACE,14,0.870229
+1,KB-ACE,15,0.907009
+1,KB-ACE,16,0.921582
+1,KB-ACE,17,0.923664
+1,KB-ACE,18,0.923664
+1,KB-ACE,19,0.986815
+1,KB-ACE,20,0.985427
+1,KB-ACE,21,0.991672
+1,KB-ACE,22,1
+1,KB-ACE + monotone constraints,0,0.984733
+1,KB-ACE + monotone constraints,1,0.941707
+1,KB-ACE + monotone constraints,2,0.8966
+1,KB-ACE + monotone constraints,3,0.883414
+1,KB-ACE + monotone constraints,4,0.870923
+1,KB-ACE + monotone constraints,5,0.867453
+1,KB-ACE + monotone constraints,6,0.853574
+1,KB-ACE + monotone constraints,7,0.843164
+1,KB-ACE + monotone constraints,8,0.833449
+1,KB-ACE + monotone constraints,9,0.77585
+1,KB-ACE + monotone constraints,10,0.824427
+1,KB-ACE + monotone constraints,11,0.833449
+1,KB-ACE + monotone constraints,12,0.833449
+1,KB-ACE + monotone constraints,13,0.818182
+1,KB-ACE + monotone constraints,14,0.818182
+1,KB-ACE + monotone constraints,15,0.698126
+1,KB-ACE + monotone constraints,16,0.698126
+1,KB-ACE + monotone constraints,17,0.708536
+1,KB-ACE + monotone constraints,18,0.708536
+1,KB-ACE + monotone constraints,19,0.936155
+1,KB-ACE + monotone constraints,20,0.938237
+1,KB-ACE + monotone constraints,21,0.988897
+1,KB-ACE + monotone constraints,22,0.988897
+1,KB-ACE w/o trust anchoring,0,0.986815
+1,KB-ACE w/o trust anchoring,1,0.931992
+1,KB-ACE w/o trust anchoring,2,0.813324
+1,KB-ACE w/o trust anchoring,3,0.780014
+1,KB-ACE w/o trust anchoring,4,0.775156
+1,KB-ACE w/o trust anchoring,5,0.775156
+1,KB-ACE w/o trust anchoring,6,0.775156
+1,KB-ACE w/o trust anchoring,7,0.775156
+1,KB-ACE w/o trust anchoring,8,0.774462
+1,KB-ACE w/o trust anchoring,9,0.698126
+1,KB-ACE w/o trust anchoring,10,0.820958
+1,KB-ACE w/o trust anchoring,11,0.823734
+1,KB-ACE w/o trust anchoring,12,0.848022
+1,KB-ACE w/o trust anchoring,13,0.84941
+1,KB-ACE w/o trust anchoring,14,0.848716
+1,KB-ACE w/o trust anchoring,15,0.843858
+1,KB-ACE w/o trust anchoring,16,0.858432
+1,KB-ACE w/o trust anchoring,17,0.860514
+1,KB-ACE w/o trust anchoring,18,0.85982
+1,KB-ACE w/o trust anchoring,19,0.982651
+1,KB-ACE w/o trust anchoring,20,0.981263
+1,KB-ACE w/o trust anchoring,21,0.991672
+1,KB-ACE w/o trust anchoring,22,1
+1,KB-ACE w/o threat augmentation,0,0.997224
+1,KB-ACE w/o threat augmentation,1,0.913255
+1,KB-ACE w/o threat augmentation,2,0.00763359
+1,KB-ACE w/o threat augmentation,3,0.00346981
+1,KB-ACE w/o threat augmentation,4,0
+1,KB-ACE w/o threat augmentation,5,0
+1,KB-ACE w/o threat augmentation,6,0
+1,KB-ACE w/o threat augmentation,7,0
+1,KB-ACE w/o threat augmentation,8,0
+1,KB-ACE w/o threat augmentation,9,0
+1,KB-ACE w/o threat augmentation,10,0
+1,KB-ACE w/o threat augmentation,11,0
+1,KB-ACE w/o threat augmentation,12,0
+1,KB-ACE w/o threat augmentation,13,0
+1,KB-ACE w/o threat augmentation,14,0
+1,KB-ACE w/o threat augmentation,15,0
+1,KB-ACE w/o threat augmentation,16,0
+1,KB-ACE w/o threat augmentation,17,0
+1,KB-ACE w/o threat augmentation,18,0
+1,KB-ACE w/o threat augmentation,19,0
+1,KB-ACE w/o threat augmentation,20,0
+1,KB-ACE w/o threat augmentation,21,0
+1,KB-ACE w/o threat augmentation,22,0
+1,Cost-aware cascade,0,0.997224
+1,Cost-aware cascade,1,0.908397
+1,Cost-aware cascade,2,0
+1,Cost-aware cascade,3,0
+1,Cost-aware cascade,4,0
+1,Cost-aware cascade,5,0
+1,Cost-aware cascade,6,0
+1,Cost-aware cascade,7,0
+1,Cost-aware cascade,8,0
+1,Cost-aware cascade,9,0
+1,Cost-aware cascade,10,0
+1,Cost-aware cascade,11,0
+1,Cost-aware cascade,12,0
+1,Cost-aware cascade,13,0
+1,Cost-aware cascade,14,0
+1,Cost-aware cascade,15,0
+1,Cost-aware cascade,16,0
+1,Cost-aware cascade,17,0
+1,Cost-aware cascade,18,0
+1,Cost-aware cascade,19,0
+1,Cost-aware cascade,20,0
+1,Cost-aware cascade,21,0
+1,Cost-aware cascade,22,0
+2,Logistic regression,0,0.979592
+2,Logistic regression,1,0.695918
+2,Logistic regression,2,0.00816327
+2,Logistic regression,3,0
+2,Logistic regression,4,0
+2,Logistic regression,5,0
+2,Logistic regression,6,0
+2,Logistic regression,7,0
+2,Logistic regression,8,0
+2,Logistic regression,9,0
+2,Logistic regression,10,0
+2,Logistic regression,11,0
+2,Logistic regression,12,0
+2,Logistic regression,13,0
+2,Logistic regression,14,0
+2,Logistic regression,15,0
+2,Logistic regression,16,0
+2,Logistic regression,17,0
+2,Logistic regression,18,0
+2,Logistic regression,19,0
+2,Logistic regression,20,0
+2,Logistic regression,21,0
+2,Logistic regression,22,0
+2,Random forest,0,0.977551
+2,Random forest,1,0.921088
+2,Random forest,2,0.656463
+2,Random forest,3,0.598639
+2,Random forest,4,0.357143
+2,Random forest,5,0.279592
+2,Random forest,6,0.231973
+2,Random forest,7,0.118367
+2,Random forest,8,0.114966
+2,Random forest,9,0.136735
+2,Random forest,10,0.129252
+2,Random forest,11,0.128571
+2,Random forest,12,0.12381
+2,Random forest,13,0.12517
+2,Random forest,14,0.119048
+2,Random forest,15,0.131973
+2,Random forest,16,0.131973
+2,Random forest,17,0.134014
+2,Random forest,18,0.132653
+2,Random forest,19,0.132653
+2,Random forest,20,0.133333
+2,Random forest,21,0.131973
+2,Random forest,22,0.131973
+2,Gradient boosting (all evidence),0,0.996599
+2,Gradient boosting (all evidence),1,0.857143
+2,Gradient boosting (all evidence),2,0.000680272
+2,Gradient boosting (all evidence),3,0.000680272
+2,Gradient boosting (all evidence),4,0
+2,Gradient boosting (all evidence),5,0
+2,Gradient boosting (all evidence),6,0
+2,Gradient boosting (all evidence),7,0
+2,Gradient boosting (all evidence),8,0
+2,Gradient boosting (all evidence),9,0
+2,Gradient boosting (all evidence),10,0
+2,Gradient boosting (all evidence),11,0
+2,Gradient boosting (all evidence),12,0
+2,Gradient boosting (all evidence),13,0
+2,Gradient boosting (all evidence),14,0
+2,Gradient boosting (all evidence),15,0
+2,Gradient boosting (all evidence),16,0
+2,Gradient boosting (all evidence),17,0
+2,Gradient boosting (all evidence),18,0
+2,Gradient boosting (all evidence),19,0
+2,Gradient boosting (all evidence),20,0
+2,Gradient boosting (all evidence),21,0
+2,Gradient boosting (all evidence),22,0
+2,Gradient boosting (URL only),0,0.991837
+2,Gradient boosting (URL only),1,0.991837
+2,Gradient boosting (URL only),2,0
+2,Gradient boosting (URL only),3,0
+2,Gradient boosting (URL only),4,0
+2,Gradient boosting (URL only),5,0
+2,Gradient boosting (URL only),6,0
+2,Gradient boosting (URL only),7,0
+2,Gradient boosting (URL only),8,0
+2,Gradient boosting (URL only),9,0
+2,Gradient boosting (URL only),10,0
+2,Gradient boosting (URL only),11,0
+2,Gradient boosting (URL only),12,0
+2,Gradient boosting (URL only),13,0
+2,Gradient boosting (URL only),14,0
+2,Gradient boosting (URL only),15,0
+2,Gradient boosting (URL only),16,0
+2,Gradient boosting (URL only),17,0
+2,Gradient boosting (URL only),18,0
+2,Gradient boosting (URL only),19,0
+2,Gradient boosting (URL only),20,0
+2,Gradient boosting (URL only),21,0
+2,Gradient boosting (URL only),22,0
+2,Expert scorecard (rules only),0,0.988435
+2,Expert scorecard (rules only),1,0.968027
+2,Expert scorecard (rules only),2,0.87551
+2,Expert scorecard (rules only),3,0.795238
+2,Expert scorecard (rules only),4,0.641497
+2,Expert scorecard (rules only),5,0.517687
+2,Expert scorecard (rules only),6,0.389116
+2,Expert scorecard (rules only),7,0.441497
+2,Expert scorecard (rules only),8,0.393878
+2,Expert scorecard (rules only),9,0.309524
+2,Expert scorecard (rules only),10,0.413605
+2,Expert scorecard (rules only),11,0.614286
+2,Expert scorecard (rules only),12,0.613605
+2,Expert scorecard (rules only),13,0.612245
+2,Expert scorecard (rules only),14,0.588435
+2,Expert scorecard (rules only),15,0.807483
+2,Expert scorecard (rules only),16,0.807483
+2,Expert scorecard (rules only),17,0.964626
+2,Expert scorecard (rules only),18,0.961224
+2,Expert scorecard (rules only),19,0.961224
+2,Expert scorecard (rules only),20,0.960544
+2,Expert scorecard (rules only),21,0.952381
+2,Expert scorecard (rules only),22,0.94966
+2,KB-ACE,0,0.985034
+2,KB-ACE,1,0.922449
+2,KB-ACE,2,0.895238
+2,KB-ACE,3,0.880952
+2,KB-ACE,4,0.880952
+2,KB-ACE,5,0.878912
+2,KB-ACE,6,0.878231
+2,KB-ACE,7,0.876871
+2,KB-ACE,8,0.880272
+2,KB-ACE,9,0.87483
+2,KB-ACE,10,0.871429
+2,KB-ACE,11,0.864626
+2,KB-ACE,12,0.851701
+2,KB-ACE,13,0.856463
+2,KB-ACE,14,0.857823
+2,KB-ACE,15,0.863265
+2,KB-ACE,16,0.872789
+2,KB-ACE,17,0.912245
+2,KB-ACE,18,0.912245
+2,KB-ACE,19,0.912245
+2,KB-ACE,20,0.912925
+2,KB-ACE,21,0.912245
+2,KB-ACE,22,0.912245
+2,KB-ACE + monotone constraints,0,0.977551
+2,KB-ACE + monotone constraints,1,0.944218
+2,KB-ACE + monotone constraints,2,0.889796
+2,KB-ACE + monotone constraints,3,0.872789
+2,KB-ACE + monotone constraints,4,0.865306
+2,KB-ACE + monotone constraints,5,0.863265
+2,KB-ACE + monotone constraints,6,0.858503
+2,KB-ACE + monotone constraints,7,0.858503
+2,KB-ACE + monotone constraints,8,0.854422
+2,KB-ACE + monotone constraints,9,0.846939
+2,KB-ACE + monotone constraints,10,0.835374
+2,KB-ACE + monotone constraints,11,0.829932
+2,KB-ACE + monotone constraints,12,0.82517
+2,KB-ACE + monotone constraints,13,0.82381
+2,KB-ACE + monotone constraints,14,0.823129
+2,KB-ACE + monotone constraints,15,0.833333
+2,KB-ACE + monotone constraints,16,0.836735
+2,KB-ACE + monotone constraints,17,0.710884
+2,KB-ACE + monotone constraints,18,0.737415
+2,KB-ACE + monotone constraints,19,0.75034
+2,KB-ACE + monotone constraints,20,0.731293
+2,KB-ACE + monotone constraints,21,0.729932
+2,KB-ACE + monotone constraints,22,0.714286
+2,KB-ACE w/o trust anchoring,0,0.995238
+2,KB-ACE w/o trust anchoring,1,0.954422
+2,KB-ACE w/o trust anchoring,2,0.821088
+2,KB-ACE w/o trust anchoring,3,0.785034
+2,KB-ACE w/o trust anchoring,4,0.776871
+2,KB-ACE w/o trust anchoring,5,0.77619
+2,KB-ACE w/o trust anchoring,6,0.778231
+2,KB-ACE w/o trust anchoring,7,0.777551
+2,KB-ACE w/o trust anchoring,8,0.80068
+2,KB-ACE w/o trust anchoring,9,0.713605
+2,KB-ACE w/o trust anchoring,10,0.811565
+2,KB-ACE w/o trust anchoring,11,0.811565
+2,KB-ACE w/o trust anchoring,12,0.802041
+2,KB-ACE w/o trust anchoring,13,0.804762
+2,KB-ACE w/o trust anchoring,14,0.844218
+2,KB-ACE w/o trust anchoring,15,0.842857
+2,KB-ACE w/o trust anchoring,16,0.848299
+2,KB-ACE w/o trust anchoring,17,0.844218
+2,KB-ACE w/o trust anchoring,18,0.844218
+2,KB-ACE w/o trust anchoring,19,0.844218
+2,KB-ACE w/o trust anchoring,20,0.852381
+2,KB-ACE w/o trust anchoring,21,0.844218
+2,KB-ACE w/o trust anchoring,22,0.844218
+2,KB-ACE w/o threat augmentation,0,0.993197
+2,KB-ACE w/o threat augmentation,1,0.870068
+2,KB-ACE w/o threat augmentation,2,0
+2,KB-ACE w/o threat augmentation,3,0
+2,KB-ACE w/o threat augmentation,4,0
+2,KB-ACE w/o threat augmentation,5,0
+2,KB-ACE w/o threat augmentation,6,0
+2,KB-ACE w/o threat augmentation,7,0
+2,KB-ACE w/o threat augmentation,8,0
+2,KB-ACE w/o threat augmentation,9,0
+2,KB-ACE w/o threat augmentation,10,0
+2,KB-ACE w/o threat augmentation,11,0
+2,KB-ACE w/o threat augmentation,12,0
+2,KB-ACE w/o threat augmentation,13,0
+2,KB-ACE w/o threat augmentation,14,0
+2,KB-ACE w/o threat augmentation,15,0
+2,KB-ACE w/o threat augmentation,16,0
+2,KB-ACE w/o threat augmentation,17,0
+2,KB-ACE w/o threat augmentation,18,0
+2,KB-ACE w/o threat augmentation,19,0
+2,KB-ACE w/o threat augmentation,20,0
+2,KB-ACE w/o threat augmentation,21,0
+2,KB-ACE w/o threat augmentation,22,0
+2,Cost-aware cascade,0,0.990476
+2,Cost-aware cascade,1,0.862585
+2,Cost-aware cascade,2,0
+2,Cost-aware cascade,3,0
+2,Cost-aware cascade,4,0
+2,Cost-aware cascade,5,0
+2,Cost-aware cascade,6,0
+2,Cost-aware cascade,7,0
+2,Cost-aware cascade,8,0
+2,Cost-aware cascade,9,0
+2,Cost-aware cascade,10,0
+2,Cost-aware cascade,11,0
+2,Cost-aware cascade,12,0
+2,Cost-aware cascade,13,0
+2,Cost-aware cascade,14,0
+2,Cost-aware cascade,15,0
+2,Cost-aware cascade,16,0
+2,Cost-aware cascade,17,0
+2,Cost-aware cascade,18,0
+2,Cost-aware cascade,19,0
+2,Cost-aware cascade,20,0
+2,Cost-aware cascade,21,0
+2,Cost-aware cascade,22,0
+3,Logistic regression,0,0.978814
+3,Logistic regression,1,0.716808
+3,Logistic regression,2,0.00564972
+3,Logistic regression,3,0
+3,Logistic regression,4,0
+3,Logistic regression,5,0
+3,Logistic regression,6,0
+3,Logistic regression,7,0
+3,Logistic regression,8,0
+3,Logistic regression,9,0
+3,Logistic regression,10,0
+3,Logistic regression,11,0
+3,Logistic regression,12,0
+3,Logistic regression,13,0
+3,Logistic regression,14,0
+3,Logistic regression,15,0
+3,Logistic regression,16,0
+3,Logistic regression,17,0
+3,Logistic regression,18,0
+3,Logistic regression,19,0
+3,Logistic regression,20,0
+3,Logistic regression,21,0
+3,Logistic regression,22,0
+3,Random forest,0,0.993644
+3,Random forest,1,0.941384
+3,Random forest,2,0.757062
+3,Random forest,3,0.677966
+3,Random forest,4,0.641949
+3,Random forest,5,0.392655
+3,Random forest,6,0.273305
+3,Random forest,7,0.242938
+3,Random forest,8,0.25
+3,Random forest,9,0.262712
+3,Random forest,10,0.256356
+3,Random forest,11,0.250706
+3,Random forest,12,0.271186
+3,Random forest,13,0.271186
+3,Random forest,14,0.264124
+3,Random forest,15,0.198446
+3,Random forest,16,0.199153
+3,Random forest,17,0.208333
+3,Random forest,18,0.216808
+3,Random forest,19,0.215395
+3,Random forest,20,0.224576
+3,Random forest,21,0.224576
+3,Random forest,22,0.222458
+3,Gradient boosting (all evidence),0,0.997175
+3,Gradient boosting (all evidence),1,0.894068
+3,Gradient boosting (all evidence),2,0.0289548
+3,Gradient boosting (all evidence),3,0.00988701
+3,Gradient boosting (all evidence),4,0.00706215
+3,Gradient boosting (all evidence),5,0
+3,Gradient boosting (all evidence),6,0
+3,Gradient boosting (all evidence),7,0
+3,Gradient boosting (all evidence),8,0
+3,Gradient boosting (all evidence),9,0
+3,Gradient boosting (all evidence),10,0
+3,Gradient boosting (all evidence),11,0
+3,Gradient boosting (all evidence),12,0
+3,Gradient boosting (all evidence),13,0
+3,Gradient boosting (all evidence),14,0
+3,Gradient boosting (all evidence),15,0
+3,Gradient boosting (all evidence),16,0
+3,Gradient boosting (all evidence),17,0
+3,Gradient boosting (all evidence),18,0
+3,Gradient boosting (all evidence),19,0
+3,Gradient boosting (all evidence),20,0
+3,Gradient boosting (all evidence),21,0
+3,Gradient boosting (all evidence),22,0
+3,Gradient boosting (URL only),0,0.997175
+3,Gradient boosting (URL only),1,0.997175
+3,Gradient boosting (URL only),2,0
+3,Gradient boosting (URL only),3,0
+3,Gradient boosting (URL only),4,0
+3,Gradient boosting (URL only),5,0
+3,Gradient boosting (URL only),6,0
+3,Gradient boosting (URL only),7,0
+3,Gradient boosting (URL only),8,0
+3,Gradient boosting (URL only),9,0
+3,Gradient boosting (URL only),10,0
+3,Gradient boosting (URL only),11,0
+3,Gradient boosting (URL only),12,0
+3,Gradient boosting (URL only),13,0
+3,Gradient boosting (URL only),14,0
+3,Gradient boosting (URL only),15,0
+3,Gradient boosting (URL only),16,0
+3,Gradient boosting (URL only),17,0
+3,Gradient boosting (URL only),18,0
+3,Gradient boosting (URL only),19,0
+3,Gradient boosting (URL only),20,0
+3,Gradient boosting (URL only),21,0
+3,Gradient boosting (URL only),22,0
+3,Expert scorecard (rules only),0,0.989407
+3,Expert scorecard (rules only),1,0.96822
+3,Expert scorecard (rules only),2,0.894774
+3,Expert scorecard (rules only),3,0.792373
+3,Expert scorecard (rules only),4,0.697034
+3,Expert scorecard (rules only),5,0.538842
+3,Expert scorecard (rules only),6,0.633475
+3,Expert scorecard (rules only),7,0.434322
+3,Expert scorecard (rules only),8,0.653955
+3,Expert scorecard (rules only),9,0.872881
+3,Expert scorecard (rules only),10,0.795198
+3,Expert scorecard (rules only),11,0.596045
+3,Expert scorecard (rules only),12,0.812147
+3,Expert scorecard (rules only),13,0.96822
+3,Expert scorecard (rules only),14,0.962571
+3,Expert scorecard (rules only),15,0.962571
+3,Expert scorecard (rules only),16,0.962571
+3,Expert scorecard (rules only),17,0.998588
+3,Expert scorecard (rules only),18,1
+3,Expert scorecard (rules only),19,1
+3,Expert scorecard (rules only),20,1
+3,Expert scorecard (rules only),21,1
+3,Expert scorecard (rules only),22,1
+3,KB-ACE,0,0.983757
+3,KB-ACE,1,0.936441
+3,KB-ACE,2,0.879237
+3,KB-ACE,3,0.864407
+3,KB-ACE,4,0.86935
+3,KB-ACE,5,0.875706
+3,KB-ACE,6,0.863701
+3,KB-ACE,7,0.845339
+3,KB-ACE,8,0.862288
+3,KB-ACE,9,0.858757
+3,KB-ACE,10,0.855932
+3,KB-ACE,11,0.850989
+3,KB-ACE,12,0.844633
+3,KB-ACE,13,0.860169
+3,KB-ACE,14,0.860876
+3,KB-ACE,15,0.860169
+3,KB-ACE,16,0.866525
+3,KB-ACE,17,0.889124
+3,KB-ACE,18,0.889124
+3,KB-ACE,19,0.905367
+3,KB-ACE,20,0.863701
+3,KB-ACE,21,0.863701
+3,KB-ACE,22,0.863701
+3,KB-ACE + monotone constraints,0,0.982345
+3,KB-ACE + monotone constraints,1,0.947034
+3,KB-ACE + monotone constraints,2,0.882768
+3,KB-ACE + monotone constraints,3,0.861582
+3,KB-ACE + monotone constraints,4,0.850282
+3,KB-ACE + monotone constraints,5,0.831215
+3,KB-ACE + monotone constraints,6,0.81709
+3,KB-ACE + monotone constraints,7,0.794492
+3,KB-ACE + monotone constraints,8,0.820621
+3,KB-ACE + monotone constraints,9,0.829802
+3,KB-ACE + monotone constraints,10,0.829802
+3,KB-ACE + monotone constraints,11,0.824859
+3,KB-ACE + monotone constraints,12,0.819915
+3,KB-ACE + monotone constraints,13,0.736582
+3,KB-ACE + monotone constraints,14,0.736582
+3,KB-ACE + monotone constraints,15,0.723164
+3,KB-ACE + monotone constraints,16,0.723164
+3,KB-ACE + monotone constraints,17,0.779661
+3,KB-ACE + monotone constraints,18,0.851695
+3,KB-ACE + monotone constraints,19,0.858757
+3,KB-ACE + monotone constraints,20,0.664548
+3,KB-ACE + monotone constraints,21,0.685028
+3,KB-ACE + monotone constraints,22,0.689266
+3,KB-ACE w/o trust anchoring,0,0.988701
+3,KB-ACE w/o trust anchoring,1,0.929379
+3,KB-ACE w/o trust anchoring,2,0.758475
+3,KB-ACE w/o trust anchoring,3,0.632768
+3,KB-ACE w/o trust anchoring,4,0.63065
+3,KB-ACE w/o trust anchoring,5,0.634181
+3,KB-ACE w/o trust anchoring,6,0.633475
+3,KB-ACE w/o trust anchoring,7,0.634887
+3,KB-ACE w/o trust anchoring,8,0.751412
+3,KB-ACE w/o trust anchoring,9,0.750706
+3,KB-ACE w/o trust anchoring,10,0.752825
+3,KB-ACE w/o trust anchoring,11,0.785311
+3,KB-ACE w/o trust anchoring,12,0.670198
+3,KB-ACE w/o trust anchoring,13,0.653249
+3,KB-ACE w/o trust anchoring,14,0.805791
+3,KB-ACE w/o trust anchoring,15,0.805791
+3,KB-ACE w/o trust anchoring,16,0.810028
+3,KB-ACE w/o trust anchoring,17,0.829802
+3,KB-ACE w/o trust anchoring,18,0.888418
+3,KB-ACE w/o trust anchoring,19,0.910311
+3,KB-ACE w/o trust anchoring,20,0.843927
+3,KB-ACE w/o trust anchoring,21,0.843927
+3,KB-ACE w/o trust anchoring,22,0.843927
+3,KB-ACE w/o threat augmentation,0,0.997881
+3,KB-ACE w/o threat augmentation,1,0.902542
+3,KB-ACE w/o threat augmentation,2,0.0324859
+3,KB-ACE w/o threat augmentation,3,0.0134181
+3,KB-ACE w/o threat augmentation,4,0.00918079
+3,KB-ACE w/o threat augmentation,5,0
+3,KB-ACE w/o threat augmentation,6,0
+3,KB-ACE w/o threat augmentation,7,0
+3,KB-ACE w/o threat augmentation,8,0
+3,KB-ACE w/o threat augmentation,9,0
+3,KB-ACE w/o threat augmentation,10,0
+3,KB-ACE w/o threat augmentation,11,0
+3,KB-ACE w/o threat augmentation,12,0
+3,KB-ACE w/o threat augmentation,13,0
+3,KB-ACE w/o threat augmentation,14,0
+3,KB-ACE w/o threat augmentation,15,0
+3,KB-ACE w/o threat augmentation,16,0
+3,KB-ACE w/o threat augmentation,17,0
+3,KB-ACE w/o threat augmentation,18,0
+3,KB-ACE w/o threat augmentation,19,0
+3,KB-ACE w/o threat augmentation,20,0
+3,KB-ACE w/o threat augmentation,21,0
+3,KB-ACE w/o threat augmentation,22,0
+3,Cost-aware cascade,0,0.99435
+3,Cost-aware cascade,1,0.889124
+3,Cost-aware cascade,2,0
+3,Cost-aware cascade,3,0
+3,Cost-aware cascade,4,0
+3,Cost-aware cascade,5,0
+3,Cost-aware cascade,6,0
+3,Cost-aware cascade,7,0
+3,Cost-aware cascade,8,0
+3,Cost-aware cascade,9,0
+3,Cost-aware cascade,10,0
+3,Cost-aware cascade,11,0
+3,Cost-aware cascade,12,0
+3,Cost-aware cascade,13,0
+3,Cost-aware cascade,14,0
+3,Cost-aware cascade,15,0
+3,Cost-aware cascade,16,0
+3,Cost-aware cascade,17,0
+3,Cost-aware cascade,18,0
+3,Cost-aware cascade,19,0
+3,Cost-aware cascade,20,0
+3,Cost-aware cascade,21,0
+3,Cost-aware cascade,22,0
+4,Logistic regression,0,0.975359
+4,Logistic regression,1,0.703628
+4,Logistic regression,2,0.00273785
+4,Logistic regression,3,0
+4,Logistic regression,4,0
+4,Logistic regression,5,0
+4,Logistic regression,6,0
+4,Logistic regression,7,0
+4,Logistic regression,8,0
+4,Logistic regression,9,0
+4,Logistic regression,10,0
+4,Logistic regression,11,0
+4,Logistic regression,12,0
+4,Logistic regression,13,0
+4,Logistic regression,14,0
+4,Logistic regression,15,0
+4,Logistic regression,16,0
+4,Logistic regression,17,0
+4,Logistic regression,18,0
+4,Logistic regression,19,0
+4,Logistic regression,20,0
+4,Logistic regression,21,0
+4,Logistic regression,22,0
+4,Random forest,0,0.988364
+4,Random forest,1,0.947296
+4,Random forest,2,0.771389
+4,Random forest,3,0.747433
+4,Random forest,4,0.694045
+4,Random forest,5,0.531828
+4,Random forest,6,0.355921
+4,Random forest,7,0.327858
+4,Random forest,8,0.316906
+4,Random forest,9,0.315537
+4,Random forest,10,0.345654
+4,Random forest,11,0.304586
+4,Random forest,12,0.341547
+4,Random forest,13,0.326489
+4,Random forest,14,0.351814
+4,Random forest,15,0.308693
+4,Random forest,16,0.306639
+4,Random forest,17,0.295003
+4,Random forest,18,0.330595
+4,Random forest,19,0.320329
+4,Random forest,20,0.308693
+4,Random forest,21,0.358658
+4,Random forest,22,0.355921
+4,Gradient boosting (all evidence),0,0.992471
+4,Gradient boosting (all evidence),1,0.925394
+4,Gradient boosting (all evidence),2,0.00684463
+4,Gradient boosting (all evidence),3,0.000684463
+4,Gradient boosting (all evidence),4,0
+4,Gradient boosting (all evidence),5,0
+4,Gradient boosting (all evidence),6,0
+4,Gradient boosting (all evidence),7,0
+4,Gradient boosting (all evidence),8,0
+4,Gradient boosting (all evidence),9,0
+4,Gradient boosting (all evidence),10,0
+4,Gradient boosting (all evidence),11,0
+4,Gradient boosting (all evidence),12,0
+4,Gradient boosting (all evidence),13,0
+4,Gradient boosting (all evidence),14,0
+4,Gradient boosting (all evidence),15,0
+4,Gradient boosting (all evidence),16,0
+4,Gradient boosting (all evidence),17,0
+4,Gradient boosting (all evidence),18,0
+4,Gradient boosting (all evidence),19,0
+4,Gradient boosting (all evidence),20,0
+4,Gradient boosting (all evidence),21,0
+4,Gradient boosting (all evidence),22,0
+4,Gradient boosting (URL only),0,0.990418
+4,Gradient boosting (URL only),1,0.990418
+4,Gradient boosting (URL only),2,0
+4,Gradient boosting (URL only),3,0
+4,Gradient boosting (URL only),4,0
+4,Gradient boosting (URL only),5,0
+4,Gradient boosting (URL only),6,0
+4,Gradient boosting (URL only),7,0
+4,Gradient boosting (URL only),8,0
+4,Gradient boosting (URL only),9,0
+4,Gradient boosting (URL only),10,0
+4,Gradient boosting (URL only),11,0
+4,Gradient boosting (URL only),12,0
+4,Gradient boosting (URL only),13,0
+4,Gradient boosting (URL only),14,0
+4,Gradient boosting (URL only),15,0
+4,Gradient boosting (URL only),16,0
+4,Gradient boosting (URL only),17,0
+4,Gradient boosting (URL only),18,0
+4,Gradient boosting (URL only),19,0
+4,Gradient boosting (URL only),20,0
+4,Gradient boosting (URL only),21,0
+4,Gradient boosting (URL only),22,0
+4,Expert scorecard (rules only),0,0.986311
+4,Expert scorecard (rules only),1,0.964408
+4,Expert scorecard (rules only),2,0.878166
+4,Expert scorecard (rules only),3,0.809719
+4,Expert scorecard (rules only),4,0.707734
+4,Expert scorecard (rules only),5,0.537303
+4,Expert scorecard (rules only),6,0.641342
+4,Expert scorecard (rules only),7,0.459959
+4,Expert scorecard (rules only),8,0.40178
+4,Expert scorecard (rules only),9,0.57358
+4,Expert scorecard (rules only),10,0.4141
+4,Expert scorecard (rules only),11,0.593429
+4,Expert scorecard (rules only),12,0.81588
+4,Expert scorecard (rules only),13,0.807666
+4,Expert scorecard (rules only),14,0.963723
+4,Expert scorecard (rules only),15,0.963723
+4,Expert scorecard (rules only),16,0.963723
+4,Expert scorecard (rules only),17,0.963723
+4,Expert scorecard (rules only),18,0.998631
+4,Expert scorecard (rules only),19,1
+4,Expert scorecard (rules only),20,1
+4,Expert scorecard (rules only),21,1
+4,Expert scorecard (rules only),22,1
+4,KB-ACE,0,0.990418
+4,KB-ACE,1,0.963039
+4,KB-ACE,2,0.937029
+4,KB-ACE,3,0.92334
+4,KB-ACE,4,0.921287
+4,KB-ACE,5,0.909651
+4,KB-ACE,6,0.906229
+4,KB-ACE,7,0.904175
+4,KB-ACE,8,0.890486
+4,KB-ACE,9,0.889117
+4,KB-ACE,10,0.889117
+4,KB-ACE,11,0.887748
+4,KB-ACE,12,0.882957
+4,KB-ACE,13,0.882957
+4,KB-ACE,14,0.92334
+4,KB-ACE,15,0.924025
+4,KB-ACE,16,0.928816
+4,KB-ACE,17,0.928816
+4,KB-ACE,18,0.964408
+4,KB-ACE,19,0.921971
+4,KB-ACE,20,0.921287
+4,KB-ACE,21,0.921287
+4,KB-ACE,22,0.922656
+4,KB-ACE + monotone constraints,0,0.982888
+4,KB-ACE + monotone constraints,1,0.954825
+4,KB-ACE + monotone constraints,2,0.92334
+4,KB-ACE + monotone constraints,3,0.908966
+4,KB-ACE + monotone constraints,4,0.902122
+4,KB-ACE + monotone constraints,5,0.884326
+4,KB-ACE + monotone constraints,6,0.882957
+4,KB-ACE + monotone constraints,7,0.870637
+4,KB-ACE + monotone constraints,8,0.864476
+4,KB-ACE + monotone constraints,9,0.86653
+4,KB-ACE + monotone constraints,10,0.856947
+4,KB-ACE + monotone constraints,11,0.852841
+4,KB-ACE + monotone constraints,12,0.836413
+4,KB-ACE + monotone constraints,13,0.836413
+4,KB-ACE + monotone constraints,14,0.77755
+4,KB-ACE + monotone constraints,15,0.772758
+4,KB-ACE + monotone constraints,16,0.780972
+4,KB-ACE + monotone constraints,17,0.787817
+4,KB-ACE + monotone constraints,18,0.919233
+4,KB-ACE + monotone constraints,19,0.844627
+4,KB-ACE + monotone constraints,20,0.842574
+4,KB-ACE + monotone constraints,21,0.748802
+4,KB-ACE + monotone constraints,22,0.756331
+4,KB-ACE w/o trust anchoring,0,0.984942
+4,KB-ACE w/o trust anchoring,1,0.941136
+4,KB-ACE w/o trust anchoring,2,0.607803
+4,KB-ACE w/o trust anchoring,3,0.063655
+4,KB-ACE w/o trust anchoring,4,0.063655
+4,KB-ACE w/o trust anchoring,5,0.0616016
+4,KB-ACE w/o trust anchoring,6,0.0616016
+4,KB-ACE w/o trust anchoring,7,0.0616016
+4,KB-ACE w/o trust anchoring,8,0.0574949
+4,KB-ACE w/o trust anchoring,9,0.754278
+4,KB-ACE w/o trust anchoring,10,0.772758
+4,KB-ACE w/o trust anchoring,11,0.772758
+4,KB-ACE w/o trust anchoring,12,0.767967
+4,KB-ACE w/o trust anchoring,13,0.767967
+4,KB-ACE w/o trust anchoring,14,0
+4,KB-ACE w/o trust anchoring,15,0
+4,KB-ACE w/o trust anchoring,16,0
+4,KB-ACE w/o trust anchoring,17,0
+4,KB-ACE w/o trust anchoring,18,0
+4,KB-ACE w/o trust anchoring,19,0
+4,KB-ACE w/o trust anchoring,20,0
+4,KB-ACE w/o trust anchoring,21,0
+4,KB-ACE w/o trust anchoring,22,0
+4,KB-ACE w/o threat augmentation,0,0.991786
+4,KB-ACE w/o threat augmentation,1,0.922656
+4,KB-ACE w/o threat augmentation,2,0.00342231
+4,KB-ACE w/o threat augmentation,3,0
+4,KB-ACE w/o threat augmentation,4,0
+4,KB-ACE w/o threat augmentation,5,0
+4,KB-ACE w/o threat augmentation,6,0
+4,KB-ACE w/o threat augmentation,7,0
+4,KB-ACE w/o threat augmentation,8,0
+4,KB-ACE w/o threat augmentation,9,0
+4,KB-ACE w/o threat augmentation,10,0
+4,KB-ACE w/o threat augmentation,11,0
+4,KB-ACE w/o threat augmentation,12,0
+4,KB-ACE w/o threat augmentation,13,0
+4,KB-ACE w/o threat augmentation,14,0
+4,KB-ACE w/o threat augmentation,15,0
+4,KB-ACE w/o threat augmentation,16,0
+4,KB-ACE w/o threat augmentation,17,0
+4,KB-ACE w/o threat augmentation,18,0
+4,KB-ACE w/o threat augmentation,19,0
+4,KB-ACE w/o threat augmentation,20,0
+4,KB-ACE w/o threat augmentation,21,0
+4,KB-ACE w/o threat augmentation,22,0
+4,Cost-aware cascade,0,0.991786
+4,Cost-aware cascade,1,0.90486
+4,Cost-aware cascade,2,0
+4,Cost-aware cascade,3,0
+4,Cost-aware cascade,4,0
+4,Cost-aware cascade,5,0
+4,Cost-aware cascade,6,0
+4,Cost-aware cascade,7,0
+4,Cost-aware cascade,8,0
+4,Cost-aware cascade,9,0
+4,Cost-aware cascade,10,0
+4,Cost-aware cascade,11,0
+4,Cost-aware cascade,12,0
+4,Cost-aware cascade,13,0
+4,Cost-aware cascade,14,0
+4,Cost-aware cascade,15,0
+4,Cost-aware cascade,16,0
+4,Cost-aware cascade,17,0
+4,Cost-aware cascade,18,0
+4,Cost-aware cascade,19,0
+4,Cost-aware cascade,20,0
+4,Cost-aware cascade,21,0
+4,Cost-aware cascade,22,0
+5,Logistic regression,0,0.980289
+5,Logistic regression,1,0.727989
+5,Logistic regression,2,0.00131406
+5,Logistic regression,3,0.00065703
+5,Logistic regression,4,0
+5,Logistic regression,5,0
+5,Logistic regression,6,0
+5,Logistic regression,7,0
+5,Logistic regression,8,0
+5,Logistic regression,9,0
+5,Logistic regression,10,0
+5,Logistic regression,11,0
+5,Logistic regression,12,0
+5,Logistic regression,13,0
+5,Logistic regression,14,0
+5,Logistic regression,15,0
+5,Logistic regression,16,0
+5,Logistic regression,17,0
+5,Logistic regression,18,0
+5,Logistic regression,19,0
+5,Logistic regression,20,0
+5,Logistic regression,21,0
+5,Logistic regression,22,0
+5,Random forest,0,0.986859
+5,Random forest,1,0.94021
+5,Random forest,2,0.676741
+5,Random forest,3,0.599869
+5,Random forest,4,0.515769
+5,Random forest,5,0.470434
+5,Random forest,6,0.200394
+5,Random forest,7,0.166229
+5,Random forest,8,0.175427
+5,Random forest,9,0.200394
+5,Random forest,10,0.214849
+5,Random forest,11,0.185283
+5,Random forest,12,0.214192
+5,Random forest,13,0.239159
+5,Random forest,14,0.215506
+5,Random forest,15,0.229961
+5,Random forest,16,0.226018
+5,Random forest,17,0.217477
+5,Random forest,18,0.218791
+5,Random forest,19,0.195138
+5,Random forest,20,0.189225
+5,Random forest,21,0.176084
+5,Random forest,22,0.193167
+5,Gradient boosting (all evidence),0,0.989488
+5,Gradient boosting (all evidence),1,0.9159
+5,Gradient boosting (all evidence),2,0.0197109
+5,Gradient boosting (all evidence),3,0.00065703
+5,Gradient boosting (all evidence),4,0
+5,Gradient boosting (all evidence),5,0
+5,Gradient boosting (all evidence),6,0
+5,Gradient boosting (all evidence),7,0
+5,Gradient boosting (all evidence),8,0
+5,Gradient boosting (all evidence),9,0
+5,Gradient boosting (all evidence),10,0
+5,Gradient boosting (all evidence),11,0
+5,Gradient boosting (all evidence),12,0
+5,Gradient boosting (all evidence),13,0
+5,Gradient boosting (all evidence),14,0
+5,Gradient boosting (all evidence),15,0
+5,Gradient boosting (all evidence),16,0
+5,Gradient boosting (all evidence),17,0
+5,Gradient boosting (all evidence),18,0
+5,Gradient boosting (all evidence),19,0
+5,Gradient boosting (all evidence),20,0
+5,Gradient boosting (all evidence),21,0
+5,Gradient boosting (all evidence),22,0
+5,Gradient boosting (URL only),0,0.982917
+5,Gradient boosting (URL only),1,0.982917
+5,Gradient boosting (URL only),2,0
+5,Gradient boosting (URL only),3,0
+5,Gradient boosting (URL only),4,0
+5,Gradient boosting (URL only),5,0
+5,Gradient boosting (URL only),6,0
+5,Gradient boosting (URL only),7,0
+5,Gradient boosting (URL only),8,0
+5,Gradient boosting (URL only),9,0
+5,Gradient boosting (URL only),10,0
+5,Gradient boosting (URL only),11,0
+5,Gradient boosting (URL only),12,0
+5,Gradient boosting (URL only),13,0
+5,Gradient boosting (URL only),14,0
+5,Gradient boosting (URL only),15,0
+5,Gradient boosting (URL only),16,0
+5,Gradient boosting (URL only),17,0
+5,Gradient boosting (URL only),18,0
+5,Gradient boosting (URL only),19,0
+5,Gradient boosting (URL only),20,0
+5,Gradient boosting (URL only),21,0
+5,Gradient boosting (URL only),22,0
+5,Expert scorecard (rules only),0,0.992773
+5,Expert scorecard (rules only),1,0.981603
+5,Expert scorecard (rules only),2,0.889619
+5,Expert scorecard (rules only),3,0.805519
+5,Expert scorecard (rules only),4,0.693167
+5,Expert scorecard (rules only),5,0.496058
+5,Expert scorecard (rules only),6,0.360053
+5,Expert scorecard (rules only),7,0.439553
+5,Expert scorecard (rules only),8,0.389619
+5,Expert scorecard (rules only),9,0.588042
+5,Expert scorecard (rules only),10,0.808147
+5,Expert scorecard (rules only),11,0.798292
+5,Expert scorecard (rules only),12,0.5841
+5,Expert scorecard (rules only),13,0.81406
+5,Expert scorecard (rules only),14,0.81406
+5,Expert scorecard (rules only),15,0.977661
+5,Expert scorecard (rules only),16,0.977661
+5,Expert scorecard (rules only),17,0.977661
+5,Expert scorecard (rules only),18,0.973719
+5,Expert scorecard (rules only),19,0.973062
+5,Expert scorecard (rules only),20,0.973062
+5,Expert scorecard (rules only),21,0.971091
+5,Expert scorecard (rules only),22,0.999343
+5,KB-ACE,0,0.992773
+5,KB-ACE,1,0.968463
+5,KB-ACE,2,0.905388
+5,KB-ACE,3,0.908673
+5,KB-ACE,4,0.906702
+5,KB-ACE,5,0.902102
+5,KB-ACE,6,0.913929
+5,KB-ACE,7,0.917871
+5,KB-ACE,8,0.910644
+5,KB-ACE,9,0.925756
+5,KB-ACE,10,0.923784
+5,KB-ACE,11,0.926413
+5,KB-ACE,12,0.938239
+5,KB-ACE,13,0.928384
+5,KB-ACE,14,0.926413
+5,KB-ACE,15,0.938896
+5,KB-ACE,16,0.938896
+5,KB-ACE,17,0.941524
+5,KB-ACE,18,0.94021
+5,KB-ACE,19,0.938896
+5,KB-ACE,20,0.938896
+5,KB-ACE,21,0.936925
+5,KB-ACE,22,0.929698
+5,KB-ACE + monotone constraints,0,0.985545
+5,KB-ACE + monotone constraints,1,0.96452
+5,KB-ACE + monotone constraints,2,0.917871
+5,KB-ACE + monotone constraints,3,0.900131
+5,KB-ACE + monotone constraints,4,0.896846
+5,KB-ACE + monotone constraints,5,0.886334
+5,KB-ACE + monotone constraints,6,0.879763
+5,KB-ACE + monotone constraints,7,0.879106
+5,KB-ACE + monotone constraints,8,0.875164
+5,KB-ACE + monotone constraints,9,0.868594
+5,KB-ACE + monotone constraints,10,0.877792
+5,KB-ACE + monotone constraints,11,0.876478
+5,KB-ACE + monotone constraints,12,0.875164
+5,KB-ACE + monotone constraints,13,0.873193
+5,KB-ACE + monotone constraints,14,0.873193
+5,KB-ACE + monotone constraints,15,0.729304
+5,KB-ACE + monotone constraints,16,0.72339
+5,KB-ACE + monotone constraints,17,0.706307
+5,KB-ACE + monotone constraints,18,0.708279
+5,KB-ACE + monotone constraints,19,0.708279
+5,KB-ACE + monotone constraints,20,0.722733
+5,KB-ACE + monotone constraints,21,0.714192
+5,KB-ACE + monotone constraints,22,0.886991
+5,KB-ACE w/o trust anchoring,0,0.994744
+5,KB-ACE w/o trust anchoring,1,0.96452
+5,KB-ACE w/o trust anchoring,2,0.795007
+5,KB-ACE w/o trust anchoring,3,0.693824
+5,KB-ACE w/o trust anchoring,4,0.687911
+5,KB-ACE w/o trust anchoring,5,0.687254
+5,KB-ACE w/o trust anchoring,6,0.686597
+5,KB-ACE w/o trust anchoring,7,0.687254
+5,KB-ACE w/o trust anchoring,8,0.773325
+5,KB-ACE w/o trust anchoring,9,0.896189
+5,KB-ACE w/o trust anchoring,10,0.895532
+5,KB-ACE w/o trust anchoring,11,0.908016
+5,KB-ACE w/o trust anchoring,12,0.887648
+5,KB-ACE w/o trust anchoring,13,0.88042
+5,KB-ACE w/o trust anchoring,14,0.875821
+5,KB-ACE w/o trust anchoring,15,0.865966
+5,KB-ACE w/o trust anchoring,16,0.865966
+5,KB-ACE w/o trust anchoring,17,0.865966
+5,KB-ACE w/o trust anchoring,18,0.865966
+5,KB-ACE w/o trust anchoring,19,0.863338
+5,KB-ACE w/o trust anchoring,20,0.863338
+5,KB-ACE w/o trust anchoring,21,0.863338
+5,KB-ACE w/o trust anchoring,22,0.863338
+5,KB-ACE w/o threat augmentation,0,0.990145
+5,KB-ACE w/o threat augmentation,1,0.917214
+5,KB-ACE w/o threat augmentation,2,0.0249671
+5,KB-ACE w/o threat augmentation,3,0.00131406
+5,KB-ACE w/o threat augmentation,4,0
+5,KB-ACE w/o threat augmentation,5,0
+5,KB-ACE w/o threat augmentation,6,0
+5,KB-ACE w/o threat augmentation,7,0
+5,KB-ACE w/o threat augmentation,8,0
+5,KB-ACE w/o threat augmentation,9,0
+5,KB-ACE w/o threat augmentation,10,0
+5,KB-ACE w/o threat augmentation,11,0
+5,KB-ACE w/o threat augmentation,12,0
+5,KB-ACE w/o threat augmentation,13,0
+5,KB-ACE w/o threat augmentation,14,0
+5,KB-ACE w/o threat augmentation,15,0
+5,KB-ACE w/o threat augmentation,16,0
+5,KB-ACE w/o threat augmentation,17,0
+5,KB-ACE w/o threat augmentation,18,0
+5,KB-ACE w/o threat augmentation,19,0
+5,KB-ACE w/o threat augmentation,20,0
+5,KB-ACE w/o threat augmentation,21,0
+5,KB-ACE w/o threat augmentation,22,0
+5,Cost-aware cascade,0,0.987516
+5,Cost-aware cascade,1,0.90276
+5,Cost-aware cascade,2,0
+5,Cost-aware cascade,3,0
+5,Cost-aware cascade,4,0
+5,Cost-aware cascade,5,0
+5,Cost-aware cascade,6,0
+5,Cost-aware cascade,7,0
+5,Cost-aware cascade,8,0
+5,Cost-aware cascade,9,0
+5,Cost-aware cascade,10,0
+5,Cost-aware cascade,11,0
+5,Cost-aware cascade,12,0
+5,Cost-aware cascade,13,0
+5,Cost-aware cascade,14,0
+5,Cost-aware cascade,15,0
+5,Cost-aware cascade,16,0
+5,Cost-aware cascade,17,0
+5,Cost-aware cascade,18,0
+5,Cost-aware cascade,19,0
+5,Cost-aware cascade,20,0
+5,Cost-aware cascade,21,0
+5,Cost-aware cascade,22,0
+6,Logistic regression,0,0.985396
+6,Logistic regression,1,0.740612
+6,Logistic regression,2,0.00625869
+6,Logistic regression,3,0
+6,Logistic regression,4,0
+6,Logistic regression,5,0
+6,Logistic regression,6,0
+6,Logistic regression,7,0
+6,Logistic regression,8,0
+6,Logistic regression,9,0
+6,Logistic regression,10,0
+6,Logistic regression,11,0
+6,Logistic regression,12,0
+6,Logistic regression,13,0
+6,Logistic regression,14,0
+6,Logistic regression,15,0
+6,Logistic regression,16,0
+6,Logistic regression,17,0
+6,Logistic regression,18,0
+6,Logistic regression,19,0
+6,Logistic regression,20,0
+6,Logistic regression,21,0
+6,Logistic regression,22,0
+6,Random forest,0,0.994437
+6,Random forest,1,0.973574
+6,Random forest,2,0.855355
+6,Random forest,3,0.792768
+6,Random forest,4,0.778164
+6,Random forest,5,0.766342
+6,Random forest,6,0.657163
+6,Random forest,7,0.511127
+6,Random forest,8,0.496523
+6,Random forest,9,0.543811
+6,Random forest,10,0.570236
+6,Random forest,11,0.555633
+6,Random forest,12,0.566064
+6,Random forest,13,0.53338
+6,Random forest,14,0.541029
+6,Random forest,15,0.557024
+6,Random forest,16,0.520862
+6,Random forest,17,0.519471
+6,Random forest,18,0.504868
+6,Random forest,19,0.504172
+6,Random forest,20,0.513908
+6,Random forest,21,0.517385
+6,Random forest,22,0.518776
+6,Gradient boosting (all evidence),0,0.997218
+6,Gradient boosting (all evidence),1,0.904033
+6,Gradient boosting (all evidence),2,0.00486787
+6,Gradient boosting (all evidence),3,0.00069541
+6,Gradient boosting (all evidence),4,0
+6,Gradient boosting (all evidence),5,0
+6,Gradient boosting (all evidence),6,0
+6,Gradient boosting (all evidence),7,0
+6,Gradient boosting (all evidence),8,0
+6,Gradient boosting (all evidence),9,0
+6,Gradient boosting (all evidence),10,0
+6,Gradient boosting (all evidence),11,0
+6,Gradient boosting (all evidence),12,0
+6,Gradient boosting (all evidence),13,0
+6,Gradient boosting (all evidence),14,0
+6,Gradient boosting (all evidence),15,0
+6,Gradient boosting (all evidence),16,0
+6,Gradient boosting (all evidence),17,0
+6,Gradient boosting (all evidence),18,0
+6,Gradient boosting (all evidence),19,0
+6,Gradient boosting (all evidence),20,0
+6,Gradient boosting (all evidence),21,0
+6,Gradient boosting (all evidence),22,0
+6,Gradient boosting (URL only),0,0.993046
+6,Gradient boosting (URL only),1,0.993046
+6,Gradient boosting (URL only),2,0
+6,Gradient boosting (URL only),3,0
+6,Gradient boosting (URL only),4,0
+6,Gradient boosting (URL only),5,0
+6,Gradient boosting (URL only),6,0
+6,Gradient boosting (URL only),7,0
+6,Gradient boosting (URL only),8,0
+6,Gradient boosting (URL only),9,0
+6,Gradient boosting (URL only),10,0
+6,Gradient boosting (URL only),11,0
+6,Gradient boosting (URL only),12,0
+6,Gradient boosting (URL only),13,0
+6,Gradient boosting (URL only),14,0
+6,Gradient boosting (URL only),15,0
+6,Gradient boosting (URL only),16,0
+6,Gradient boosting (URL only),17,0
+6,Gradient boosting (URL only),18,0
+6,Gradient boosting (URL only),19,0
+6,Gradient boosting (URL only),20,0
+6,Gradient boosting (URL only),21,0
+6,Gradient boosting (URL only),22,0
+6,Expert scorecard (rules only),0,0.986092
+6,Expert scorecard (rules only),1,0.961057
+6,Expert scorecard (rules only),2,0.885257
+6,Expert scorecard (rules only),3,0.805981
+6,Expert scorecard (rules only),4,0.705146
+6,Expert scorecard (rules only),5,0.491655
+6,Expert scorecard (rules only),6,0.36509
+6,Expert scorecard (rules only),7,0.456189
+6,Expert scorecard (rules only),8,0.400556
+6,Expert scorecard (rules only),9,0.298331
+6,Expert scorecard (rules only),10,0.414465
+6,Expert scorecard (rules only),11,0.390821
+6,Expert scorecard (rules only),12,0.568846
+6,Expert scorecard (rules only),13,0.56815
+6,Expert scorecard (rules only),14,0.566064
+6,Expert scorecard (rules only),15,0.798331
+6,Expert scorecard (rules only),16,0.968707
+6,Expert scorecard (rules only),17,0.96662
+6,Expert scorecard (rules only),18,0.96662
+6,Expert scorecard (rules only),19,0.96662
+6,Expert scorecard (rules only),20,0.999305
+6,Expert scorecard (rules only),21,0.999305
+6,Expert scorecard (rules only),22,0.999305
+6,KB-ACE,0,0.993046
+6,KB-ACE,1,0.968011
+6,KB-ACE,2,0.912378
+6,KB-ACE,3,0.920723
+6,KB-ACE,4,0.930459
+6,KB-ACE,5,0.917942
+6,KB-ACE,6,0.91516
+6,KB-ACE,7,0.904729
+6,KB-ACE,8,0.899166
+6,KB-ACE,9,0.901252
+6,KB-ACE,10,0.920028
+6,KB-ACE,11,0.920028
+6,KB-ACE,12,0.911683
+6,KB-ACE,13,0.904033
+6,KB-ACE,14,0.913074
+6,KB-ACE,15,0.941586
+6,KB-ACE,16,0.941586
+6,KB-ACE,17,0.942281
+6,KB-ACE,18,0.942281
+6,KB-ACE,19,0.942281
+6,KB-ACE,20,0.941586
+6,KB-ACE,21,0.942281
+6,KB-ACE,22,0.942281
+6,KB-ACE + monotone constraints,0,0.991655
+6,KB-ACE + monotone constraints,1,0.976356
+6,KB-ACE + monotone constraints,2,0.911683
+6,KB-ACE + monotone constraints,3,0.894298
+6,KB-ACE + monotone constraints,4,0.890125
+6,KB-ACE + monotone constraints,5,0.861613
+6,KB-ACE + monotone constraints,6,0.856745
+6,KB-ACE + monotone constraints,7,0.856745
+6,KB-ACE + monotone constraints,8,0.851182
+6,KB-ACE + monotone constraints,9,0.826843
+6,KB-ACE + monotone constraints,10,0.835188
+6,KB-ACE + monotone constraints,11,0.833102
+6,KB-ACE + monotone constraints,12,0.827538
+6,KB-ACE + monotone constraints,13,0.815716
+6,KB-ACE + monotone constraints,14,0.815716
+6,KB-ACE + monotone constraints,15,0.814325
+6,KB-ACE + monotone constraints,16,0.764951
+6,KB-ACE + monotone constraints,17,0.770515
+6,KB-ACE + monotone constraints,18,0.774687
+6,KB-ACE + monotone constraints,19,0.779555
+6,KB-ACE + monotone constraints,20,0.848401
+6,KB-ACE + monotone constraints,21,0.880389
+6,KB-ACE + monotone constraints,22,0.88178
+6,KB-ACE w/o trust anchoring,0,0.987483
+6,KB-ACE w/o trust anchoring,1,0.942281
+6,KB-ACE w/o trust anchoring,2,0.80459
+6,KB-ACE w/o trust anchoring,3,0.740612
+6,KB-ACE w/o trust anchoring,4,0.747566
+6,KB-ACE w/o trust anchoring,5,0.738526
+6,KB-ACE w/o trust anchoring,6,0.704451
+6,KB-ACE w/o trust anchoring,7,0.704451
+6,KB-ACE w/o trust anchoring,8,0.748957
+6,KB-ACE w/o trust anchoring,9,0.196801
+6,KB-ACE w/o trust anchoring,10,0.818498
+6,KB-ACE w/o trust anchoring,11,0.842837
+6,KB-ACE w/o trust anchoring,12,0.842837
+6,KB-ACE w/o trust anchoring,13,0.834492
+6,KB-ACE w/o trust anchoring,14,0.844228
+6,KB-ACE w/o trust anchoring,15,0.844924
+6,KB-ACE w/o trust anchoring,16,0.844228
+6,KB-ACE w/o trust anchoring,17,0.844228
+6,KB-ACE w/o trust anchoring,18,0.844228
+6,KB-ACE w/o trust anchoring,19,0.844228
+6,KB-ACE w/o trust anchoring,20,0.844228
+6,KB-ACE w/o trust anchoring,21,0.844228
+6,KB-ACE w/o trust anchoring,22,0.844228
+6,KB-ACE w/o threat augmentation,0,0.998609
+6,KB-ACE w/o threat augmentation,1,0.91516
+6,KB-ACE w/o threat augmentation,2,0.0104312
+6,KB-ACE w/o threat augmentation,3,0.00278164
+6,KB-ACE w/o threat augmentation,4,0
+6,KB-ACE w/o threat augmentation,5,0
+6,KB-ACE w/o threat augmentation,6,0
+6,KB-ACE w/o threat augmentation,7,0
+6,KB-ACE w/o threat augmentation,8,0
+6,KB-ACE w/o threat augmentation,9,0
+6,KB-ACE w/o threat augmentation,10,0
+6,KB-ACE w/o threat augmentation,11,0
+6,KB-ACE w/o threat augmentation,12,0
+6,KB-ACE w/o threat augmentation,13,0
+6,KB-ACE w/o threat augmentation,14,0
+6,KB-ACE w/o threat augmentation,15,0
+6,KB-ACE w/o threat augmentation,16,0
+6,KB-ACE w/o threat augmentation,17,0
+6,KB-ACE w/o threat augmentation,18,0
+6,KB-ACE w/o threat augmentation,19,0
+6,KB-ACE w/o threat augmentation,20,0
+6,KB-ACE w/o threat augmentation,21,0
+6,KB-ACE w/o threat augmentation,22,0
+6,Cost-aware cascade,0,0.99096
+6,Cost-aware cascade,1,0.878303
+6,Cost-aware cascade,2,0
+6,Cost-aware cascade,3,0
+6,Cost-aware cascade,4,0
+6,Cost-aware cascade,5,0
+6,Cost-aware cascade,6,0
+6,Cost-aware cascade,7,0
+6,Cost-aware cascade,8,0
+6,Cost-aware cascade,9,0
+6,Cost-aware cascade,10,0
+6,Cost-aware cascade,11,0
+6,Cost-aware cascade,12,0
+6,Cost-aware cascade,13,0
+6,Cost-aware cascade,14,0
+6,Cost-aware cascade,15,0
+6,Cost-aware cascade,16,0
+6,Cost-aware cascade,17,0
+6,Cost-aware cascade,18,0
+6,Cost-aware cascade,19,0
+6,Cost-aware cascade,20,0
+6,Cost-aware cascade,21,0
+6,Cost-aware cascade,22,0
+7,Logistic regression,0,0.980392
+7,Logistic regression,1,0.69281
+7,Logistic regression,2,0.00326797
+7,Logistic regression,3,0
+7,Logistic regression,4,0
+7,Logistic regression,5,0
+7,Logistic regression,6,0
+7,Logistic regression,7,0
+7,Logistic regression,8,0
+7,Logistic regression,9,0
+7,Logistic regression,10,0
+7,Logistic regression,11,0
+7,Logistic regression,12,0
+7,Logistic regression,13,0
+7,Logistic regression,14,0
+7,Logistic regression,15,0
+7,Logistic regression,16,0
+7,Logistic regression,17,0
+7,Logistic regression,18,0
+7,Logistic regression,19,0
+7,Logistic regression,20,0
+7,Logistic regression,21,0
+7,Logistic regression,22,0
+7,Random forest,0,0.993464
+7,Random forest,1,0.954248
+7,Random forest,2,0.839216
+7,Random forest,3,0.766013
+7,Random forest,4,0.716993
+7,Random forest,5,0.514379
+7,Random forest,6,0.458824
+7,Random forest,7,0.391503
+7,Random forest,8,0.356209
+7,Random forest,9,0.381699
+7,Random forest,10,0.422876
+7,Random forest,11,0.380392
+7,Random forest,12,0.36732
+7,Random forest,13,0.359477
+7,Random forest,14,0.373203
+7,Random forest,15,0.363399
+7,Random forest,16,0.340523
+7,Random forest,17,0.334641
+7,Random forest,18,0.335294
+7,Random forest,19,0.36732
+7,Random forest,20,0.364706
+7,Random forest,21,0.330719
+7,Random forest,22,0.361438
+7,Gradient boosting (all evidence),0,0.992157
+7,Gradient boosting (all evidence),1,0.890196
+7,Gradient boosting (all evidence),2,0.000653595
+7,Gradient boosting (all evidence),3,0
+7,Gradient boosting (all evidence),4,0
+7,Gradient boosting (all evidence),5,0
+7,Gradient boosting (all evidence),6,0
+7,Gradient boosting (all evidence),7,0
+7,Gradient boosting (all evidence),8,0
+7,Gradient boosting (all evidence),9,0
+7,Gradient boosting (all evidence),10,0
+7,Gradient boosting (all evidence),11,0
+7,Gradient boosting (all evidence),12,0
+7,Gradient boosting (all evidence),13,0
+7,Gradient boosting (all evidence),14,0
+7,Gradient boosting (all evidence),15,0
+7,Gradient boosting (all evidence),16,0
+7,Gradient boosting (all evidence),17,0
+7,Gradient boosting (all evidence),18,0
+7,Gradient boosting (all evidence),19,0
+7,Gradient boosting (all evidence),20,0
+7,Gradient boosting (all evidence),21,0
+7,Gradient boosting (all evidence),22,0
+7,Gradient boosting (URL only),0,0.986928
+7,Gradient boosting (URL only),1,0.986928
+7,Gradient boosting (URL only),2,0
+7,Gradient boosting (URL only),3,0
+7,Gradient boosting (URL only),4,0
+7,Gradient boosting (URL only),5,0
+7,Gradient boosting (URL only),6,0
+7,Gradient boosting (URL only),7,0
+7,Gradient boosting (URL only),8,0
+7,Gradient boosting (URL only),9,0
+7,Gradient boosting (URL only),10,0
+7,Gradient boosting (URL only),11,0
+7,Gradient boosting (URL only),12,0
+7,Gradient boosting (URL only),13,0
+7,Gradient boosting (URL only),14,0
+7,Gradient boosting (URL only),15,0
+7,Gradient boosting (URL only),16,0
+7,Gradient boosting (URL only),17,0
+7,Gradient boosting (URL only),18,0
+7,Gradient boosting (URL only),19,0
+7,Gradient boosting (URL only),20,0
+7,Gradient boosting (URL only),21,0
+7,Gradient boosting (URL only),22,0
+7,Expert scorecard (rules only),0,0.991503
+7,Expert scorecard (rules only),1,0.966013
+7,Expert scorecard (rules only),2,0.877124
+7,Expert scorecard (rules only),3,0.782353
+7,Expert scorecard (rules only),4,0.676471
+7,Expert scorecard (rules only),5,0.504575
+7,Expert scorecard (rules only),6,0.366013
+7,Expert scorecard (rules only),7,0.422222
+7,Expert scorecard (rules only),8,0.389542
+7,Expert scorecard (rules only),9,0.310458
+7,Expert scorecard (rules only),10,0.413072
+7,Expert scorecard (rules only),11,0.584967
+7,Expert scorecard (rules only),12,0.809804
+7,Expert scorecard (rules only),13,0.801961
+7,Expert scorecard (rules only),14,0.967974
+7,Expert scorecard (rules only),15,0.967974
+7,Expert scorecard (rules only),16,0.96732
+7,Expert scorecard (rules only),17,0.962092
+7,Expert scorecard (rules only),18,0.962092
+7,Expert scorecard (rules only),19,0.998693
+7,Expert scorecard (rules only),20,0.998693
+7,Expert scorecard (rules only),21,1
+7,Expert scorecard (rules only),22,1
+7,KB-ACE,0,0.991503
+7,KB-ACE,1,0.964052
+7,KB-ACE,2,0.931373
+7,KB-ACE,3,0.915033
+7,KB-ACE,4,0.915686
+7,KB-ACE,5,0.901961
+7,KB-ACE,6,0.904575
+7,KB-ACE,7,0.901961
+7,KB-ACE,8,0.912418
+7,KB-ACE,9,0.905882
+7,KB-ACE,10,0.894771
+7,KB-ACE,11,0.886275
+7,KB-ACE,12,0.914379
+7,KB-ACE,13,0.919608
+7,KB-ACE,14,0.90915
+7,KB-ACE,15,0.912418
+7,KB-ACE,16,0.906536
+7,KB-ACE,17,0.91634
+7,KB-ACE,18,0.91634
+7,KB-ACE,19,0.899346
+7,KB-ACE,20,0.901307
+7,KB-ACE,21,0.92549
+7,KB-ACE,22,0.902614
+7,KB-ACE + monotone constraints,0,0.985621
+7,KB-ACE + monotone constraints,1,0.956209
+7,KB-ACE + monotone constraints,2,0.910458
+7,KB-ACE + monotone constraints,3,0.89085
+7,KB-ACE + monotone constraints,4,0.884967
+7,KB-ACE + monotone constraints,5,0.860784
+7,KB-ACE + monotone constraints,6,0.854248
+7,KB-ACE + monotone constraints,7,0.847712
+7,KB-ACE + monotone constraints,8,0.844444
+7,KB-ACE + monotone constraints,9,0.834641
+7,KB-ACE + monotone constraints,10,0.832026
+7,KB-ACE + monotone constraints,11,0.829412
+7,KB-ACE + monotone constraints,12,0.830719
+7,KB-ACE + monotone constraints,13,0.826797
+7,KB-ACE + monotone constraints,14,0.738562
+7,KB-ACE + monotone constraints,15,0.736601
+7,KB-ACE + monotone constraints,16,0.736601
+7,KB-ACE + monotone constraints,17,0.762092
+7,KB-ACE + monotone constraints,18,0.762745
+7,KB-ACE + monotone constraints,19,0.851634
+7,KB-ACE + monotone constraints,20,0.883007
+7,KB-ACE + monotone constraints,21,0.901307
+7,KB-ACE + monotone constraints,22,0.779085
+7,KB-ACE w/o trust anchoring,0,0.991503
+7,KB-ACE w/o trust anchoring,1,0.945752
+7,KB-ACE w/o trust anchoring,2,0.784314
+7,KB-ACE w/o trust anchoring,3,0.7
+7,KB-ACE w/o trust anchoring,4,0.698039
+7,KB-ACE w/o trust anchoring,5,0.69085
+7,KB-ACE w/o trust anchoring,6,0.69085
+7,KB-ACE w/o trust anchoring,7,0.69085
+7,KB-ACE w/o trust anchoring,8,0.684314
+7,KB-ACE w/o trust anchoring,9,0.175163
+7,KB-ACE w/o trust anchoring,10,0.770588
+7,KB-ACE w/o trust anchoring,11,0.769935
+7,KB-ACE w/o trust anchoring,12,0.732026
+7,KB-ACE w/o trust anchoring,13,0.73268
+7,KB-ACE w/o trust anchoring,14,0
+7,KB-ACE w/o trust anchoring,15,0
+7,KB-ACE w/o trust anchoring,16,0
+7,KB-ACE w/o trust anchoring,17,0
+7,KB-ACE w/o trust anchoring,18,0
+7,KB-ACE w/o trust anchoring,19,0
+7,KB-ACE w/o trust anchoring,20,0
+7,KB-ACE w/o trust anchoring,21,0
+7,KB-ACE w/o trust anchoring,22,0
+7,KB-ACE w/o threat augmentation,0,0.992157
+7,KB-ACE w/o threat augmentation,1,0.882353
+7,KB-ACE w/o threat augmentation,2,0
+7,KB-ACE w/o threat augmentation,3,0
+7,KB-ACE w/o threat augmentation,4,0
+7,KB-ACE w/o threat augmentation,5,0
+7,KB-ACE w/o threat augmentation,6,0
+7,KB-ACE w/o threat augmentation,7,0
+7,KB-ACE w/o threat augmentation,8,0
+7,KB-ACE w/o threat augmentation,9,0
+7,KB-ACE w/o threat augmentation,10,0
+7,KB-ACE w/o threat augmentation,11,0
+7,KB-ACE w/o threat augmentation,12,0
+7,KB-ACE w/o threat augmentation,13,0
+7,KB-ACE w/o threat augmentation,14,0
+7,KB-ACE w/o threat augmentation,15,0
+7,KB-ACE w/o threat augmentation,16,0
+7,KB-ACE w/o threat augmentation,17,0
+7,KB-ACE w/o threat augmentation,18,0
+7,KB-ACE w/o threat augmentation,19,0
+7,KB-ACE w/o threat augmentation,20,0
+7,KB-ACE w/o threat augmentation,21,0
+7,KB-ACE w/o threat augmentation,22,0
+7,Cost-aware cascade,0,0.99281
+7,Cost-aware cascade,1,0.881699
+7,Cost-aware cascade,2,0
+7,Cost-aware cascade,3,0
+7,Cost-aware cascade,4,0
+7,Cost-aware cascade,5,0
+7,Cost-aware cascade,6,0
+7,Cost-aware cascade,7,0
+7,Cost-aware cascade,8,0
+7,Cost-aware cascade,9,0
+7,Cost-aware cascade,10,0
+7,Cost-aware cascade,11,0
+7,Cost-aware cascade,12,0
+7,Cost-aware cascade,13,0
+7,Cost-aware cascade,14,0
+7,Cost-aware cascade,15,0
+7,Cost-aware cascade,16,0
+7,Cost-aware cascade,17,0
+7,Cost-aware cascade,18,0
+7,Cost-aware cascade,19,0
+7,Cost-aware cascade,20,0
+7,Cost-aware cascade,21,0
+7,Cost-aware cascade,22,0
+8,Logistic regression,0,0.982168
+8,Logistic regression,1,0.728959
+8,Logistic regression,2,0.00713267
+8,Logistic regression,3,0
+8,Logistic regression,4,0
+8,Logistic regression,5,0
+8,Logistic regression,6,0
+8,Logistic regression,7,0
+8,Logistic regression,8,0
+8,Logistic regression,9,0
+8,Logistic regression,10,0
+8,Logistic regression,11,0
+8,Logistic regression,12,0
+8,Logistic regression,13,0
+8,Logistic regression,14,0
+8,Logistic regression,15,0
+8,Logistic regression,16,0
+8,Logistic regression,17,0
+8,Logistic regression,18,0
+8,Logistic regression,19,0
+8,Logistic regression,20,0
+8,Logistic regression,21,0
+8,Logistic regression,22,0
+8,Random forest,0,0.999287
+8,Random forest,1,0.970043
+8,Random forest,2,0.831669
+8,Random forest,3,0.756063
+8,Random forest,4,0.743937
+8,Random forest,5,0.624822
+8,Random forest,6,0.596291
+8,Random forest,7,0.464337
+8,Random forest,8,0.460057
+8,Random forest,9,0.489301
+8,Random forest,10,0.535663
+8,Random forest,11,0.550642
+8,Random forest,12,0.551355
+8,Random forest,13,0.53923
+8,Random forest,14,0.514265
+8,Random forest,15,0.538516
+8,Random forest,16,0.544223
+8,Random forest,17,0.607703
+8,Random forest,18,0.601997
+8,Random forest,19,0.586305
+8,Random forest,20,0.57632
+8,Random forest,21,0.559201
+8,Random forest,22,0.559201
+8,Gradient boosting (all evidence),0,0.99572
+8,Gradient boosting (all evidence),1,0.901569
+8,Gradient boosting (all evidence),2,0
+8,Gradient boosting (all evidence),3,0
+8,Gradient boosting (all evidence),4,0
+8,Gradient boosting (all evidence),5,0
+8,Gradient boosting (all evidence),6,0
+8,Gradient boosting (all evidence),7,0
+8,Gradient boosting (all evidence),8,0
+8,Gradient boosting (all evidence),9,0
+8,Gradient boosting (all evidence),10,0
+8,Gradient boosting (all evidence),11,0
+8,Gradient boosting (all evidence),12,0
+8,Gradient boosting (all evidence),13,0
+8,Gradient boosting (all evidence),14,0
+8,Gradient boosting (all evidence),15,0
+8,Gradient boosting (all evidence),16,0
+8,Gradient boosting (all evidence),17,0
+8,Gradient boosting (all evidence),18,0
+8,Gradient boosting (all evidence),19,0
+8,Gradient boosting (all evidence),20,0
+8,Gradient boosting (all evidence),21,0
+8,Gradient boosting (all evidence),22,0
+8,Gradient boosting (URL only),0,0.992154
+8,Gradient boosting (URL only),1,0.992154
+8,Gradient boosting (URL only),2,0
+8,Gradient boosting (URL only),3,0
+8,Gradient boosting (URL only),4,0
+8,Gradient boosting (URL only),5,0
+8,Gradient boosting (URL only),6,0
+8,Gradient boosting (URL only),7,0
+8,Gradient boosting (URL only),8,0
+8,Gradient boosting (URL only),9,0
+8,Gradient boosting (URL only),10,0
+8,Gradient boosting (URL only),11,0
+8,Gradient boosting (URL only),12,0
+8,Gradient boosting (URL only),13,0
+8,Gradient boosting (URL only),14,0
+8,Gradient boosting (URL only),15,0
+8,Gradient boosting (URL only),16,0
+8,Gradient boosting (URL only),17,0
+8,Gradient boosting (URL only),18,0
+8,Gradient boosting (URL only),19,0
+8,Gradient boosting (URL only),20,0
+8,Gradient boosting (URL only),21,0
+8,Gradient boosting (URL only),22,0
+8,Expert scorecard (rules only),0,0.991441
+8,Expert scorecard (rules only),1,0.975036
+8,Expert scorecard (rules only),2,0.891583
+8,Expert scorecard (rules only),3,0.805278
+8,Expert scorecard (rules only),4,0.703994
+8,Expert scorecard (rules only),5,0.523538
+8,Expert scorecard (rules only),6,0.368046
+8,Expert scorecard (rules only),7,0.435093
+8,Expert scorecard (rules only),8,0.380171
+8,Expert scorecard (rules only),9,0.291726
+8,Expert scorecard (rules only),10,0.402282
+8,Expert scorecard (rules only),11,0.583452
+8,Expert scorecard (rules only),12,0.582739
+8,Expert scorecard (rules only),13,0.559201
+8,Expert scorecard (rules only),14,0.555635
+8,Expert scorecard (rules only),15,0.798146
+8,Expert scorecard (rules only),16,0.78602
+8,Expert scorecard (rules only),17,0.974322
+8,Expert scorecard (rules only),18,0.974322
+8,Expert scorecard (rules only),19,0.973609
+8,Expert scorecard (rules only),20,0.973609
+8,Expert scorecard (rules only),21,0.96719
+8,Expert scorecard (rules only),22,0.965763
+8,KB-ACE,0,0.990014
+8,KB-ACE,1,0.938659
+8,KB-ACE,2,0.892297
+8,KB-ACE,3,0.900856
+8,KB-ACE,4,0.901569
+8,KB-ACE,5,0.906562
+8,KB-ACE,6,0.89087
+8,KB-ACE,7,0.884451
+8,KB-ACE,8,0.886591
+8,KB-ACE,9,0.877318
+8,KB-ACE,10,0.880171
+8,KB-ACE,11,0.878745
+8,KB-ACE,12,0.878745
+8,KB-ACE,13,0.877318
+8,KB-ACE,14,0.877318
+8,KB-ACE,15,0.891583
+8,KB-ACE,16,0.889444
+8,KB-ACE,17,0.870899
+8,KB-ACE,18,0.870899
+8,KB-ACE,19,0.877318
+8,KB-ACE,20,0.876605
+8,KB-ACE,21,0.867332
+8,KB-ACE,22,0.867332
+8,KB-ACE + monotone constraints,0,0.994294
+8,KB-ACE + monotone constraints,1,0.96933
+8,KB-ACE + monotone constraints,2,0.901569
+8,KB-ACE + monotone constraints,3,0.885164
+8,KB-ACE + monotone constraints,4,0.878745
+8,KB-ACE + monotone constraints,5,0.871612
+8,KB-ACE + monotone constraints,6,0.859486
+8,KB-ACE + monotone constraints,7,0.859486
+8,KB-ACE + monotone constraints,8,0.85806
+8,KB-ACE + monotone constraints,9,0.85378
+8,KB-ACE + monotone constraints,10,0.85378
+8,KB-ACE + monotone constraints,11,0.85378
+8,KB-ACE + monotone constraints,12,0.853067
+8,KB-ACE + monotone constraints,13,0.850214
+8,KB-ACE + monotone constraints,14,0.849501
+8,KB-ACE + monotone constraints,15,0.8602
+8,KB-ACE + monotone constraints,16,0.858773
+8,KB-ACE + monotone constraints,17,0.78602
+8,KB-ACE + monotone constraints,18,0.782454
+8,KB-ACE + monotone constraints,19,0.78816
+8,KB-ACE + monotone constraints,20,0.800285
+8,KB-ACE + monotone constraints,21,0.793153
+8,KB-ACE + monotone constraints,22,0.785307
+8,KB-ACE w/o trust anchoring,0,0.985735
+8,KB-ACE w/o trust anchoring,1,0.907989
+8,KB-ACE w/o trust anchoring,2,0.821683
+8,KB-ACE w/o trust anchoring,3,0.781027
+8,KB-ACE w/o trust anchoring,4,0.778887
+8,KB-ACE w/o trust anchoring,5,0.774608
+8,KB-ACE w/o trust anchoring,6,0.771755
+8,KB-ACE w/o trust anchoring,7,0.771755
+8,KB-ACE w/o trust anchoring,8,0.81669
+8,KB-ACE w/o trust anchoring,9,0.786733
+8,KB-ACE w/o trust anchoring,10,0.82097
+8,KB-ACE w/o trust anchoring,11,0.82097
+8,KB-ACE w/o trust anchoring,12,0.82311
+8,KB-ACE w/o trust anchoring,13,0.849501
+8,KB-ACE w/o trust anchoring,14,0.849501
+8,KB-ACE w/o trust anchoring,15,0.850927
+8,KB-ACE w/o trust anchoring,16,0.850927
+8,KB-ACE w/o trust anchoring,17,0.844508
+8,KB-ACE w/o trust anchoring,18,0.844508
+8,KB-ACE w/o trust anchoring,19,0.844508
+8,KB-ACE w/o trust anchoring,20,0.844508
+8,KB-ACE w/o trust anchoring,21,0.844508
+8,KB-ACE w/o trust anchoring,22,0.844508
+8,KB-ACE w/o threat augmentation,0,0.997147
+8,KB-ACE w/o threat augmentation,1,0.911555
+8,KB-ACE w/o threat augmentation,2,0
+8,KB-ACE w/o threat augmentation,3,0
+8,KB-ACE w/o threat augmentation,4,0
+8,KB-ACE w/o threat augmentation,5,0
+8,KB-ACE w/o threat augmentation,6,0
+8,KB-ACE w/o threat augmentation,7,0
+8,KB-ACE w/o threat augmentation,8,0
+8,KB-ACE w/o threat augmentation,9,0
+8,KB-ACE w/o threat augmentation,10,0
+8,KB-ACE w/o threat augmentation,11,0
+8,KB-ACE w/o threat augmentation,12,0
+8,KB-ACE w/o threat augmentation,13,0
+8,KB-ACE w/o threat augmentation,14,0
+8,KB-ACE w/o threat augmentation,15,0
+8,KB-ACE w/o threat augmentation,16,0
+8,KB-ACE w/o threat augmentation,17,0
+8,KB-ACE w/o threat augmentation,18,0
+8,KB-ACE w/o threat augmentation,19,0
+8,KB-ACE w/o threat augmentation,20,0
+8,KB-ACE w/o threat augmentation,21,0
+8,KB-ACE w/o threat augmentation,22,0
+8,Cost-aware cascade,0,0.997147
+8,Cost-aware cascade,1,0.883024
+8,Cost-aware cascade,2,0
+8,Cost-aware cascade,3,0
+8,Cost-aware cascade,4,0
+8,Cost-aware cascade,5,0
+8,Cost-aware cascade,6,0
+8,Cost-aware cascade,7,0
+8,Cost-aware cascade,8,0
+8,Cost-aware cascade,9,0
+8,Cost-aware cascade,10,0
+8,Cost-aware cascade,11,0
+8,Cost-aware cascade,12,0
+8,Cost-aware cascade,13,0
+8,Cost-aware cascade,14,0
+8,Cost-aware cascade,15,0
+8,Cost-aware cascade,16,0
+8,Cost-aware cascade,17,0
+8,Cost-aware cascade,18,0
+8,Cost-aware cascade,19,0
+8,Cost-aware cascade,20,0
+8,Cost-aware cascade,21,0
+8,Cost-aware cascade,22,0
+9,Logistic regression,0,0.973805
+9,Logistic regression,1,0.688933
+9,Logistic regression,2,0.00392927
+9,Logistic regression,3,0
+9,Logistic regression,4,0
+9,Logistic regression,5,0
+9,Logistic regression,6,0
+9,Logistic regression,7,0
+9,Logistic regression,8,0
+9,Logistic regression,9,0
+9,Logistic regression,10,0
+9,Logistic regression,11,0
+9,Logistic regression,12,0
+9,Logistic regression,13,0
+9,Logistic regression,14,0
+9,Logistic regression,15,0
+9,Logistic regression,16,0
+9,Logistic regression,17,0
+9,Logistic regression,18,0
+9,Logistic regression,19,0
+9,Logistic regression,20,0
+9,Logistic regression,21,0
+9,Logistic regression,22,0
+9,Random forest,0,0.986902
+9,Random forest,1,0.935822
+9,Random forest,2,0.702685
+9,Random forest,3,0.617551
+9,Random forest,4,0.555992
+9,Random forest,5,0.292076
+9,Random forest,6,0.178127
+9,Random forest,7,0.196464
+9,Random forest,8,0.193189
+9,Random forest,9,0.195809
+9,Random forest,10,0.195809
+9,Random forest,11,0.225278
+9,Random forest,12,0.238376
+9,Random forest,13,0.263916
+9,Random forest,14,0.266536
+9,Random forest,15,0.203012
+9,Random forest,16,0.18926
+9,Random forest,17,0.203667
+9,Random forest,18,0.224623
+9,Random forest,19,0.229208
+9,Random forest,20,0.232482
+9,Random forest,21,0.219384
+9,Random forest,22,0.220039
+9,Gradient boosting (all evidence),0,0.991487
+9,Gradient boosting (all evidence),1,0.909627
+9,Gradient boosting (all evidence),2,0
+9,Gradient boosting (all evidence),3,0
+9,Gradient boosting (all evidence),4,0
+9,Gradient boosting (all evidence),5,0
+9,Gradient boosting (all evidence),6,0
+9,Gradient boosting (all evidence),7,0
+9,Gradient boosting (all evidence),8,0
+9,Gradient boosting (all evidence),9,0
+9,Gradient boosting (all evidence),10,0
+9,Gradient boosting (all evidence),11,0
+9,Gradient boosting (all evidence),12,0
+9,Gradient boosting (all evidence),13,0
+9,Gradient boosting (all evidence),14,0
+9,Gradient boosting (all evidence),15,0
+9,Gradient boosting (all evidence),16,0
+9,Gradient boosting (all evidence),17,0
+9,Gradient boosting (all evidence),18,0
+9,Gradient boosting (all evidence),19,0
+9,Gradient boosting (all evidence),20,0
+9,Gradient boosting (all evidence),21,0
+9,Gradient boosting (all evidence),22,0
+9,Gradient boosting (URL only),0,0.991487
+9,Gradient boosting (URL only),1,0.991487
+9,Gradient boosting (URL only),2,0
+9,Gradient boosting (URL only),3,0
+9,Gradient boosting (URL only),4,0
+9,Gradient boosting (URL only),5,0
+9,Gradient boosting (URL only),6,0
+9,Gradient boosting (URL only),7,0
+9,Gradient boosting (URL only),8,0
+9,Gradient boosting (URL only),9,0
+9,Gradient boosting (URL only),10,0
+9,Gradient boosting (URL only),11,0
+9,Gradient boosting (URL only),12,0
+9,Gradient boosting (URL only),13,0
+9,Gradient boosting (URL only),14,0
+9,Gradient boosting (URL only),15,0
+9,Gradient boosting (URL only),16,0
+9,Gradient boosting (URL only),17,0
+9,Gradient boosting (URL only),18,0
+9,Gradient boosting (URL only),19,0
+9,Gradient boosting (URL only),20,0
+9,Gradient boosting (URL only),21,0
+9,Gradient boosting (URL only),22,0
+9,Expert scorecard (rules only),0,0.984283
+9,Expert scorecard (rules only),1,0.954813
+9,Expert scorecard (rules only),2,0.873608
+9,Expert scorecard (rules only),3,0.790439
+9,Expert scorecard (rules only),4,0.694172
+9,Expert scorecard (rules only),5,0.532417
+9,Expert scorecard (rules only),6,0.635232
+9,Expert scorecard (rules only),7,0.451212
+9,Expert scorecard (rules only),8,0.398821
+9,Expert scorecard (rules only),9,0.314342
+9,Expert scorecard (rules only),10,0.416503
+9,Expert scorecard (rules only),11,0.610347
+9,Expert scorecard (rules only),12,0.831041
+9,Expert scorecard (rules only),13,0.969221
+9,Expert scorecard (rules only),14,0.965291
+9,Expert scorecard (rules only),15,0.965291
+9,Expert scorecard (rules only),16,0.965291
+9,Expert scorecard (rules only),17,0.99738
+9,Expert scorecard (rules only),18,1
+9,Expert scorecard (rules only),19,1
+9,Expert scorecard (rules only),20,1
+9,Expert scorecard (rules only),21,1
+9,Expert scorecard (rules only),22,1
+9,KB-ACE,0,0.980354
+9,KB-ACE,1,0.929928
+9,KB-ACE,2,0.898494
+9,KB-ACE,3,0.880812
+9,KB-ACE,4,0.883432
+9,KB-ACE,5,0.870989
+9,KB-ACE,6,0.86313
+9,KB-ACE,7,0.870989
+9,KB-ACE,8,0.871644
+9,KB-ACE,9,0.870989
+9,KB-ACE,10,0.86444
+9,KB-ACE,11,0.86444
+9,KB-ACE,12,0.858546
+9,KB-ACE,13,0.872299
+9,KB-ACE,14,0.878193
+9,KB-ACE,15,0.874918
+9,KB-ACE,16,0.880157
+9,KB-ACE,17,0.905697
+9,KB-ACE,18,0.878847
+9,KB-ACE,19,0.863785
+9,KB-ACE,20,0.863785
+9,KB-ACE,21,0.870989
+9,KB-ACE,22,0.870989
+9,KB-ACE + monotone constraints,0,0.976424
+9,KB-ACE + monotone constraints,1,0.940406
+9,KB-ACE + monotone constraints,2,0.88998
+9,KB-ACE + monotone constraints,3,0.878193
+9,KB-ACE + monotone constraints,4,0.871644
+9,KB-ACE + monotone constraints,5,0.858546
+9,KB-ACE + monotone constraints,6,0.853307
+9,KB-ACE + monotone constraints,7,0.843484
+9,KB-ACE + monotone constraints,8,0.83628
+9,KB-ACE + monotone constraints,9,0.806156
+9,KB-ACE + monotone constraints,10,0.825802
+9,KB-ACE + monotone constraints,11,0.828422
+9,KB-ACE + monotone constraints,12,0.822528
+9,KB-ACE + monotone constraints,13,0.759659
+9,KB-ACE + monotone constraints,14,0.757695
+9,KB-ACE + monotone constraints,15,0.75442
+9,KB-ACE + monotone constraints,16,0.762279
+9,KB-ACE + monotone constraints,17,0.827112
+9,KB-ACE + monotone constraints,18,0.804846
+9,KB-ACE + monotone constraints,19,0.806156
+9,KB-ACE + monotone constraints,20,0.80812
+9,KB-ACE + monotone constraints,21,0.855927
+9,KB-ACE + monotone constraints,22,0.856582
+9,KB-ACE w/o trust anchoring,0,0.977079
+9,KB-ACE w/o trust anchoring,1,0.907662
+9,KB-ACE w/o trust anchoring,2,0.789784
+9,KB-ACE w/o trust anchoring,3,0.696136
+9,KB-ACE w/o trust anchoring,4,0.692207
+9,KB-ACE w/o trust anchoring,5,0.692207
+9,KB-ACE w/o trust anchoring,6,0.692207
+9,KB-ACE w/o trust anchoring,7,0.692207
+9,KB-ACE w/o trust anchoring,8,0.750491
+9,KB-ACE w/o trust anchoring,9,0.764898
+9,KB-ACE w/o trust anchoring,10,0.75704
+9,KB-ACE w/o trust anchoring,11,0.75704
+9,KB-ACE w/o trust anchoring,12,0.738703
+9,KB-ACE w/o trust anchoring,13,0
+9,KB-ACE w/o trust anchoring,14,0
+9,KB-ACE w/o trust anchoring,15,0
+9,KB-ACE w/o trust anchoring,16,0
+9,KB-ACE w/o trust anchoring,17,0
+9,KB-ACE w/o trust anchoring,18,0
+9,KB-ACE w/o trust anchoring,19,0
+9,KB-ACE w/o trust anchoring,20,0
+9,KB-ACE w/o trust anchoring,21,0
+9,KB-ACE w/o trust anchoring,22,0
+9,KB-ACE w/o threat augmentation,0,0.992141
+9,KB-ACE w/o threat augmentation,1,0.910936
+9,KB-ACE w/o threat augmentation,2,0
+9,KB-ACE w/o threat augmentation,3,0
+9,KB-ACE w/o threat augmentation,4,0
+9,KB-ACE w/o threat augmentation,5,0
+9,KB-ACE w/o threat augmentation,6,0
+9,KB-ACE w/o threat augmentation,7,0
+9,KB-ACE w/o threat augmentation,8,0
+9,KB-ACE w/o threat augmentation,9,0
+9,KB-ACE w/o threat augmentation,10,0
+9,KB-ACE w/o threat augmentation,11,0
+9,KB-ACE w/o threat augmentation,12,0
+9,KB-ACE w/o threat augmentation,13,0
+9,KB-ACE w/o threat augmentation,14,0
+9,KB-ACE w/o threat augmentation,15,0
+9,KB-ACE w/o threat augmentation,16,0
+9,KB-ACE w/o threat augmentation,17,0
+9,KB-ACE w/o threat augmentation,18,0
+9,KB-ACE w/o threat augmentation,19,0
+9,KB-ACE w/o threat augmentation,20,0
+9,KB-ACE w/o threat augmentation,21,0
+9,KB-ACE w/o threat augmentation,22,0
+9,Cost-aware cascade,0,0.990177
+9,Cost-aware cascade,1,0.874918
+9,Cost-aware cascade,2,0
+9,Cost-aware cascade,3,0
+9,Cost-aware cascade,4,0
+9,Cost-aware cascade,5,0
+9,Cost-aware cascade,6,0
+9,Cost-aware cascade,7,0
+9,Cost-aware cascade,8,0
+9,Cost-aware cascade,9,0
+9,Cost-aware cascade,10,0
+9,Cost-aware cascade,11,0
+9,Cost-aware cascade,12,0
+9,Cost-aware cascade,13,0
+9,Cost-aware cascade,14,0
+9,Cost-aware cascade,15,0
+9,Cost-aware cascade,16,0
+9,Cost-aware cascade,17,0
+9,Cost-aware cascade,18,0
+9,Cost-aware cascade,19,0
+9,Cost-aware cascade,20,0
+9,Cost-aware cascade,21,0
+9,Cost-aware cascade,22,0
+10,Logistic regression,0,0.983881
+10,Logistic regression,1,0.765957
+10,Logistic regression,2,0.0103159
+10,Logistic regression,3,0.00128949
+10,Logistic regression,4,0.000644745
+10,Logistic regression,5,0
+10,Logistic regression,6,0
+10,Logistic regression,7,0
+10,Logistic regression,8,0
+10,Logistic regression,9,0
+10,Logistic regression,10,0
+10,Logistic regression,11,0
+10,Logistic regression,12,0
+10,Logistic regression,13,0
+10,Logistic regression,14,0
+10,Logistic regression,15,0
+10,Logistic regression,16,0
+10,Logistic regression,17,0
+10,Logistic regression,18,0
+10,Logistic regression,19,0
+10,Logistic regression,20,0
+10,Logistic regression,21,0
+10,Logistic regression,22,0
+10,Random forest,0,0.997421
+10,Random forest,1,0.951644
+10,Random forest,2,0.850419
+10,Random forest,3,0.7853
+10,Random forest,4,0.77176
+10,Random forest,5,0.644101
+10,Random forest,6,0.502901
+10,Random forest,7,0.531915
+10,Random forest,8,0.514507
+10,Random forest,9,0.510638
+10,Random forest,10,0.54352
+10,Random forest,11,0.586074
+10,Random forest,12,0.575758
+10,Random forest,13,0.560284
+10,Random forest,14,0.610574
+10,Random forest,15,0.606705
+10,Random forest,16,0.605416
+10,Random forest,17,0.598324
+10,Random forest,18,0.596389
+10,Random forest,19,0.595745
+10,Random forest,20,0.576402
+10,Random forest,21,0.573179
+10,Random forest,22,0.582205
+10,Gradient boosting (all evidence),0,0.998066
+10,Gradient boosting (all evidence),1,0.922631
+10,Gradient boosting (all evidence),2,0.00257898
+10,Gradient boosting (all evidence),3,0
+10,Gradient boosting (all evidence),4,0
+10,Gradient boosting (all evidence),5,0
+10,Gradient boosting (all evidence),6,0
+10,Gradient boosting (all evidence),7,0
+10,Gradient boosting (all evidence),8,0
+10,Gradient boosting (all evidence),9,0
+10,Gradient boosting (all evidence),10,0
+10,Gradient boosting (all evidence),11,0
+10,Gradient boosting (all evidence),12,0
+10,Gradient boosting (all evidence),13,0
+10,Gradient boosting (all evidence),14,0
+10,Gradient boosting (all evidence),15,0
+10,Gradient boosting (all evidence),16,0
+10,Gradient boosting (all evidence),17,0
+10,Gradient boosting (all evidence),18,0
+10,Gradient boosting (all evidence),19,0
+10,Gradient boosting (all evidence),20,0
+10,Gradient boosting (all evidence),21,0
+10,Gradient boosting (all evidence),22,0
+10,Gradient boosting (URL only),0,1
+10,Gradient boosting (URL only),1,1
+10,Gradient boosting (URL only),2,0
+10,Gradient boosting (URL only),3,0
+10,Gradient boosting (URL only),4,0
+10,Gradient boosting (URL only),5,0
+10,Gradient boosting (URL only),6,0
+10,Gradient boosting (URL only),7,0
+10,Gradient boosting (URL only),8,0
+10,Gradient boosting (URL only),9,0
+10,Gradient boosting (URL only),10,0
+10,Gradient boosting (URL only),11,0
+10,Gradient boosting (URL only),12,0
+10,Gradient boosting (URL only),13,0
+10,Gradient boosting (URL only),14,0
+10,Gradient boosting (URL only),15,0
+10,Gradient boosting (URL only),16,0
+10,Gradient boosting (URL only),17,0
+10,Gradient boosting (URL only),18,0
+10,Gradient boosting (URL only),19,0
+10,Gradient boosting (URL only),20,0
+10,Gradient boosting (URL only),21,0
+10,Gradient boosting (URL only),22,0
+10,Expert scorecard (rules only),0,0.987105
+10,Expert scorecard (rules only),1,0.969052
+10,Expert scorecard (rules only),2,0.886525
+10,Expert scorecard (rules only),3,0.779497
+10,Expert scorecard (rules only),4,0.676983
+10,Expert scorecard (rules only),5,0.495809
+10,Expert scorecard (rules only),6,0.611219
+10,Expert scorecard (rules only),7,0.411348
+10,Expert scorecard (rules only),8,0.369439
+10,Expert scorecard (rules only),9,0.352031
+10,Expert scorecard (rules only),10,0.520954
+10,Expert scorecard (rules only),11,0.364926
+10,Expert scorecard (rules only),12,0.540297
+10,Expert scorecard (rules only),13,0.540297
+10,Expert scorecard (rules only),14,0.800129
+10,Expert scorecard (rules only),15,0.960671
+10,Expert scorecard (rules only),16,0.960671
+10,Expert scorecard (rules only),17,0.958092
+10,Expert scorecard (rules only),18,0.958092
+10,Expert scorecard (rules only),19,0.958092
+10,Expert scorecard (rules only),20,0.958092
+10,Expert scorecard (rules only),21,0.955513
+10,Expert scorecard (rules only),22,0.954868
+10,KB-ACE,0,0.997421
+10,KB-ACE,1,0.9755
+10,KB-ACE,2,0.916183
+10,KB-ACE,3,0.913604
+10,KB-ACE,4,0.912315
+10,KB-ACE,5,0.905222
+10,KB-ACE,6,0.902643
+10,KB-ACE,7,0.905222
+10,KB-ACE,8,0.897485
+10,KB-ACE,9,0.896196
+10,KB-ACE,10,0.897485
+10,KB-ACE,11,0.895551
+10,KB-ACE,12,0.894262
+10,KB-ACE,13,0.894262
+10,KB-ACE,14,0.929723
+10,KB-ACE,15,0.932946
+10,KB-ACE,16,0.932302
+10,KB-ACE,17,0.932302
+10,KB-ACE,18,0.932302
+10,KB-ACE,19,0.931657
+10,KB-ACE,20,0.933591
+10,KB-ACE,21,0.932302
+10,KB-ACE,22,0.931657
+10,KB-ACE + monotone constraints,0,0.991618
+10,KB-ACE + monotone constraints,1,0.972921
+10,KB-ACE + monotone constraints,2,0.918762
+10,KB-ACE + monotone constraints,3,0.902643
+10,KB-ACE + monotone constraints,4,0.89942
+10,KB-ACE + monotone constraints,5,0.883946
+10,KB-ACE + monotone constraints,6,0.876209
+10,KB-ACE + monotone constraints,7,0.862669
+10,KB-ACE + monotone constraints,8,0.858156
+10,KB-ACE + monotone constraints,9,0.856222
+10,KB-ACE + monotone constraints,10,0.858801
+10,KB-ACE + monotone constraints,11,0.851064
+10,KB-ACE + monotone constraints,12,0.849774
+10,KB-ACE + monotone constraints,13,0.847195
+10,KB-ACE + monotone constraints,14,0.836235
+10,KB-ACE + monotone constraints,15,0.806576
+10,KB-ACE + monotone constraints,16,0.805932
+10,KB-ACE + monotone constraints,17,0.822695
+10,KB-ACE + monotone constraints,18,0.837524
+10,KB-ACE + monotone constraints,19,0.838169
+10,KB-ACE + monotone constraints,20,0.842037
+10,KB-ACE + monotone constraints,21,0.840748
+10,KB-ACE + monotone constraints,22,0.834945
+10,KB-ACE w/o trust anchoring,0,0.994842
+10,KB-ACE w/o trust anchoring,1,0.954868
+10,KB-ACE w/o trust anchoring,2,0.83559
+10,KB-ACE w/o trust anchoring,3,0.72276
+10,KB-ACE w/o trust anchoring,4,0.724049
+10,KB-ACE w/o trust anchoring,5,0.718246
+10,KB-ACE w/o trust anchoring,6,0.717602
+10,KB-ACE w/o trust anchoring,7,0.718891
+10,KB-ACE w/o trust anchoring,8,0.718246
+10,KB-ACE w/o trust anchoring,9,0.704707
+10,KB-ACE w/o trust anchoring,10,0.758221
+10,KB-ACE w/o trust anchoring,11,0.860735
+10,KB-ACE w/o trust anchoring,12,0.86009
+10,KB-ACE w/o trust anchoring,13,0.86009
+10,KB-ACE w/o trust anchoring,14,0.86009
+10,KB-ACE w/o trust anchoring,15,0.86009
+10,KB-ACE w/o trust anchoring,16,0.859446
+10,KB-ACE w/o trust anchoring,17,0.859446
+10,KB-ACE w/o trust anchoring,18,0.859446
+10,KB-ACE w/o trust anchoring,19,0.858156
+10,KB-ACE w/o trust anchoring,20,0.862669
+10,KB-ACE w/o trust anchoring,21,0.86138
+10,KB-ACE w/o trust anchoring,22,0.857511
+10,KB-ACE w/o threat augmentation,0,0.998066
+10,KB-ACE w/o threat augmentation,1,0.897485
+10,KB-ACE w/o threat augmentation,2,0.000644745
+10,KB-ACE w/o threat augmentation,3,0
+10,KB-ACE w/o threat augmentation,4,0
+10,KB-ACE w/o threat augmentation,5,0
+10,KB-ACE w/o threat augmentation,6,0
+10,KB-ACE w/o threat augmentation,7,0
+10,KB-ACE w/o threat augmentation,8,0
+10,KB-ACE w/o threat augmentation,9,0
+10,KB-ACE w/o threat augmentation,10,0
+10,KB-ACE w/o threat augmentation,11,0
+10,KB-ACE w/o threat augmentation,12,0
+10,KB-ACE w/o threat augmentation,13,0
+10,KB-ACE w/o threat augmentation,14,0
+10,KB-ACE w/o threat augmentation,15,0
+10,KB-ACE w/o threat augmentation,16,0
+10,KB-ACE w/o threat augmentation,17,0
+10,KB-ACE w/o threat augmentation,18,0
+10,KB-ACE w/o threat augmentation,19,0
+10,KB-ACE w/o threat augmentation,20,0
+10,KB-ACE w/o threat augmentation,21,0
+10,KB-ACE w/o threat augmentation,22,0
+10,Cost-aware cascade,0,0.994842
+10,Cost-aware cascade,1,0.871051
+10,Cost-aware cascade,2,0
+10,Cost-aware cascade,3,0
+10,Cost-aware cascade,4,0
+10,Cost-aware cascade,5,0
+10,Cost-aware cascade,6,0
+10,Cost-aware cascade,7,0
+10,Cost-aware cascade,8,0
+10,Cost-aware cascade,9,0
+10,Cost-aware cascade,10,0
+10,Cost-aware cascade,11,0
+10,Cost-aware cascade,12,0
+10,Cost-aware cascade,13,0
+10,Cost-aware cascade,14,0
+10,Cost-aware cascade,15,0
+10,Cost-aware cascade,16,0
+10,Cost-aware cascade,17,0
+10,Cost-aware cascade,18,0
+10,Cost-aware cascade,19,0
+10,Cost-aware cascade,20,0
+10,Cost-aware cascade,21,0
+10,Cost-aware cascade,22,0
+11,Logistic regression,0,0.980663
+11,Logistic regression,1,0.702348
+11,Logistic regression,2,0.00276243
+11,Logistic regression,3,0.00138122
+11,Logistic regression,4,0
+11,Logistic regression,5,0
+11,Logistic regression,6,0
+11,Logistic regression,7,0
+11,Logistic regression,8,0
+11,Logistic regression,9,0
+11,Logistic regression,10,0
+11,Logistic regression,11,0
+11,Logistic regression,12,0
+11,Logistic regression,13,0
+11,Logistic regression,14,0
+11,Logistic regression,15,0
+11,Logistic regression,16,0
+11,Logistic regression,17,0
+11,Logistic regression,18,0
+11,Logistic regression,19,0
+11,Logistic regression,20,0
+11,Logistic regression,21,0
+11,Logistic regression,22,0
+11,Random forest,0,0.984116
+11,Random forest,1,0.950276
+11,Random forest,2,0.789365
+11,Random forest,3,0.68232
+11,Random forest,4,0.652624
+11,Random forest,5,0.430939
+11,Random forest,6,0.361878
+11,Random forest,7,0.245856
+11,Random forest,8,0.225138
+11,Random forest,9,0.281768
+11,Random forest,10,0.299724
+11,Random forest,11,0.276243
+11,Random forest,12,0.239641
+11,Random forest,13,0.187845
+11,Random forest,14,0.243094
+11,Random forest,15,0.232735
+11,Random forest,16,0.201657
+11,Random forest,17,0.190608
+11,Random forest,18,0.187155
+11,Random forest,19,0.19337
+11,Random forest,20,0.220304
+11,Random forest,21,0.225829
+11,Random forest,22,0.218923
+11,Gradient boosting (all evidence),0,0.986188
+11,Gradient boosting (all evidence),1,0.879144
+11,Gradient boosting (all evidence),2,0.00138122
+11,Gradient boosting (all evidence),3,0
+11,Gradient boosting (all evidence),4,0
+11,Gradient boosting (all evidence),5,0
+11,Gradient boosting (all evidence),6,0
+11,Gradient boosting (all evidence),7,0
+11,Gradient boosting (all evidence),8,0
+11,Gradient boosting (all evidence),9,0
+11,Gradient boosting (all evidence),10,0
+11,Gradient boosting (all evidence),11,0
+11,Gradient boosting (all evidence),12,0
+11,Gradient boosting (all evidence),13,0
+11,Gradient boosting (all evidence),14,0
+11,Gradient boosting (all evidence),15,0
+11,Gradient boosting (all evidence),16,0
+11,Gradient boosting (all evidence),17,0
+11,Gradient boosting (all evidence),18,0
+11,Gradient boosting (all evidence),19,0
+11,Gradient boosting (all evidence),20,0
+11,Gradient boosting (all evidence),21,0
+11,Gradient boosting (all evidence),22,0
+11,Gradient boosting (URL only),0,0.989641
+11,Gradient boosting (URL only),1,0.989641
+11,Gradient boosting (URL only),2,0
+11,Gradient boosting (URL only),3,0
+11,Gradient boosting (URL only),4,0
+11,Gradient boosting (URL only),5,0
+11,Gradient boosting (URL only),6,0
+11,Gradient boosting (URL only),7,0
+11,Gradient boosting (URL only),8,0
+11,Gradient boosting (URL only),9,0
+11,Gradient boosting (URL only),10,0
+11,Gradient boosting (URL only),11,0
+11,Gradient boosting (URL only),12,0
+11,Gradient boosting (URL only),13,0
+11,Gradient boosting (URL only),14,0
+11,Gradient boosting (URL only),15,0
+11,Gradient boosting (URL only),16,0
+11,Gradient boosting (URL only),17,0
+11,Gradient boosting (URL only),18,0
+11,Gradient boosting (URL only),19,0
+11,Gradient boosting (URL only),20,0
+11,Gradient boosting (URL only),21,0
+11,Gradient boosting (URL only),22,0
+11,Expert scorecard (rules only),0,0.993094
+11,Expert scorecard (rules only),1,0.969613
+11,Expert scorecard (rules only),2,0.878453
+11,Expert scorecard (rules only),3,0.813536
+11,Expert scorecard (rules only),4,0.710635
+11,Expert scorecard (rules only),5,0.551796
+11,Expert scorecard (rules only),6,0.410912
+11,Expert scorecard (rules only),7,0.462017
+11,Expert scorecard (rules only),8,0.411602
+11,Expert scorecard (rules only),9,0.325276
+11,Expert scorecard (rules only),10,0.426796
+11,Expert scorecard (rules only),11,0.401243
+11,Expert scorecard (rules only),12,0.584945
+11,Expert scorecard (rules only),13,0.821133
+11,Expert scorecard (rules only),14,0.958564
+11,Expert scorecard (rules only),15,0.958564
+11,Expert scorecard (rules only),16,0.957873
+11,Expert scorecard (rules only),17,0.957873
+11,Expert scorecard (rules only),18,0.957873
+11,Expert scorecard (rules only),19,0.953729
+11,Expert scorecard (rules only),20,0.998619
+11,Expert scorecard (rules only),21,1
+11,Expert scorecard (rules only),22,1
+11,KB-ACE,0,0.985497
+11,KB-ACE,1,0.957873
+11,KB-ACE,2,0.928867
+11,KB-ACE,3,0.929558
+11,KB-ACE,4,0.926796
+11,KB-ACE,5,0.926796
+11,KB-ACE,6,0.910912
+11,KB-ACE,7,0.901934
+11,KB-ACE,8,0.898481
+11,KB-ACE,9,0.898481
+11,KB-ACE,10,0.898481
+11,KB-ACE,11,0.898481
+11,KB-ACE,12,0.895718
+11,KB-ACE,13,0.893646
+11,KB-ACE,14,0.933702
+11,KB-ACE,15,0.933702
+11,KB-ACE,16,0.933702
+11,KB-ACE,17,0.934392
+11,KB-ACE,18,0.934392
+11,KB-ACE,19,0.934392
+11,KB-ACE,20,0.944061
+11,KB-ACE,21,0.934392
+11,KB-ACE,22,0.934392
+11,KB-ACE + monotone constraints,0,0.982044
+11,KB-ACE + monotone constraints,1,0.944751
+11,KB-ACE + monotone constraints,2,0.90884
+11,KB-ACE + monotone constraints,3,0.89779
+11,KB-ACE + monotone constraints,4,0.890884
+11,KB-ACE + monotone constraints,5,0.875
+11,KB-ACE + monotone constraints,6,0.861878
+11,KB-ACE + monotone constraints,7,0.857735
+11,KB-ACE + monotone constraints,8,0.855663
+11,KB-ACE + monotone constraints,9,0.834945
+11,KB-ACE + monotone constraints,10,0.841851
+11,KB-ACE + monotone constraints,11,0.839779
+11,KB-ACE + monotone constraints,12,0.839779
+11,KB-ACE + monotone constraints,13,0.836326
+11,KB-ACE + monotone constraints,14,0.743094
+11,KB-ACE + monotone constraints,15,0.743094
+11,KB-ACE + monotone constraints,16,0.73826
+11,KB-ACE + monotone constraints,17,0.743094
+11,KB-ACE + monotone constraints,18,0.744475
+11,KB-ACE + monotone constraints,19,0.774862
+11,KB-ACE + monotone constraints,20,0.864641
+11,KB-ACE + monotone constraints,21,0.86395
+11,KB-ACE + monotone constraints,22,0.86395
+11,KB-ACE w/o trust anchoring,0,0.986878
+11,KB-ACE w/o trust anchoring,1,0.935773
+11,KB-ACE w/o trust anchoring,2,0.868094
+11,KB-ACE w/o trust anchoring,3,0.819061
+11,KB-ACE w/o trust anchoring,4,0.816298
+11,KB-ACE w/o trust anchoring,5,0.813536
+11,KB-ACE w/o trust anchoring,6,0.810773
+11,KB-ACE w/o trust anchoring,7,0.810083
+11,KB-ACE w/o trust anchoring,8,0.864641
+11,KB-ACE w/o trust anchoring,9,0.86395
+11,KB-ACE w/o trust anchoring,10,0.866713
+11,KB-ACE w/o trust anchoring,11,0.867403
+11,KB-ACE w/o trust anchoring,12,0.866713
+11,KB-ACE w/o trust anchoring,13,0.86395
+11,KB-ACE w/o trust anchoring,14,0.86326
+11,KB-ACE w/o trust anchoring,15,0.86326
+11,KB-ACE w/o trust anchoring,16,0.86326
+11,KB-ACE w/o trust anchoring,17,0.86395
+11,KB-ACE w/o trust anchoring,18,0.86395
+11,KB-ACE w/o trust anchoring,19,0.86395
+11,KB-ACE w/o trust anchoring,20,0.934392
+11,KB-ACE w/o trust anchoring,21,0.86395
+11,KB-ACE w/o trust anchoring,22,0.86395
+11,KB-ACE w/o threat augmentation,0,0.986878
+11,KB-ACE w/o threat augmentation,1,0.877072
+11,KB-ACE w/o threat augmentation,2,0.000690608
+11,KB-ACE w/o threat augmentation,3,0
+11,KB-ACE w/o threat augmentation,4,0
+11,KB-ACE w/o threat augmentation,5,0
+11,KB-ACE w/o threat augmentation,6,0
+11,KB-ACE w/o threat augmentation,7,0
+11,KB-ACE w/o threat augmentation,8,0
+11,KB-ACE w/o threat augmentation,9,0
+11,KB-ACE w/o threat augmentation,10,0
+11,KB-ACE w/o threat augmentation,11,0
+11,KB-ACE w/o threat augmentation,12,0
+11,KB-ACE w/o threat augmentation,13,0
+11,KB-ACE w/o threat augmentation,14,0
+11,KB-ACE w/o threat augmentation,15,0
+11,KB-ACE w/o threat augmentation,16,0
+11,KB-ACE w/o threat augmentation,17,0
+11,KB-ACE w/o threat augmentation,18,0
+11,KB-ACE w/o threat augmentation,19,0
+11,KB-ACE w/o threat augmentation,20,0
+11,KB-ACE w/o threat augmentation,21,0
+11,KB-ACE w/o threat augmentation,22,0
+11,Cost-aware cascade,0,0.984116
+11,Cost-aware cascade,1,0.860497
+11,Cost-aware cascade,2,0
+11,Cost-aware cascade,3,0
+11,Cost-aware cascade,4,0
+11,Cost-aware cascade,5,0
+11,Cost-aware cascade,6,0
+11,Cost-aware cascade,7,0
+11,Cost-aware cascade,8,0
+11,Cost-aware cascade,9,0
+11,Cost-aware cascade,10,0
+11,Cost-aware cascade,11,0
+11,Cost-aware cascade,12,0
+11,Cost-aware cascade,13,0
+11,Cost-aware cascade,14,0
+11,Cost-aware cascade,15,0
+11,Cost-aware cascade,16,0
+11,Cost-aware cascade,17,0
+11,Cost-aware cascade,18,0
+11,Cost-aware cascade,19,0
+11,Cost-aware cascade,20,0
+11,Cost-aware cascade,21,0
+11,Cost-aware cascade,22,0
+12,Logistic regression,0,0.993776
+12,Logistic regression,1,0.75657
+12,Logistic regression,2,0.00276625
+12,Logistic regression,3,0.000691563
+12,Logistic regression,4,0
+12,Logistic regression,5,0
+12,Logistic regression,6,0
+12,Logistic regression,7,0
+12,Logistic regression,8,0
+12,Logistic regression,9,0
+12,Logistic regression,10,0
+12,Logistic regression,11,0
+12,Logistic regression,12,0
+12,Logistic regression,13,0
+12,Logistic regression,14,0
+12,Logistic regression,15,0
+12,Logistic regression,16,0
+12,Logistic regression,17,0
+12,Logistic regression,18,0
+12,Logistic regression,19,0
+12,Logistic regression,20,0
+12,Logistic regression,21,0
+12,Logistic regression,22,0
+12,Random forest,0,0.993776
+12,Random forest,1,0.961272
+12,Random forest,2,0.807746
+12,Random forest,3,0.739281
+12,Random forest,4,0.544952
+12,Random forest,5,0.441909
+12,Random forest,6,0.38935
+12,Random forest,7,0.302905
+12,Random forest,8,0.36722
+12,Random forest,9,0.384509
+12,Random forest,10,0.399032
+12,Random forest,11,0.382434
+12,Random forest,12,0.384509
+12,Random forest,13,0.327109
+12,Random forest,14,0.307054
+12,Random forest,15,0.371369
+12,Random forest,16,0.387275
+12,Random forest,17,0.383126
+12,Random forest,18,0.381051
+12,Random forest,19,0.381051
+12,Random forest,20,0.387967
+12,Random forest,21,0.399723
+12,Random forest,22,0.378976
+12,Gradient boosting (all evidence),0,0.997234
+12,Gradient boosting (all evidence),1,0.910097
+12,Gradient boosting (all evidence),2,0
+12,Gradient boosting (all evidence),3,0
+12,Gradient boosting (all evidence),4,0
+12,Gradient boosting (all evidence),5,0
+12,Gradient boosting (all evidence),6,0
+12,Gradient boosting (all evidence),7,0
+12,Gradient boosting (all evidence),8,0
+12,Gradient boosting (all evidence),9,0
+12,Gradient boosting (all evidence),10,0
+12,Gradient boosting (all evidence),11,0
+12,Gradient boosting (all evidence),12,0
+12,Gradient boosting (all evidence),13,0
+12,Gradient boosting (all evidence),14,0
+12,Gradient boosting (all evidence),15,0
+12,Gradient boosting (all evidence),16,0
+12,Gradient boosting (all evidence),17,0
+12,Gradient boosting (all evidence),18,0
+12,Gradient boosting (all evidence),19,0
+12,Gradient boosting (all evidence),20,0
+12,Gradient boosting (all evidence),21,0
+12,Gradient boosting (all evidence),22,0
+12,Gradient boosting (URL only),0,1
+12,Gradient boosting (URL only),1,1
+12,Gradient boosting (URL only),2,0
+12,Gradient boosting (URL only),3,0
+12,Gradient boosting (URL only),4,0
+12,Gradient boosting (URL only),5,0
+12,Gradient boosting (URL only),6,0
+12,Gradient boosting (URL only),7,0
+12,Gradient boosting (URL only),8,0
+12,Gradient boosting (URL only),9,0
+12,Gradient boosting (URL only),10,0
+12,Gradient boosting (URL only),11,0
+12,Gradient boosting (URL only),12,0
+12,Gradient boosting (URL only),13,0
+12,Gradient boosting (URL only),14,0
+12,Gradient boosting (URL only),15,0
+12,Gradient boosting (URL only),16,0
+12,Gradient boosting (URL only),17,0
+12,Gradient boosting (URL only),18,0
+12,Gradient boosting (URL only),19,0
+12,Gradient boosting (URL only),20,0
+12,Gradient boosting (URL only),21,0
+12,Gradient boosting (URL only),22,0
+12,Expert scorecard (rules only),0,0.993776
+12,Expert scorecard (rules only),1,0.96888
+12,Expert scorecard (rules only),2,0.88036
+12,Expert scorecard (rules only),3,0.798064
+12,Expert scorecard (rules only),4,0.647303
+12,Expert scorecard (rules only),5,0.522822
+12,Expert scorecard (rules only),6,0.382434
+12,Expert scorecard (rules only),7,0.439834
+12,Expert scorecard (rules only),8,0.328492
+12,Expert scorecard (rules only),9,0.306362
+12,Expert scorecard (rules only),10,0.405947
+12,Expert scorecard (rules only),11,0.587137
+12,Expert scorecard (rules only),12,0.811203
+12,Expert scorecard (rules only),13,0.811203
+12,Expert scorecard (rules only),14,0.793914
+12,Expert scorecard (rules only),15,0.966113
+12,Expert scorecard (rules only),16,0.966113
+12,Expert scorecard (rules only),17,0.966113
+12,Expert scorecard (rules only),18,0.960581
+12,Expert scorecard (rules only),19,0.999308
+12,Expert scorecard (rules only),20,1
+12,Expert scorecard (rules only),21,1
+12,Expert scorecard (rules only),22,1
+12,KB-ACE,0,0.995851
+12,KB-ACE,1,0.952974
+12,KB-ACE,2,0.929461
+12,KB-ACE,3,0.923928
+12,KB-ACE,4,0.915629
+12,KB-ACE,5,0.919087
+12,KB-ACE,6,0.918396
+12,KB-ACE,7,0.914938
+12,KB-ACE,8,0.908714
+12,KB-ACE,9,0.910788
+12,KB-ACE,10,0.912863
+12,KB-ACE,11,0.910097
+12,KB-ACE,12,0.912863
+12,KB-ACE,13,0.912172
+12,KB-ACE,14,0.910097
+12,KB-ACE,15,0.93361
+12,KB-ACE,16,0.937759
+12,KB-ACE,17,0.9426
+12,KB-ACE,18,0.9426
+12,KB-ACE,19,0.946058
+12,KB-ACE,20,0.941217
+12,KB-ACE,21,0.944675
+12,KB-ACE,22,0.952282
+12,KB-ACE + monotone constraints,0,0.993776
+12,KB-ACE + monotone constraints,1,0.955048
+12,KB-ACE + monotone constraints,2,0.932227
+12,KB-ACE + monotone constraints,3,0.918396
+12,KB-ACE + monotone constraints,4,0.90249
+12,KB-ACE + monotone constraints,5,0.901107
+12,KB-ACE + monotone constraints,6,0.891425
+12,KB-ACE + monotone constraints,7,0.890733
+12,KB-ACE + monotone constraints,8,0.878976
+12,KB-ACE + monotone constraints,9,0.875519
+12,KB-ACE + monotone constraints,10,0.877593
+12,KB-ACE + monotone constraints,11,0.885201
+12,KB-ACE + monotone constraints,12,0.883126
+12,KB-ACE + monotone constraints,13,0.881051
+12,KB-ACE + monotone constraints,14,0.879668
+12,KB-ACE + monotone constraints,15,0.792531
+12,KB-ACE + monotone constraints,16,0.79184
+12,KB-ACE + monotone constraints,17,0.801521
+12,KB-ACE + monotone constraints,18,0.833333
+12,KB-ACE + monotone constraints,19,0.914246
+12,KB-ACE + monotone constraints,20,0.912863
+12,KB-ACE + monotone constraints,21,0.956432
+12,KB-ACE + monotone constraints,22,0.967497
+12,KB-ACE w/o trust anchoring,0,0.987552
+12,KB-ACE w/o trust anchoring,1,0.930152
+12,KB-ACE w/o trust anchoring,2,0.524896
+12,KB-ACE w/o trust anchoring,3,0.0781466
+12,KB-ACE w/o trust anchoring,4,0.0760719
+12,KB-ACE w/o trust anchoring,5,0.0760719
+12,KB-ACE w/o trust anchoring,6,0.0739972
+12,KB-ACE w/o trust anchoring,7,0.0739972
+12,KB-ACE w/o trust anchoring,8,0.0138313
+12,KB-ACE w/o trust anchoring,9,0.0186722
+12,KB-ACE w/o trust anchoring,10,0.79668
+12,KB-ACE w/o trust anchoring,11,0.795297
+12,KB-ACE w/o trust anchoring,12,0.785615
+12,KB-ACE w/o trust anchoring,13,0.786999
+12,KB-ACE w/o trust anchoring,14,0.785615
+12,KB-ACE w/o trust anchoring,15,0
+12,KB-ACE w/o trust anchoring,16,0
+12,KB-ACE w/o trust anchoring,17,0
+12,KB-ACE w/o trust anchoring,18,0
+12,KB-ACE w/o trust anchoring,19,0
+12,KB-ACE w/o trust anchoring,20,0
+12,KB-ACE w/o trust anchoring,21,0
+12,KB-ACE w/o trust anchoring,22,0
+12,KB-ACE w/o threat augmentation,0,0.997234
+12,KB-ACE w/o threat augmentation,1,0.923237
+12,KB-ACE w/o threat augmentation,2,0
+12,KB-ACE w/o threat augmentation,3,0
+12,KB-ACE w/o threat augmentation,4,0
+12,KB-ACE w/o threat augmentation,5,0
+12,KB-ACE w/o threat augmentation,6,0
+12,KB-ACE w/o threat augmentation,7,0
+12,KB-ACE w/o threat augmentation,8,0
+12,KB-ACE w/o threat augmentation,9,0
+12,KB-ACE w/o threat augmentation,10,0
+12,KB-ACE w/o threat augmentation,11,0
+12,KB-ACE w/o threat augmentation,12,0
+12,KB-ACE w/o threat augmentation,13,0
+12,KB-ACE w/o threat augmentation,14,0
+12,KB-ACE w/o threat augmentation,15,0
+12,KB-ACE w/o threat augmentation,16,0
+12,KB-ACE w/o threat augmentation,17,0
+12,KB-ACE w/o threat augmentation,18,0
+12,KB-ACE w/o threat augmentation,19,0
+12,KB-ACE w/o threat augmentation,20,0
+12,KB-ACE w/o threat augmentation,21,0
+12,KB-ACE w/o threat augmentation,22,0
+12,Cost-aware cascade,0,0.992393
+12,Cost-aware cascade,1,0.913555
+12,Cost-aware cascade,2,0
+12,Cost-aware cascade,3,0
+12,Cost-aware cascade,4,0
+12,Cost-aware cascade,5,0
+12,Cost-aware cascade,6,0
+12,Cost-aware cascade,7,0
+12,Cost-aware cascade,8,0
+12,Cost-aware cascade,9,0
+12,Cost-aware cascade,10,0
+12,Cost-aware cascade,11,0
+12,Cost-aware cascade,12,0
+12,Cost-aware cascade,13,0
+12,Cost-aware cascade,14,0
+12,Cost-aware cascade,15,0
+12,Cost-aware cascade,16,0
+12,Cost-aware cascade,17,0
+12,Cost-aware cascade,18,0
+12,Cost-aware cascade,19,0
+12,Cost-aware cascade,20,0
+12,Cost-aware cascade,21,0
+12,Cost-aware cascade,22,0
+13,Logistic regression,0,0.977321
+13,Logistic regression,1,0.746988
+13,Logistic regression,2,0.00779589
+13,Logistic regression,3,0
+13,Logistic regression,4,0
+13,Logistic regression,5,0
+13,Logistic regression,6,0
+13,Logistic regression,7,0
+13,Logistic regression,8,0
+13,Logistic regression,9,0
+13,Logistic regression,10,0
+13,Logistic regression,11,0
+13,Logistic regression,12,0
+13,Logistic regression,13,0
+13,Logistic regression,14,0
+13,Logistic regression,15,0
+13,Logistic regression,16,0
+13,Logistic regression,17,0
+13,Logistic regression,18,0
+13,Logistic regression,19,0
+13,Logistic regression,20,0
+13,Logistic regression,21,0
+13,Logistic regression,22,0
+13,Random forest,0,0.992204
+13,Random forest,1,0.949681
+13,Random forest,2,0.747697
+13,Random forest,3,0.658398
+13,Random forest,4,0.622254
+13,Random forest,5,0.372785
+13,Random forest,6,0.274274
+13,Random forest,7,0.162296
+13,Random forest,8,0.136782
+13,Random forest,9,0.192062
+13,Random forest,10,0.208363
+13,Random forest,11,0.184266
+13,Random forest,12,0.167257
+13,Random forest,13,0.153083
+13,Random forest,14,0.148831
+13,Random forest,15,0.114103
+13,Random forest,16,0.109142
+13,Random forest,17,0.106308
+13,Random forest,18,0.0815025
+13,Random forest,19,0.0680369
+13,Random forest,20,0.0914245
+13,Random forest,21,0.0822112
+13,Random forest,22,0.0715804
+13,Gradient boosting (all evidence),0,0.999291
+13,Gradient boosting (all evidence),1,0.926293
+13,Gradient boosting (all evidence),2,0.00283487
+13,Gradient boosting (all evidence),3,0
+13,Gradient boosting (all evidence),4,0
+13,Gradient boosting (all evidence),5,0
+13,Gradient boosting (all evidence),6,0
+13,Gradient boosting (all evidence),7,0
+13,Gradient boosting (all evidence),8,0
+13,Gradient boosting (all evidence),9,0
+13,Gradient boosting (all evidence),10,0
+13,Gradient boosting (all evidence),11,0
+13,Gradient boosting (all evidence),12,0
+13,Gradient boosting (all evidence),13,0
+13,Gradient boosting (all evidence),14,0
+13,Gradient boosting (all evidence),15,0
+13,Gradient boosting (all evidence),16,0
+13,Gradient boosting (all evidence),17,0
+13,Gradient boosting (all evidence),18,0
+13,Gradient boosting (all evidence),19,0
+13,Gradient boosting (all evidence),20,0
+13,Gradient boosting (all evidence),21,0
+13,Gradient boosting (all evidence),22,0
+13,Gradient boosting (URL only),0,0.991495
+13,Gradient boosting (URL only),1,0.991495
+13,Gradient boosting (URL only),2,0
+13,Gradient boosting (URL only),3,0
+13,Gradient boosting (URL only),4,0
+13,Gradient boosting (URL only),5,0
+13,Gradient boosting (URL only),6,0
+13,Gradient boosting (URL only),7,0
+13,Gradient boosting (URL only),8,0
+13,Gradient boosting (URL only),9,0
+13,Gradient boosting (URL only),10,0
+13,Gradient boosting (URL only),11,0
+13,Gradient boosting (URL only),12,0
+13,Gradient boosting (URL only),13,0
+13,Gradient boosting (URL only),14,0
+13,Gradient boosting (URL only),15,0
+13,Gradient boosting (URL only),16,0
+13,Gradient boosting (URL only),17,0
+13,Gradient boosting (URL only),18,0
+13,Gradient boosting (URL only),19,0
+13,Gradient boosting (URL only),20,0
+13,Gradient boosting (URL only),21,0
+13,Gradient boosting (URL only),22,0
+13,Expert scorecard (rules only),0,0.987952
+13,Expert scorecard (rules only),1,0.960312
+13,Expert scorecard (rules only),2,0.88377
+13,Expert scorecard (rules only),3,0.789511
+13,Expert scorecard (rules only),4,0.670446
+13,Expert scorecard (rules only),5,0.533664
+13,Expert scorecard (rules only),6,0.380581
+13,Expert scorecard (rules only),7,0.45854
+13,Expert scorecard (rules only),8,0.404678
+13,Expert scorecard (rules only),9,0.295535
+13,Expert scorecard (rules only),10,0.410347
+13,Expert scorecard (rules only),11,0.592488
+13,Expert scorecard (rules only),12,0.821403
+13,Expert scorecard (rules only),13,0.821403
+13,Expert scorecard (rules only),14,0.805103
+13,Expert scorecard (rules only),15,0.968816
+13,Expert scorecard (rules only),16,0.968816
+13,Expert scorecard (rules only),17,0.968816
+13,Expert scorecard (rules only),18,1
+13,Expert scorecard (rules only),19,1
+13,Expert scorecard (rules only),20,1
+13,Expert scorecard (rules only),21,1
+13,Expert scorecard (rules only),22,1
+13,KB-ACE,0,0.995039
+13,KB-ACE,1,0.96669
+13,KB-ACE,2,0.929128
+13,KB-ACE,3,0.919915
+13,KB-ACE,4,0.920624
+13,KB-ACE,5,0.924876
+13,KB-ACE,6,0.919915
+13,KB-ACE,7,0.919206
+13,KB-ACE,8,0.916371
+13,KB-ACE,9,0.912119
+13,KB-ACE,10,0.905741
+13,KB-ACE,11,0.905741
+13,KB-ACE,12,0.919206
+13,KB-ACE,13,0.918498
+13,KB-ACE,14,0.917789
+13,KB-ACE,15,0.924876
+13,KB-ACE,16,0.925585
+13,KB-ACE,17,0.925585
+13,KB-ACE,18,0.939759
+13,KB-ACE,19,0.984408
+13,KB-ACE,20,0.987952
+13,KB-ACE,21,0.992204
+13,KB-ACE,22,1
+13,KB-ACE + monotone constraints,0,0.992204
+13,KB-ACE + monotone constraints,1,0.973777
+13,KB-ACE + monotone constraints,2,0.934089
+13,KB-ACE + monotone constraints,3,0.921332
+13,KB-ACE + monotone constraints,4,0.919206
+13,KB-ACE + monotone constraints,5,0.909993
+13,KB-ACE + monotone constraints,6,0.890858
+13,KB-ACE + monotone constraints,7,0.890149
+13,KB-ACE + monotone constraints,8,0.87314
+13,KB-ACE + monotone constraints,9,0.86747
+13,KB-ACE + monotone constraints,10,0.866761
+13,KB-ACE + monotone constraints,11,0.86747
+13,KB-ACE + monotone constraints,12,0.86747
+13,KB-ACE + monotone constraints,13,0.861091
+13,KB-ACE + monotone constraints,14,0.859674
+13,KB-ACE + monotone constraints,15,0.799433
+13,KB-ACE + monotone constraints,16,0.80652
+13,KB-ACE + monotone constraints,17,0.805811
+13,KB-ACE + monotone constraints,18,0.909284
+13,KB-ACE + monotone constraints,19,0.924876
+13,KB-ACE + monotone constraints,20,0.90078
+13,KB-ACE + monotone constraints,21,0.934089
+13,KB-ACE + monotone constraints,22,0.93905
+13,KB-ACE w/o trust anchoring,0,0.995748
+13,KB-ACE w/o trust anchoring,1,0.961021
+13,KB-ACE w/o trust anchoring,2,0.754784
+13,KB-ACE w/o trust anchoring,3,0.805811
+13,KB-ACE w/o trust anchoring,4,0.809355
+13,KB-ACE w/o trust anchoring,5,0.804394
+13,KB-ACE w/o trust anchoring,6,0.799433
+13,KB-ACE w/o trust anchoring,7,0.799433
+13,KB-ACE w/o trust anchoring,8,0.830617
+13,KB-ACE w/o trust anchoring,9,0.727144
+13,KB-ACE w/o trust anchoring,10,0.848335
+13,KB-ACE w/o trust anchoring,11,0.847626
+13,KB-ACE w/o trust anchoring,12,0.844791
+13,KB-ACE w/o trust anchoring,13,0.844791
+13,KB-ACE w/o trust anchoring,14,0.880227
+13,KB-ACE w/o trust anchoring,15,0.880936
+13,KB-ACE w/o trust anchoring,16,0.880936
+13,KB-ACE w/o trust anchoring,17,0.880936
+13,KB-ACE w/o trust anchoring,18,0.949681
+13,KB-ACE w/o trust anchoring,19,0.984408
+13,KB-ACE w/o trust anchoring,20,0.985117
+13,KB-ACE w/o trust anchoring,21,0.987243
+13,KB-ACE w/o trust anchoring,22,1
+13,KB-ACE w/o threat augmentation,0,0.999291
+13,KB-ACE w/o threat augmentation,1,0.941176
+13,KB-ACE w/o threat augmentation,2,0.0113395
+13,KB-ACE w/o threat augmentation,3,0
+13,KB-ACE w/o threat augmentation,4,0
+13,KB-ACE w/o threat augmentation,5,0
+13,KB-ACE w/o threat augmentation,6,0
+13,KB-ACE w/o threat augmentation,7,0
+13,KB-ACE w/o threat augmentation,8,0
+13,KB-ACE w/o threat augmentation,9,0
+13,KB-ACE w/o threat augmentation,10,0
+13,KB-ACE w/o threat augmentation,11,0
+13,KB-ACE w/o threat augmentation,12,0
+13,KB-ACE w/o threat augmentation,13,0
+13,KB-ACE w/o threat augmentation,14,0
+13,KB-ACE w/o threat augmentation,15,0
+13,KB-ACE w/o threat augmentation,16,0
+13,KB-ACE w/o threat augmentation,17,0
+13,KB-ACE w/o threat augmentation,18,0
+13,KB-ACE w/o threat augmentation,19,0
+13,KB-ACE w/o threat augmentation,20,0
+13,KB-ACE w/o threat augmentation,21,0
+13,KB-ACE w/o threat augmentation,22,0
+13,Cost-aware cascade,0,0.995748
+13,Cost-aware cascade,1,0.892984
+13,Cost-aware cascade,2,0
+13,Cost-aware cascade,3,0
+13,Cost-aware cascade,4,0
+13,Cost-aware cascade,5,0
+13,Cost-aware cascade,6,0
+13,Cost-aware cascade,7,0
+13,Cost-aware cascade,8,0
+13,Cost-aware cascade,9,0
+13,Cost-aware cascade,10,0
+13,Cost-aware cascade,11,0
+13,Cost-aware cascade,12,0
+13,Cost-aware cascade,13,0
+13,Cost-aware cascade,14,0
+13,Cost-aware cascade,15,0
+13,Cost-aware cascade,16,0
+13,Cost-aware cascade,17,0
+13,Cost-aware cascade,18,0
+13,Cost-aware cascade,19,0
+13,Cost-aware cascade,20,0
+13,Cost-aware cascade,21,0
+13,Cost-aware cascade,22,0
+14,Logistic regression,0,0.977952
+14,Logistic regression,1,0.658606
+14,Logistic regression,2,0.00284495
+14,Logistic regression,3,0
+14,Logistic regression,4,0
+14,Logistic regression,5,0
+14,Logistic regression,6,0
+14,Logistic regression,7,0
+14,Logistic regression,8,0
+14,Logistic regression,9,0
+14,Logistic regression,10,0
+14,Logistic regression,11,0
+14,Logistic regression,12,0
+14,Logistic regression,13,0
+14,Logistic regression,14,0
+14,Logistic regression,15,0
+14,Logistic regression,16,0
+14,Logistic regression,17,0
+14,Logistic regression,18,0
+14,Logistic regression,19,0
+14,Logistic regression,20,0
+14,Logistic regression,21,0
+14,Logistic regression,22,0
+14,Random forest,0,0.978663
+14,Random forest,1,0.911095
+14,Random forest,2,0.652205
+14,Random forest,3,0.588193
+14,Random forest,4,0.320768
+14,Random forest,5,0.22973
+14,Random forest,6,0.148649
+14,Random forest,7,0.0910384
+14,Random forest,8,0.086771
+14,Random forest,9,0.0803698
+14,Random forest,10,0.0803698
+14,Random forest,11,0.114509
+14,Random forest,12,0.116643
+14,Random forest,13,0.116643
+14,Random forest,14,0.098862
+14,Random forest,15,0.06899
+14,Random forest,16,0.0661451
+14,Random forest,17,0.059744
+14,Random forest,18,0.0576102
+14,Random forest,19,0.056899
+14,Random forest,20,0.056899
+14,Random forest,21,0.0704125
+14,Random forest,22,0.0931721
+14,Gradient boosting (all evidence),0,0.989331
+14,Gradient boosting (all evidence),1,0.900427
+14,Gradient boosting (all evidence),2,0.000711238
+14,Gradient boosting (all evidence),3,0
+14,Gradient boosting (all evidence),4,0
+14,Gradient boosting (all evidence),5,0
+14,Gradient boosting (all evidence),6,0
+14,Gradient boosting (all evidence),7,0
+14,Gradient boosting (all evidence),8,0
+14,Gradient boosting (all evidence),9,0
+14,Gradient boosting (all evidence),10,0
+14,Gradient boosting (all evidence),11,0
+14,Gradient boosting (all evidence),12,0
+14,Gradient boosting (all evidence),13,0
+14,Gradient boosting (all evidence),14,0
+14,Gradient boosting (all evidence),15,0
+14,Gradient boosting (all evidence),16,0
+14,Gradient boosting (all evidence),17,0
+14,Gradient boosting (all evidence),18,0
+14,Gradient boosting (all evidence),19,0
+14,Gradient boosting (all evidence),20,0
+14,Gradient boosting (all evidence),21,0
+14,Gradient boosting (all evidence),22,0
+14,Gradient boosting (URL only),0,0.992888
+14,Gradient boosting (URL only),1,0.992888
+14,Gradient boosting (URL only),2,0
+14,Gradient boosting (URL only),3,0
+14,Gradient boosting (URL only),4,0
+14,Gradient boosting (URL only),5,0
+14,Gradient boosting (URL only),6,0
+14,Gradient boosting (URL only),7,0
+14,Gradient boosting (URL only),8,0
+14,Gradient boosting (URL only),9,0
+14,Gradient boosting (URL only),10,0
+14,Gradient boosting (URL only),11,0
+14,Gradient boosting (URL only),12,0
+14,Gradient boosting (URL only),13,0
+14,Gradient boosting (URL only),14,0
+14,Gradient boosting (URL only),15,0
+14,Gradient boosting (URL only),16,0
+14,Gradient boosting (URL only),17,0
+14,Gradient boosting (URL only),18,0
+14,Gradient boosting (URL only),19,0
+14,Gradient boosting (URL only),20,0
+14,Gradient boosting (URL only),21,0
+14,Gradient boosting (URL only),22,0
+14,Expert scorecard (rules only),0,0.986486
+14,Expert scorecard (rules only),1,0.964438
+14,Expert scorecard (rules only),2,0.889758
+14,Expert scorecard (rules only),3,0.79872
+14,Expert scorecard (rules only),4,0.652205
+14,Expert scorecard (rules only),5,0.534851
+14,Expert scorecard (rules only),6,0.380512
+14,Expert scorecard (rules only),7,0.458037
+14,Expert scorecard (rules only),8,0.413229
+14,Expert scorecard (rules only),9,0.596017
+14,Expert scorecard (rules only),10,0.794452
+14,Expert scorecard (rules only),11,0.619488
+14,Expert scorecard (rules only),12,0.810811
+14,Expert scorecard (rules only),13,0.799431
+14,Expert scorecard (rules only),14,0.799431
+14,Expert scorecard (rules only),15,0.962304
+14,Expert scorecard (rules only),16,0.962304
+14,Expert scorecard (rules only),17,0.998578
+14,Expert scorecard (rules only),18,0.998578
+14,Expert scorecard (rules only),19,0.998578
+14,Expert scorecard (rules only),20,0.998578
+14,Expert scorecard (rules only),21,1
+14,Expert scorecard (rules only),22,1
+14,KB-ACE,0,0.984353
+14,KB-ACE,1,0.943812
+14,KB-ACE,2,0.914651
+14,KB-ACE,3,0.905405
+14,KB-ACE,4,0.901138
+14,KB-ACE,5,0.90825
+14,KB-ACE,6,0.886202
+14,KB-ACE,7,0.886913
+14,KB-ACE,8,0.891892
+14,KB-ACE,9,0.891892
+14,KB-ACE,10,0.889758
+14,KB-ACE,11,0.886913
+14,KB-ACE,12,0.915363
+14,KB-ACE,13,0.916074
+14,KB-ACE,14,0.903983
+14,KB-ACE,15,0.907539
+14,KB-ACE,16,0.923186
+14,KB-ACE,17,0.932432
+14,KB-ACE,18,0.933144
+14,KB-ACE,19,0.933144
+14,KB-ACE,20,0.932432
+14,KB-ACE,21,0.933855
+14,KB-ACE,22,0.885491
+14,KB-ACE + monotone constraints,0,0.982219
+14,KB-ACE + monotone constraints,1,0.940967
+14,KB-ACE + monotone constraints,2,0.903983
+14,KB-ACE + monotone constraints,3,0.889758
+14,KB-ACE + monotone constraints,4,0.878378
+14,KB-ACE + monotone constraints,5,0.876245
+14,KB-ACE + monotone constraints,6,0.854908
+14,KB-ACE + monotone constraints,7,0.855619
+14,KB-ACE + monotone constraints,8,0.849929
+14,KB-ACE + monotone constraints,9,0.858464
+14,KB-ACE + monotone constraints,10,0.854196
+14,KB-ACE + monotone constraints,11,0.847795
+14,KB-ACE + monotone constraints,12,0.848506
+14,KB-ACE + monotone constraints,13,0.842817
+14,KB-ACE + monotone constraints,14,0.83926
+14,KB-ACE + monotone constraints,15,0.80441
+14,KB-ACE + monotone constraints,16,0.820768
+14,KB-ACE + monotone constraints,17,0.837127
+14,KB-ACE + monotone constraints,18,0.838549
+14,KB-ACE + monotone constraints,19,0.838549
+14,KB-ACE + monotone constraints,20,0.846373
+14,KB-ACE + monotone constraints,21,0.841394
+14,KB-ACE + monotone constraints,22,0.778094
+14,KB-ACE w/o trust anchoring,0,0.990043
+14,KB-ACE w/o trust anchoring,1,0.945946
+14,KB-ACE w/o trust anchoring,2,0.827169
+14,KB-ACE w/o trust anchoring,3,0.679232
+14,KB-ACE w/o trust anchoring,4,0.674253
+14,KB-ACE w/o trust anchoring,5,0.671408
+14,KB-ACE w/o trust anchoring,6,0.668563
+14,KB-ACE w/o trust anchoring,7,0.668563
+14,KB-ACE w/o trust anchoring,8,0.733997
+14,KB-ACE w/o trust anchoring,9,0.85633
+14,KB-ACE w/o trust anchoring,10,0.855619
+14,KB-ACE w/o trust anchoring,11,0.854908
+14,KB-ACE w/o trust anchoring,12,0.881935
+14,KB-ACE w/o trust anchoring,13,0.929587
+14,KB-ACE w/o trust anchoring,14,0.916074
+14,KB-ACE w/o trust anchoring,15,0.845661
+14,KB-ACE w/o trust anchoring,16,0.85633
+14,KB-ACE w/o trust anchoring,17,0.85633
+14,KB-ACE w/o trust anchoring,18,0.85633
+14,KB-ACE w/o trust anchoring,19,0.85633
+14,KB-ACE w/o trust anchoring,20,0.85633
+14,KB-ACE w/o trust anchoring,21,0.85633
+14,KB-ACE w/o trust anchoring,22,0.85633
+14,KB-ACE w/o threat augmentation,0,0.989331
+14,KB-ACE w/o threat augmentation,1,0.886202
+14,KB-ACE w/o threat augmentation,2,0
+14,KB-ACE w/o threat augmentation,3,0
+14,KB-ACE w/o threat augmentation,4,0
+14,KB-ACE w/o threat augmentation,5,0
+14,KB-ACE w/o threat augmentation,6,0
+14,KB-ACE w/o threat augmentation,7,0
+14,KB-ACE w/o threat augmentation,8,0
+14,KB-ACE w/o threat augmentation,9,0
+14,KB-ACE w/o threat augmentation,10,0
+14,KB-ACE w/o threat augmentation,11,0
+14,KB-ACE w/o threat augmentation,12,0
+14,KB-ACE w/o threat augmentation,13,0
+14,KB-ACE w/o threat augmentation,14,0
+14,KB-ACE w/o threat augmentation,15,0
+14,KB-ACE w/o threat augmentation,16,0
+14,KB-ACE w/o threat augmentation,17,0
+14,KB-ACE w/o threat augmentation,18,0
+14,KB-ACE w/o threat augmentation,19,0
+14,KB-ACE w/o threat augmentation,20,0
+14,KB-ACE w/o threat augmentation,21,0
+14,KB-ACE w/o threat augmentation,22,0
+14,Cost-aware cascade,0,0.989331
+14,Cost-aware cascade,1,0.878378
+14,Cost-aware cascade,2,0
+14,Cost-aware cascade,3,0
+14,Cost-aware cascade,4,0
+14,Cost-aware cascade,5,0
+14,Cost-aware cascade,6,0
+14,Cost-aware cascade,7,0
+14,Cost-aware cascade,8,0
+14,Cost-aware cascade,9,0
+14,Cost-aware cascade,10,0
+14,Cost-aware cascade,11,0
+14,Cost-aware cascade,12,0
+14,Cost-aware cascade,13,0
+14,Cost-aware cascade,14,0
+14,Cost-aware cascade,15,0
+14,Cost-aware cascade,16,0
+14,Cost-aware cascade,17,0
+14,Cost-aware cascade,18,0
+14,Cost-aware cascade,19,0
+14,Cost-aware cascade,20,0
+14,Cost-aware cascade,21,0
+14,Cost-aware cascade,22,0
+15,Logistic regression,0,0.979833
+15,Logistic regression,1,0.739221
+15,Logistic regression,2,0.0125174
+15,Logistic regression,3,0.00069541
+15,Logistic regression,4,0
+15,Logistic regression,5,0
+15,Logistic regression,6,0
+15,Logistic regression,7,0
+15,Logistic regression,8,0
+15,Logistic regression,9,0
+15,Logistic regression,10,0
+15,Logistic regression,11,0
+15,Logistic regression,12,0
+15,Logistic regression,13,0
+15,Logistic regression,14,0
+15,Logistic regression,15,0
+15,Logistic regression,16,0
+15,Logistic regression,17,0
+15,Logistic regression,18,0
+15,Logistic regression,19,0
+15,Logistic regression,20,0
+15,Logistic regression,21,0
+15,Logistic regression,22,0
+15,Random forest,0,0.979833
+15,Random forest,1,0.905424
+15,Random forest,2,0.724618
+15,Random forest,3,0.650904
+15,Random forest,4,0.417942
+15,Random forest,5,0.324061
+15,Random forest,6,0.189847
+15,Random forest,7,0.133519
+15,Random forest,8,0.184979
+15,Random forest,9,0.162726
+15,Random forest,10,0.140473
+15,Random forest,11,0.143255
+15,Random forest,12,0.1363
+15,Random forest,13,0.131433
+15,Random forest,14,0.118915
+15,Random forest,15,0.114047
+15,Random forest,16,0.100834
+15,Random forest,17,0.0994437
+15,Random forest,18,0.113352
+15,Random forest,19,0.113352
+15,Random forest,20,0.109875
+15,Random forest,21,0.109875
+15,Random forest,22,0.105702
+15,Gradient boosting (all evidence),0,0.99235
+15,Gradient boosting (all evidence),1,0.915855
+15,Gradient boosting (all evidence),2,0.00347705
+15,Gradient boosting (all evidence),3,0
+15,Gradient boosting (all evidence),4,0
+15,Gradient boosting (all evidence),5,0
+15,Gradient boosting (all evidence),6,0
+15,Gradient boosting (all evidence),7,0
+15,Gradient boosting (all evidence),8,0
+15,Gradient boosting (all evidence),9,0
+15,Gradient boosting (all evidence),10,0
+15,Gradient boosting (all evidence),11,0
+15,Gradient boosting (all evidence),12,0
+15,Gradient boosting (all evidence),13,0
+15,Gradient boosting (all evidence),14,0
+15,Gradient boosting (all evidence),15,0
+15,Gradient boosting (all evidence),16,0
+15,Gradient boosting (all evidence),17,0
+15,Gradient boosting (all evidence),18,0
+15,Gradient boosting (all evidence),19,0
+15,Gradient boosting (all evidence),20,0
+15,Gradient boosting (all evidence),21,0
+15,Gradient boosting (all evidence),22,0
+15,Gradient boosting (URL only),0,0.993741
+15,Gradient boosting (URL only),1,0.993741
+15,Gradient boosting (URL only),2,0
+15,Gradient boosting (URL only),3,0
+15,Gradient boosting (URL only),4,0
+15,Gradient boosting (URL only),5,0
+15,Gradient boosting (URL only),6,0
+15,Gradient boosting (URL only),7,0
+15,Gradient boosting (URL only),8,0
+15,Gradient boosting (URL only),9,0
+15,Gradient boosting (URL only),10,0
+15,Gradient boosting (URL only),11,0
+15,Gradient boosting (URL only),12,0
+15,Gradient boosting (URL only),13,0
+15,Gradient boosting (URL only),14,0
+15,Gradient boosting (URL only),15,0
+15,Gradient boosting (URL only),16,0
+15,Gradient boosting (URL only),17,0
+15,Gradient boosting (URL only),18,0
+15,Gradient boosting (URL only),19,0
+15,Gradient boosting (URL only),20,0
+15,Gradient boosting (URL only),21,0
+15,Gradient boosting (URL only),22,0
+15,Expert scorecard (rules only),0,0.985396
+15,Expert scorecard (rules only),1,0.954103
+15,Expert scorecard (rules only),2,0.851182
+15,Expert scorecard (rules only),3,0.762865
+15,Expert scorecard (rules only),4,0.616134
+15,Expert scorecard (rules only),5,0.499305
+15,Expert scorecard (rules only),6,0.347705
+15,Expert scorecard (rules only),7,0.420723
+15,Expert scorecard (rules only),8,0.285814
+15,Expert scorecard (rules only),9,0.264951
+15,Expert scorecard (rules only),10,0.256606
+15,Expert scorecard (rules only),11,0.376217
+15,Expert scorecard (rules only),12,0.351182
+15,Expert scorecard (rules only),13,0.541725
+15,Expert scorecard (rules only),14,0.541725
+15,Expert scorecard (rules only),15,0.541725
+15,Expert scorecard (rules only),16,0.52573
+15,Expert scorecard (rules only),17,0.779555
+15,Expert scorecard (rules only),18,0.961752
+15,Expert scorecard (rules only),19,0.961752
+15,Expert scorecard (rules only),20,0.961752
+15,Expert scorecard (rules only),21,0.961752
+15,Expert scorecard (rules only),22,0.956885
+15,KB-ACE,0,0.99235
+15,KB-ACE,1,0.967316
+15,KB-ACE,2,0.91516
+15,KB-ACE,3,0.910292
+15,KB-ACE,4,0.903338
+15,KB-ACE,5,0.904729
+15,KB-ACE,6,0.895688
+15,KB-ACE,7,0.886648
+15,KB-ACE,8,0.887344
+15,KB-ACE,9,0.882476
+15,KB-ACE,10,0.882476
+15,KB-ACE,11,0.88943
+15,KB-ACE,12,0.888734
+15,KB-ACE,13,0.865786
+15,KB-ACE,14,0.865786
+15,KB-ACE,15,0.86509
+15,KB-ACE,16,0.86509
+15,KB-ACE,17,0.920028
+15,KB-ACE,18,0.920028
+15,KB-ACE,19,0.919332
+15,KB-ACE,20,0.923505
+15,KB-ACE,21,0.923505
+15,KB-ACE,22,0.923505
+15,KB-ACE + monotone constraints,0,0.98331
+15,KB-ACE + monotone constraints,1,0.972184
+15,KB-ACE + monotone constraints,2,0.914465
+15,KB-ACE + monotone constraints,3,0.891516
+15,KB-ACE + monotone constraints,4,0.874131
+15,KB-ACE + monotone constraints,5,0.86509
+15,KB-ACE + monotone constraints,6,0.855355
+15,KB-ACE + monotone constraints,7,0.840751
+15,KB-ACE + monotone constraints,8,0.834492
+15,KB-ACE + monotone constraints,9,0.800417
+15,KB-ACE + monotone constraints,10,0.800417
+15,KB-ACE + monotone constraints,11,0.842837
+15,KB-ACE + monotone constraints,12,0.837969
+15,KB-ACE + monotone constraints,13,0.835883
+15,KB-ACE + monotone constraints,14,0.835188
+15,KB-ACE + monotone constraints,15,0.837969
+15,KB-ACE + monotone constraints,16,0.844228
+15,KB-ACE + monotone constraints,17,0.842837
+15,KB-ACE + monotone constraints,18,0.785814
+15,KB-ACE + monotone constraints,19,0.784423
+15,KB-ACE + monotone constraints,20,0.781641
+15,KB-ACE + monotone constraints,21,0.786509
+15,KB-ACE + monotone constraints,22,0.767733
+15,KB-ACE w/o trust anchoring,0,0.98331
+15,KB-ACE w/o trust anchoring,1,0.927677
+15,KB-ACE w/o trust anchoring,2,0.816412
+15,KB-ACE w/o trust anchoring,3,0.77121
+15,KB-ACE w/o trust anchoring,4,0.759388
+15,KB-ACE w/o trust anchoring,5,0.757302
+15,KB-ACE w/o trust anchoring,6,0.755911
+15,KB-ACE w/o trust anchoring,7,0.755216
+15,KB-ACE w/o trust anchoring,8,0.786509
+15,KB-ACE w/o trust anchoring,9,0.815021
+15,KB-ACE w/o trust anchoring,10,0.815021
+15,KB-ACE w/o trust anchoring,11,0.81363
+15,KB-ACE w/o trust anchoring,12,0.840056
+15,KB-ACE w/o trust anchoring,13,0.840056
+15,KB-ACE w/o trust anchoring,14,0.840056
+15,KB-ACE w/o trust anchoring,15,0.840056
+15,KB-ACE w/o trust anchoring,16,0.840056
+15,KB-ACE w/o trust anchoring,17,0.845619
+15,KB-ACE w/o trust anchoring,18,0.845619
+15,KB-ACE w/o trust anchoring,19,0.844228
+15,KB-ACE w/o trust anchoring,20,0.844228
+15,KB-ACE w/o trust anchoring,21,0.837969
+15,KB-ACE w/o trust anchoring,22,0.837969
+15,KB-ACE w/o threat augmentation,0,0.989569
+15,KB-ACE w/o threat augmentation,1,0.90751
+15,KB-ACE w/o threat augmentation,2,0.00208623
+15,KB-ACE w/o threat augmentation,3,0
+15,KB-ACE w/o threat augmentation,4,0
+15,KB-ACE w/o threat augmentation,5,0
+15,KB-ACE w/o threat augmentation,6,0
+15,KB-ACE w/o threat augmentation,7,0
+15,KB-ACE w/o threat augmentation,8,0
+15,KB-ACE w/o threat augmentation,9,0
+15,KB-ACE w/o threat augmentation,10,0
+15,KB-ACE w/o threat augmentation,11,0
+15,KB-ACE w/o threat augmentation,12,0
+15,KB-ACE w/o threat augmentation,13,0
+15,KB-ACE w/o threat augmentation,14,0
+15,KB-ACE w/o threat augmentation,15,0
+15,KB-ACE w/o threat augmentation,16,0
+15,KB-ACE w/o threat augmentation,17,0
+15,KB-ACE w/o threat augmentation,18,0
+15,KB-ACE w/o threat augmentation,19,0
+15,KB-ACE w/o threat augmentation,20,0
+15,KB-ACE w/o threat augmentation,21,0
+15,KB-ACE w/o threat augmentation,22,0
+15,Cost-aware cascade,0,0.985396
+15,Cost-aware cascade,1,0.873435
+15,Cost-aware cascade,2,0
+15,Cost-aware cascade,3,0
+15,Cost-aware cascade,4,0
+15,Cost-aware cascade,5,0
+15,Cost-aware cascade,6,0
+15,Cost-aware cascade,7,0
+15,Cost-aware cascade,8,0
+15,Cost-aware cascade,9,0
+15,Cost-aware cascade,10,0
+15,Cost-aware cascade,11,0
+15,Cost-aware cascade,12,0
+15,Cost-aware cascade,13,0
+15,Cost-aware cascade,14,0
+15,Cost-aware cascade,15,0
+15,Cost-aware cascade,16,0
+15,Cost-aware cascade,17,0
+15,Cost-aware cascade,18,0
+15,Cost-aware cascade,19,0
+15,Cost-aware cascade,20,0
+15,Cost-aware cascade,21,0
+15,Cost-aware cascade,22,0
+16,Logistic regression,0,0.983016
+16,Logistic regression,1,0.696332
+16,Logistic regression,2,0.00407609
+16,Logistic regression,3,0
+16,Logistic regression,4,0
+16,Logistic regression,5,0
+16,Logistic regression,6,0
+16,Logistic regression,7,0
+16,Logistic regression,8,0
+16,Logistic regression,9,0
+16,Logistic regression,10,0
+16,Logistic regression,11,0
+16,Logistic regression,12,0
+16,Logistic regression,13,0
+16,Logistic regression,14,0
+16,Logistic regression,15,0
+16,Logistic regression,16,0
+16,Logistic regression,17,0
+16,Logistic regression,18,0
+16,Logistic regression,19,0
+16,Logistic regression,20,0
+16,Logistic regression,21,0
+16,Logistic regression,22,0
+16,Random forest,0,0.988451
+16,Random forest,1,0.940217
+16,Random forest,2,0.683424
+16,Random forest,3,0.586277
+16,Random forest,4,0.338315
+16,Random forest,5,0.300272
+16,Random forest,6,0.173913
+16,Random forest,7,0.112092
+16,Random forest,8,0.110054
+16,Random forest,9,0.10394
+16,Random forest,10,0.133152
+16,Random forest,11,0.129076
+16,Random forest,12,0.125679
+16,Random forest,13,0.0849185
+16,Random forest,14,0.0964674
+16,Random forest,15,0.0815217
+16,Random forest,16,0.0754076
+16,Random forest,17,0.0740489
+16,Random forest,18,0.064538
+16,Random forest,19,0.0672554
+16,Random forest,20,0.0692935
+16,Random forest,21,0.060462
+16,Random forest,22,0.0366848
+16,Gradient boosting (all evidence),0,0.98913
+16,Gradient boosting (all evidence),1,0.873641
+16,Gradient boosting (all evidence),2,0
+16,Gradient boosting (all evidence),3,0
+16,Gradient boosting (all evidence),4,0
+16,Gradient boosting (all evidence),5,0
+16,Gradient boosting (all evidence),6,0
+16,Gradient boosting (all evidence),7,0
+16,Gradient boosting (all evidence),8,0
+16,Gradient boosting (all evidence),9,0
+16,Gradient boosting (all evidence),10,0
+16,Gradient boosting (all evidence),11,0
+16,Gradient boosting (all evidence),12,0
+16,Gradient boosting (all evidence),13,0
+16,Gradient boosting (all evidence),14,0
+16,Gradient boosting (all evidence),15,0
+16,Gradient boosting (all evidence),16,0
+16,Gradient boosting (all evidence),17,0
+16,Gradient boosting (all evidence),18,0
+16,Gradient boosting (all evidence),19,0
+16,Gradient boosting (all evidence),20,0
+16,Gradient boosting (all evidence),21,0
+16,Gradient boosting (all evidence),22,0
+16,Gradient boosting (URL only),0,0.991168
+16,Gradient boosting (URL only),1,0.991168
+16,Gradient boosting (URL only),2,0
+16,Gradient boosting (URL only),3,0
+16,Gradient boosting (URL only),4,0
+16,Gradient boosting (URL only),5,0
+16,Gradient boosting (URL only),6,0
+16,Gradient boosting (URL only),7,0
+16,Gradient boosting (URL only),8,0
+16,Gradient boosting (URL only),9,0
+16,Gradient boosting (URL only),10,0
+16,Gradient boosting (URL only),11,0
+16,Gradient boosting (URL only),12,0
+16,Gradient boosting (URL only),13,0
+16,Gradient boosting (URL only),14,0
+16,Gradient boosting (URL only),15,0
+16,Gradient boosting (URL only),16,0
+16,Gradient boosting (URL only),17,0
+16,Gradient boosting (URL only),18,0
+16,Gradient boosting (URL only),19,0
+16,Gradient boosting (URL only),20,0
+16,Gradient boosting (URL only),21,0
+16,Gradient boosting (URL only),22,0
+16,Expert scorecard (rules only),0,0.992527
+16,Expert scorecard (rules only),1,0.972147
+16,Expert scorecard (rules only),2,0.890625
+16,Expert scorecard (rules only),3,0.815217
+16,Expert scorecard (rules only),4,0.667799
+16,Expert scorecard (rules only),5,0.559103
+16,Expert scorecard (rules only),6,0.410326
+16,Expert scorecard (rules only),7,0.47894
+16,Expert scorecard (rules only),8,0.424592
+16,Expert scorecard (rules only),9,0.599185
+16,Expert scorecard (rules only),10,0.443614
+16,Expert scorecard (rules only),11,0.621603
+16,Expert scorecard (rules only),12,0.609375
+16,Expert scorecard (rules only),13,0.830163
+16,Expert scorecard (rules only),14,0.970109
+16,Expert scorecard (rules only),15,0.970109
+16,Expert scorecard (rules only),16,0.970109
+16,Expert scorecard (rules only),17,0.970109
+16,Expert scorecard (rules only),18,0.965353
+16,Expert scorecard (rules only),19,0.997962
+16,Expert scorecard (rules only),20,0.997962
+16,Expert scorecard (rules only),21,1
+16,Expert scorecard (rules only),22,1
+16,KB-ACE,0,0.994565
+16,KB-ACE,1,0.969429
+16,KB-ACE,2,0.940217
+16,KB-ACE,3,0.930707
+16,KB-ACE,4,0.928668
+16,KB-ACE,5,0.930707
+16,KB-ACE,6,0.925951
+16,KB-ACE,7,0.919158
+16,KB-ACE,8,0.91712
+16,KB-ACE,9,0.918478
+16,KB-ACE,10,0.909647
+16,KB-ACE,11,0.907609
+16,KB-ACE,12,0.90625
+16,KB-ACE,13,0.903533
+16,KB-ACE,14,0.911685
+16,KB-ACE,15,0.912364
+16,KB-ACE,16,0.921196
+16,KB-ACE,17,0.921196
+16,KB-ACE,18,0.924592
+16,KB-ACE,19,0.919158
+16,KB-ACE,20,0.918478
+16,KB-ACE,21,0.913043
+16,KB-ACE,22,0.915761
+16,KB-ACE + monotone constraints,0,0.98981
+16,KB-ACE + monotone constraints,1,0.955842
+16,KB-ACE + monotone constraints,2,0.910326
+16,KB-ACE + monotone constraints,3,0.891304
+16,KB-ACE + monotone constraints,4,0.881793
+16,KB-ACE + monotone constraints,5,0.874321
+16,KB-ACE + monotone constraints,6,0.861413
+16,KB-ACE + monotone constraints,7,0.851902
+16,KB-ACE + monotone constraints,8,0.846467
+16,KB-ACE + monotone constraints,9,0.858696
+16,KB-ACE + monotone constraints,10,0.820652
+16,KB-ACE + monotone constraints,11,0.824049
+16,KB-ACE + monotone constraints,12,0.819293
+16,KB-ACE + monotone constraints,13,0.756114
+16,KB-ACE + monotone constraints,14,0.705163
+16,KB-ACE + monotone constraints,15,0.704484
+16,KB-ACE + monotone constraints,16,0.717391
+16,KB-ACE + monotone constraints,17,0.716033
+16,KB-ACE + monotone constraints,18,0.77106
+16,KB-ACE + monotone constraints,19,0.875679
+16,KB-ACE + monotone constraints,20,0.875679
+16,KB-ACE + monotone constraints,21,0.875679
+16,KB-ACE + monotone constraints,22,0.875679
+16,KB-ACE w/o trust anchoring,0,0.98981
+16,KB-ACE w/o trust anchoring,1,0.951087
+16,KB-ACE w/o trust anchoring,2,0.843071
+16,KB-ACE w/o trust anchoring,3,0.764266
+16,KB-ACE w/o trust anchoring,4,0.758832
+16,KB-ACE w/o trust anchoring,5,0.757473
+16,KB-ACE w/o trust anchoring,6,0.758152
+16,KB-ACE w/o trust anchoring,7,0.755435
+16,KB-ACE w/o trust anchoring,8,0.766984
+16,KB-ACE w/o trust anchoring,9,0.861413
+16,KB-ACE w/o trust anchoring,10,0.872283
+16,KB-ACE w/o trust anchoring,11,0.871603
+16,KB-ACE w/o trust anchoring,12,0.872962
+16,KB-ACE w/o trust anchoring,13,0.870924
+16,KB-ACE w/o trust anchoring,14,0.871603
+16,KB-ACE w/o trust anchoring,15,0.871603
+16,KB-ACE w/o trust anchoring,16,0.873641
+16,KB-ACE w/o trust anchoring,17,0.873641
+16,KB-ACE w/o trust anchoring,18,0.875679
+16,KB-ACE w/o trust anchoring,19,0.924592
+16,KB-ACE w/o trust anchoring,20,0.924592
+16,KB-ACE w/o trust anchoring,21,0.870924
+16,KB-ACE w/o trust anchoring,22,0.870924
+16,KB-ACE w/o threat augmentation,0,0.98981
+16,KB-ACE w/o threat augmentation,1,0.872962
+16,KB-ACE w/o threat augmentation,2,0
+16,KB-ACE w/o threat augmentation,3,0
+16,KB-ACE w/o threat augmentation,4,0
+16,KB-ACE w/o threat augmentation,5,0
+16,KB-ACE w/o threat augmentation,6,0
+16,KB-ACE w/o threat augmentation,7,0
+16,KB-ACE w/o threat augmentation,8,0
+16,KB-ACE w/o threat augmentation,9,0
+16,KB-ACE w/o threat augmentation,10,0
+16,KB-ACE w/o threat augmentation,11,0
+16,KB-ACE w/o threat augmentation,12,0
+16,KB-ACE w/o threat augmentation,13,0
+16,KB-ACE w/o threat augmentation,14,0
+16,KB-ACE w/o threat augmentation,15,0
+16,KB-ACE w/o threat augmentation,16,0
+16,KB-ACE w/o threat augmentation,17,0
+16,KB-ACE w/o threat augmentation,18,0
+16,KB-ACE w/o threat augmentation,19,0
+16,KB-ACE w/o threat augmentation,20,0
+16,KB-ACE w/o threat augmentation,21,0
+16,KB-ACE w/o threat augmentation,22,0
+16,Cost-aware cascade,0,0.991168
+16,Cost-aware cascade,1,0.865489
+16,Cost-aware cascade,2,0
+16,Cost-aware cascade,3,0
+16,Cost-aware cascade,4,0
+16,Cost-aware cascade,5,0
+16,Cost-aware cascade,6,0
+16,Cost-aware cascade,7,0
+16,Cost-aware cascade,8,0
+16,Cost-aware cascade,9,0
+16,Cost-aware cascade,10,0
+16,Cost-aware cascade,11,0
+16,Cost-aware cascade,12,0
+16,Cost-aware cascade,13,0
+16,Cost-aware cascade,14,0
+16,Cost-aware cascade,15,0
+16,Cost-aware cascade,16,0
+16,Cost-aware cascade,17,0
+16,Cost-aware cascade,18,0
+16,Cost-aware cascade,19,0
+16,Cost-aware cascade,20,0
+16,Cost-aware cascade,21,0
+16,Cost-aware cascade,22,0
+17,Logistic regression,0,0.975342
+17,Logistic regression,1,0.666438
+17,Logistic regression,2,0.00616438
+17,Logistic regression,3,0.00136986
+17,Logistic regression,4,0
+17,Logistic regression,5,0
+17,Logistic regression,6,0
+17,Logistic regression,7,0
+17,Logistic regression,8,0
+17,Logistic regression,9,0
+17,Logistic regression,10,0
+17,Logistic regression,11,0
+17,Logistic regression,12,0
+17,Logistic regression,13,0
+17,Logistic regression,14,0
+17,Logistic regression,15,0
+17,Logistic regression,16,0
+17,Logistic regression,17,0
+17,Logistic regression,18,0
+17,Logistic regression,19,0
+17,Logistic regression,20,0
+17,Logistic regression,21,0
+17,Logistic regression,22,0
+17,Random forest,0,0.987671
+17,Random forest,1,0.929452
+17,Random forest,2,0.680822
+17,Random forest,3,0.567123
+17,Random forest,4,0.506164
+17,Random forest,5,0.216438
+17,Random forest,6,0.0739726
+17,Random forest,7,0.0219178
+17,Random forest,8,0.0205479
+17,Random forest,9,0.0308219
+17,Random forest,10,0.0178082
+17,Random forest,11,0.00753425
+17,Random forest,12,0.00753425
+17,Random forest,13,0.00753425
+17,Random forest,14,0.0164384
+17,Random forest,15,0.0150685
+17,Random forest,16,0
+17,Random forest,17,0
+17,Random forest,18,0
+17,Random forest,19,0
+17,Random forest,20,0
+17,Random forest,21,0
+17,Random forest,22,0
+17,Gradient boosting (all evidence),0,0.978767
+17,Gradient boosting (all evidence),1,0.834932
+17,Gradient boosting (all evidence),2,0.00273973
+17,Gradient boosting (all evidence),3,0
+17,Gradient boosting (all evidence),4,0
+17,Gradient boosting (all evidence),5,0
+17,Gradient boosting (all evidence),6,0
+17,Gradient boosting (all evidence),7,0
+17,Gradient boosting (all evidence),8,0
+17,Gradient boosting (all evidence),9,0
+17,Gradient boosting (all evidence),10,0
+17,Gradient boosting (all evidence),11,0
+17,Gradient boosting (all evidence),12,0
+17,Gradient boosting (all evidence),13,0
+17,Gradient boosting (all evidence),14,0
+17,Gradient boosting (all evidence),15,0
+17,Gradient boosting (all evidence),16,0
+17,Gradient boosting (all evidence),17,0
+17,Gradient boosting (all evidence),18,0
+17,Gradient boosting (all evidence),19,0
+17,Gradient boosting (all evidence),20,0
+17,Gradient boosting (all evidence),21,0
+17,Gradient boosting (all evidence),22,0
+17,Gradient boosting (URL only),0,0.991781
+17,Gradient boosting (URL only),1,0.991781
+17,Gradient boosting (URL only),2,0
+17,Gradient boosting (URL only),3,0
+17,Gradient boosting (URL only),4,0
+17,Gradient boosting (URL only),5,0
+17,Gradient boosting (URL only),6,0
+17,Gradient boosting (URL only),7,0
+17,Gradient boosting (URL only),8,0
+17,Gradient boosting (URL only),9,0
+17,Gradient boosting (URL only),10,0
+17,Gradient boosting (URL only),11,0
+17,Gradient boosting (URL only),12,0
+17,Gradient boosting (URL only),13,0
+17,Gradient boosting (URL only),14,0
+17,Gradient boosting (URL only),15,0
+17,Gradient boosting (URL only),16,0
+17,Gradient boosting (URL only),17,0
+17,Gradient boosting (URL only),18,0
+17,Gradient boosting (URL only),19,0
+17,Gradient boosting (URL only),20,0
+17,Gradient boosting (URL only),21,0
+17,Gradient boosting (URL only),22,0
+17,Expert scorecard (rules only),0,0.989041
+17,Expert scorecard (rules only),1,0.967123
+17,Expert scorecard (rules only),2,0.882877
+17,Expert scorecard (rules only),3,0.784247
+17,Expert scorecard (rules only),4,0.679452
+17,Expert scorecard (rules only),5,0.526712
+17,Expert scorecard (rules only),6,0.635616
+17,Expert scorecard (rules only),7,0.45
+17,Expert scorecard (rules only),8,0.399315
+17,Expert scorecard (rules only),9,0.567123
+17,Expert scorecard (rules only),10,0.805479
+17,Expert scorecard (rules only),11,0.590411
+17,Expert scorecard (rules only),12,0.577397
+17,Expert scorecard (rules only),13,0.815753
+17,Expert scorecard (rules only),14,0.969178
+17,Expert scorecard (rules only),15,0.969178
+17,Expert scorecard (rules only),16,0.969178
+17,Expert scorecard (rules only),17,0.969178
+17,Expert scorecard (rules only),18,0.965068
+17,Expert scorecard (rules only),19,0.99863
+17,Expert scorecard (rules only),20,1
+17,Expert scorecard (rules only),21,1
+17,Expert scorecard (rules only),22,1
+17,KB-ACE,0,0.981507
+17,KB-ACE,1,0.941096
+17,KB-ACE,2,0.89863
+17,KB-ACE,3,0.889726
+17,KB-ACE,4,0.889726
+17,KB-ACE,5,0.891096
+17,KB-ACE,6,0.884932
+17,KB-ACE,7,0.866438
+17,KB-ACE,8,0.858904
+17,KB-ACE,9,0.850685
+17,KB-ACE,10,0.844521
+17,KB-ACE,11,0.846575
+17,KB-ACE,12,0.846575
+17,KB-ACE,13,0.844521
+17,KB-ACE,14,0.823973
+17,KB-ACE,15,0.828082
+17,KB-ACE,16,0.822603
+17,KB-ACE,17,0.823973
+17,KB-ACE,18,0.841096
+17,KB-ACE,19,0.900685
+17,KB-ACE,20,0.900685
+17,KB-ACE,21,0.900685
+17,KB-ACE,22,0.89863
+17,KB-ACE + monotone constraints,0,0.986986
+17,KB-ACE + monotone constraints,1,0.947945
+17,KB-ACE + monotone constraints,2,0.906849
+17,KB-ACE + monotone constraints,3,0.878767
+17,KB-ACE + monotone constraints,4,0.873288
+17,KB-ACE + monotone constraints,5,0.858904
+17,KB-ACE + monotone constraints,6,0.856164
+17,KB-ACE + monotone constraints,7,0.84726
+17,KB-ACE + monotone constraints,8,0.840411
+17,KB-ACE + monotone constraints,9,0.849315
+17,KB-ACE + monotone constraints,10,0.843151
+17,KB-ACE + monotone constraints,11,0.834932
+17,KB-ACE + monotone constraints,12,0.834932
+17,KB-ACE + monotone constraints,13,0.824658
+17,KB-ACE + monotone constraints,14,0.763699
+17,KB-ACE + monotone constraints,15,0.762329
+17,KB-ACE + monotone constraints,16,0.75137
+17,KB-ACE + monotone constraints,17,0.756164
+17,KB-ACE + monotone constraints,18,0.775342
+17,KB-ACE + monotone constraints,19,0.902055
+17,KB-ACE + monotone constraints,20,0.938356
+17,KB-ACE + monotone constraints,21,0.938356
+17,KB-ACE + monotone constraints,22,0.847945
+17,KB-ACE w/o trust anchoring,0,0.981507
+17,KB-ACE w/o trust anchoring,1,0.915068
+17,KB-ACE w/o trust anchoring,2,0.814384
+17,KB-ACE w/o trust anchoring,3,0.75
+17,KB-ACE w/o trust anchoring,4,0.746575
+17,KB-ACE w/o trust anchoring,5,0.741781
+17,KB-ACE w/o trust anchoring,6,0.739726
+17,KB-ACE w/o trust anchoring,7,0.739726
+17,KB-ACE w/o trust anchoring,8,0.743836
+17,KB-ACE w/o trust anchoring,9,0.743836
+17,KB-ACE w/o trust anchoring,10,0.743836
+17,KB-ACE w/o trust anchoring,11,0.742466
+17,KB-ACE w/o trust anchoring,12,0.742466
+17,KB-ACE w/o trust anchoring,13,0.725342
+17,KB-ACE w/o trust anchoring,14,0
+17,KB-ACE w/o trust anchoring,15,0
+17,KB-ACE w/o trust anchoring,16,0
+17,KB-ACE w/o trust anchoring,17,0
+17,KB-ACE w/o trust anchoring,18,0
+17,KB-ACE w/o trust anchoring,19,0
+17,KB-ACE w/o trust anchoring,20,0
+17,KB-ACE w/o trust anchoring,21,0
+17,KB-ACE w/o trust anchoring,22,0
+17,KB-ACE w/o threat augmentation,0,0.979452
+17,KB-ACE w/o threat augmentation,1,0.844521
+17,KB-ACE w/o threat augmentation,2,0.000684932
+17,KB-ACE w/o threat augmentation,3,0
+17,KB-ACE w/o threat augmentation,4,0
+17,KB-ACE w/o threat augmentation,5,0
+17,KB-ACE w/o threat augmentation,6,0
+17,KB-ACE w/o threat augmentation,7,0
+17,KB-ACE w/o threat augmentation,8,0
+17,KB-ACE w/o threat augmentation,9,0
+17,KB-ACE w/o threat augmentation,10,0
+17,KB-ACE w/o threat augmentation,11,0
+17,KB-ACE w/o threat augmentation,12,0
+17,KB-ACE w/o threat augmentation,13,0
+17,KB-ACE w/o threat augmentation,14,0
+17,KB-ACE w/o threat augmentation,15,0
+17,KB-ACE w/o threat augmentation,16,0
+17,KB-ACE w/o threat augmentation,17,0
+17,KB-ACE w/o threat augmentation,18,0
+17,KB-ACE w/o threat augmentation,19,0
+17,KB-ACE w/o threat augmentation,20,0
+17,KB-ACE w/o threat augmentation,21,0
+17,KB-ACE w/o threat augmentation,22,0
+17,Cost-aware cascade,0,0.976712
+17,Cost-aware cascade,1,0.837671
+17,Cost-aware cascade,2,0
+17,Cost-aware cascade,3,0
+17,Cost-aware cascade,4,0
+17,Cost-aware cascade,5,0
+17,Cost-aware cascade,6,0
+17,Cost-aware cascade,7,0
+17,Cost-aware cascade,8,0
+17,Cost-aware cascade,9,0
+17,Cost-aware cascade,10,0
+17,Cost-aware cascade,11,0
+17,Cost-aware cascade,12,0
+17,Cost-aware cascade,13,0
+17,Cost-aware cascade,14,0
+17,Cost-aware cascade,15,0
+17,Cost-aware cascade,16,0
+17,Cost-aware cascade,17,0
+17,Cost-aware cascade,18,0
+17,Cost-aware cascade,19,0
+17,Cost-aware cascade,20,0
+17,Cost-aware cascade,21,0
+17,Cost-aware cascade,22,0
+18,Logistic regression,0,0.981408
+18,Logistic regression,1,0.683267
+18,Logistic regression,2,0.00464807
+18,Logistic regression,3,0.000664011
+18,Logistic regression,4,0.000664011
+18,Logistic regression,5,0
+18,Logistic regression,6,0
+18,Logistic regression,7,0
+18,Logistic regression,8,0
+18,Logistic regression,9,0
+18,Logistic regression,10,0
+18,Logistic regression,11,0
+18,Logistic regression,12,0
+18,Logistic regression,13,0
+18,Logistic regression,14,0
+18,Logistic regression,15,0
+18,Logistic regression,16,0
+18,Logistic regression,17,0
+18,Logistic regression,18,0
+18,Logistic regression,19,0
+18,Logistic regression,20,0
+18,Logistic regression,21,0
+18,Logistic regression,22,0
+18,Random forest,0,0.989376
+18,Random forest,1,0.936919
+18,Random forest,2,0.750996
+18,Random forest,3,0.727092
+18,Random forest,4,0.709163
+18,Random forest,5,0.642098
+18,Random forest,6,0.416335
+18,Random forest,7,0.318061
+18,Random forest,8,0.312085
+18,Random forest,9,0.337317
+18,Random forest,10,0.336653
+18,Random forest,11,0.351262
+18,Random forest,12,0.351926
+18,Random forest,13,0.340637
+18,Random forest,14,0.301461
+18,Random forest,15,0.308101
+18,Random forest,16,0.306109
+18,Random forest,17,0.294157
+18,Random forest,18,0.305445
+18,Random forest,19,0.304117
+18,Random forest,20,0.292165
+18,Random forest,21,0.272908
+18,Random forest,22,0.272908
+18,Gradient boosting (all evidence),0,0.989376
+18,Gradient boosting (all evidence),1,0.840637
+18,Gradient boosting (all evidence),2,0.0318725
+18,Gradient boosting (all evidence),3,0.0119522
+18,Gradient boosting (all evidence),4,0.00863214
+18,Gradient boosting (all evidence),5,0.00664011
+18,Gradient boosting (all evidence),6,0
+18,Gradient boosting (all evidence),7,0
+18,Gradient boosting (all evidence),8,0
+18,Gradient boosting (all evidence),9,0
+18,Gradient boosting (all evidence),10,0
+18,Gradient boosting (all evidence),11,0
+18,Gradient boosting (all evidence),12,0
+18,Gradient boosting (all evidence),13,0
+18,Gradient boosting (all evidence),14,0
+18,Gradient boosting (all evidence),15,0
+18,Gradient boosting (all evidence),16,0
+18,Gradient boosting (all evidence),17,0
+18,Gradient boosting (all evidence),18,0
+18,Gradient boosting (all evidence),19,0
+18,Gradient boosting (all evidence),20,0
+18,Gradient boosting (all evidence),21,0
+18,Gradient boosting (all evidence),22,0
+18,Gradient boosting (URL only),0,0.99336
+18,Gradient boosting (URL only),1,0.99336
+18,Gradient boosting (URL only),2,0
+18,Gradient boosting (URL only),3,0
+18,Gradient boosting (URL only),4,0
+18,Gradient boosting (URL only),5,0
+18,Gradient boosting (URL only),6,0
+18,Gradient boosting (URL only),7,0
+18,Gradient boosting (URL only),8,0
+18,Gradient boosting (URL only),9,0
+18,Gradient boosting (URL only),10,0
+18,Gradient boosting (URL only),11,0
+18,Gradient boosting (URL only),12,0
+18,Gradient boosting (URL only),13,0
+18,Gradient boosting (URL only),14,0
+18,Gradient boosting (URL only),15,0
+18,Gradient boosting (URL only),16,0
+18,Gradient boosting (URL only),17,0
+18,Gradient boosting (URL only),18,0
+18,Gradient boosting (URL only),19,0
+18,Gradient boosting (URL only),20,0
+18,Gradient boosting (URL only),21,0
+18,Gradient boosting (URL only),22,0
+18,Expert scorecard (rules only),0,0.990704
+18,Expert scorecard (rules only),1,0.966135
+18,Expert scorecard (rules only),2,0.876494
+18,Expert scorecard (rules only),3,0.794821
+18,Expert scorecard (rules only),4,0.695219
+18,Expert scorecard (rules only),5,0.492032
+18,Expert scorecard (rules only),6,0.347942
+18,Expert scorecard (rules only),7,0.418327
+18,Expert scorecard (rules only),8,0.371182
+18,Expert scorecard (rules only),9,0.282869
+18,Expert scorecard (rules only),10,0.387782
+18,Expert scorecard (rules only),11,0.605578
+18,Expert scorecard (rules only),12,0.811421
+18,Expert scorecard (rules only),13,0.798141
+18,Expert scorecard (rules only),14,0.798141
+18,Expert scorecard (rules only),15,0.964143
+18,Expert scorecard (rules only),16,0.964143
+18,Expert scorecard (rules only),17,0.964143
+18,Expert scorecard (rules only),18,0.961487
+18,Expert scorecard (rules only),19,0.999336
+18,Expert scorecard (rules only),20,0.999336
+18,Expert scorecard (rules only),21,0.998672
+18,Expert scorecard (rules only),22,0.998672
+18,KB-ACE,0,0.98008
+18,KB-ACE,1,0.918991
+18,KB-ACE,2,0.887782
+18,KB-ACE,3,0.881806
+18,KB-ACE,4,0.88247
+18,KB-ACE,5,0.881806
+18,KB-ACE,6,0.897742
+18,KB-ACE,7,0.895086
+18,KB-ACE,8,0.889774
+18,KB-ACE,9,0.87915
+18,KB-ACE,10,0.881806
+18,KB-ACE,11,0.871182
+18,KB-ACE,12,0.859894
+18,KB-ACE,13,0.85923
+18,KB-ACE,14,0.85591
+18,KB-ACE,15,0.920983
+18,KB-ACE,16,0.920983
+18,KB-ACE,17,0.928287
+18,KB-ACE,18,0.929615
+18,KB-ACE,19,0.937583
+18,KB-ACE,20,0.939575
+18,KB-ACE,21,0.938247
+18,KB-ACE,22,0.938247
+18,KB-ACE + monotone constraints,0,0.969456
+18,KB-ACE + monotone constraints,1,0.916335
+18,KB-ACE + monotone constraints,2,0.889774
+18,KB-ACE + monotone constraints,3,0.853254
+18,KB-ACE + monotone constraints,4,0.846614
+18,KB-ACE + monotone constraints,5,0.839973
+18,KB-ACE + monotone constraints,6,0.826693
+18,KB-ACE + monotone constraints,7,0.821381
+18,KB-ACE + monotone constraints,8,0.816733
+18,KB-ACE + monotone constraints,9,0.713811
+18,KB-ACE + monotone constraints,10,0.805445
+18,KB-ACE + monotone constraints,11,0.806773
+18,KB-ACE + monotone constraints,12,0.803453
+18,KB-ACE + monotone constraints,13,0.800133
+18,KB-ACE + monotone constraints,14,0.799469
+18,KB-ACE + monotone constraints,15,0.675963
+18,KB-ACE + monotone constraints,16,0.672643
+18,KB-ACE + monotone constraints,17,0.669987
+18,KB-ACE + monotone constraints,18,0.681275
+18,KB-ACE + monotone constraints,19,0.85259
+18,KB-ACE + monotone constraints,20,0.851926
+18,KB-ACE + monotone constraints,21,0.855246
+18,KB-ACE + monotone constraints,22,0.855246
+18,KB-ACE w/o trust anchoring,0,0.988048
+18,KB-ACE w/o trust anchoring,1,0.887782
+18,KB-ACE w/o trust anchoring,2,0.807437
+18,KB-ACE w/o trust anchoring,3,0.766932
+18,KB-ACE w/o trust anchoring,4,0.762948
+18,KB-ACE w/o trust anchoring,5,0.765604
+18,KB-ACE w/o trust anchoring,6,0.764276
+18,KB-ACE w/o trust anchoring,7,0.762948
+18,KB-ACE w/o trust anchoring,8,0.836653
+18,KB-ACE w/o trust anchoring,9,0.837317
+18,KB-ACE w/o trust anchoring,10,0.837317
+18,KB-ACE w/o trust anchoring,11,0.837317
+18,KB-ACE w/o trust anchoring,12,0.840637
+18,KB-ACE w/o trust anchoring,13,0.840637
+18,KB-ACE w/o trust anchoring,14,0.840637
+18,KB-ACE w/o trust anchoring,15,0.948871
+18,KB-ACE w/o trust anchoring,16,0.946215
+18,KB-ACE w/o trust anchoring,17,0.955511
+18,KB-ACE w/o trust anchoring,18,0.956175
+18,KB-ACE w/o trust anchoring,19,0.972776
+18,KB-ACE w/o trust anchoring,20,0.975432
+18,KB-ACE w/o trust anchoring,21,0.975432
+18,KB-ACE w/o trust anchoring,22,0.975432
+18,KB-ACE w/o threat augmentation,0,0.989376
+18,KB-ACE w/o threat augmentation,1,0.851926
+18,KB-ACE w/o threat augmentation,2,0.0358566
+18,KB-ACE w/o threat augmentation,3,0.0126162
+18,KB-ACE w/o threat augmentation,4,0.0106242
+18,KB-ACE w/o threat augmentation,5,0.00863214
+18,KB-ACE w/o threat augmentation,6,0
+18,KB-ACE w/o threat augmentation,7,0
+18,KB-ACE w/o threat augmentation,8,0
+18,KB-ACE w/o threat augmentation,9,0
+18,KB-ACE w/o threat augmentation,10,0
+18,KB-ACE w/o threat augmentation,11,0
+18,KB-ACE w/o threat augmentation,12,0
+18,KB-ACE w/o threat augmentation,13,0
+18,KB-ACE w/o threat augmentation,14,0
+18,KB-ACE w/o threat augmentation,15,0
+18,KB-ACE w/o threat augmentation,16,0
+18,KB-ACE w/o threat augmentation,17,0
+18,KB-ACE w/o threat augmentation,18,0
+18,KB-ACE w/o threat augmentation,19,0
+18,KB-ACE w/o threat augmentation,20,0
+18,KB-ACE w/o threat augmentation,21,0
+18,KB-ACE w/o threat augmentation,22,0
+18,Cost-aware cascade,0,0.989376
+18,Cost-aware cascade,1,0.84595
+18,Cost-aware cascade,2,0
+18,Cost-aware cascade,3,0
+18,Cost-aware cascade,4,0
+18,Cost-aware cascade,5,0
+18,Cost-aware cascade,6,0
+18,Cost-aware cascade,7,0
+18,Cost-aware cascade,8,0
+18,Cost-aware cascade,9,0
+18,Cost-aware cascade,10,0
+18,Cost-aware cascade,11,0
+18,Cost-aware cascade,12,0
+18,Cost-aware cascade,13,0
+18,Cost-aware cascade,14,0
+18,Cost-aware cascade,15,0
+18,Cost-aware cascade,16,0
+18,Cost-aware cascade,17,0
+18,Cost-aware cascade,18,0
+18,Cost-aware cascade,19,0
+18,Cost-aware cascade,20,0
+18,Cost-aware cascade,21,0
+18,Cost-aware cascade,22,0
+19,Logistic regression,0,0.979757
+19,Logistic regression,1,0.720648
+19,Logistic regression,2,0.0074224
+19,Logistic regression,3,0
+19,Logistic regression,4,0
+19,Logistic regression,5,0
+19,Logistic regression,6,0
+19,Logistic regression,7,0
+19,Logistic regression,8,0
+19,Logistic regression,9,0
+19,Logistic regression,10,0
+19,Logistic regression,11,0
+19,Logistic regression,12,0
+19,Logistic regression,13,0
+19,Logistic regression,14,0
+19,Logistic regression,15,0
+19,Logistic regression,16,0
+19,Logistic regression,17,0
+19,Logistic regression,18,0
+19,Logistic regression,19,0
+19,Logistic regression,20,0
+19,Logistic regression,21,0
+19,Logistic regression,22,0
+19,Random forest,0,0.993927
+19,Random forest,1,0.937922
+19,Random forest,2,0.719298
+19,Random forest,3,0.665992
+19,Random forest,4,0.632254
+19,Random forest,5,0.435223
+19,Random forest,6,0.24224
+19,Random forest,7,0.301619
+19,Random forest,8,0.285425
+19,Random forest,9,0.319838
+19,Random forest,10,0.338731
+19,Random forest,11,0.353576
+19,Random forest,12,0.32726
+19,Random forest,13,0.312416
+19,Random forest,14,0.307018
+19,Random forest,15,0.280702
+19,Random forest,16,0.255061
+19,Random forest,17,0.238192
+19,Random forest,18,0.255735
+19,Random forest,19,0.284076
+19,Random forest,20,0.260459
+19,Random forest,21,0.280027
+19,Random forest,22,0.278003
+19,Gradient boosting (all evidence),0,0.992578
+19,Gradient boosting (all evidence),1,0.879217
+19,Gradient boosting (all evidence),2,0.00337382
+19,Gradient boosting (all evidence),3,0.00134953
+19,Gradient boosting (all evidence),4,0
+19,Gradient boosting (all evidence),5,0
+19,Gradient boosting (all evidence),6,0
+19,Gradient boosting (all evidence),7,0
+19,Gradient boosting (all evidence),8,0
+19,Gradient boosting (all evidence),9,0
+19,Gradient boosting (all evidence),10,0
+19,Gradient boosting (all evidence),11,0
+19,Gradient boosting (all evidence),12,0
+19,Gradient boosting (all evidence),13,0
+19,Gradient boosting (all evidence),14,0
+19,Gradient boosting (all evidence),15,0
+19,Gradient boosting (all evidence),16,0
+19,Gradient boosting (all evidence),17,0
+19,Gradient boosting (all evidence),18,0
+19,Gradient boosting (all evidence),19,0
+19,Gradient boosting (all evidence),20,0
+19,Gradient boosting (all evidence),21,0
+19,Gradient boosting (all evidence),22,0
+19,Gradient boosting (URL only),0,1
+19,Gradient boosting (URL only),1,1
+19,Gradient boosting (URL only),2,0
+19,Gradient boosting (URL only),3,0
+19,Gradient boosting (URL only),4,0
+19,Gradient boosting (URL only),5,0
+19,Gradient boosting (URL only),6,0
+19,Gradient boosting (URL only),7,0
+19,Gradient boosting (URL only),8,0
+19,Gradient boosting (URL only),9,0
+19,Gradient boosting (URL only),10,0
+19,Gradient boosting (URL only),11,0
+19,Gradient boosting (URL only),12,0
+19,Gradient boosting (URL only),13,0
+19,Gradient boosting (URL only),14,0
+19,Gradient boosting (URL only),15,0
+19,Gradient boosting (URL only),16,0
+19,Gradient boosting (URL only),17,0
+19,Gradient boosting (URL only),18,0
+19,Gradient boosting (URL only),19,0
+19,Gradient boosting (URL only),20,0
+19,Gradient boosting (URL only),21,0
+19,Gradient boosting (URL only),22,0
+19,Expert scorecard (rules only),0,0.993927
+19,Expert scorecard (rules only),1,0.965587
+19,Expert scorecard (rules only),2,0.87247
+19,Expert scorecard (rules only),3,0.794872
+19,Expert scorecard (rules only),4,0.701754
+19,Expert scorecard (rules only),5,0.543185
+19,Expert scorecard (rules only),6,0.636977
+19,Expert scorecard (rules only),7,0.447368
+19,Expert scorecard (rules only),8,0.39946
+19,Expert scorecard (rules only),9,0.293522
+19,Expert scorecard (rules only),10,0.410931
+19,Expert scorecard (rules only),11,0.595142
+19,Expert scorecard (rules only),12,0.578947
+19,Expert scorecard (rules only),13,0.795547
+19,Expert scorecard (rules only),14,0.794872
+19,Expert scorecard (rules only),15,0.961538
+19,Expert scorecard (rules only),16,0.960864
+19,Expert scorecard (rules only),17,0.960864
+19,Expert scorecard (rules only),18,0.958839
+19,Expert scorecard (rules only),19,0.997301
+19,Expert scorecard (rules only),20,1
+19,Expert scorecard (rules only),21,1
+19,Expert scorecard (rules only),22,1
+19,KB-ACE,0,0.994602
+19,KB-ACE,1,0.97166
+19,KB-ACE,2,0.934548
+19,KB-ACE,3,0.920378
+19,KB-ACE,4,0.923077
+19,KB-ACE,5,0.917004
+19,KB-ACE,6,0.909582
+19,KB-ACE,7,0.892713
+19,KB-ACE,8,0.882591
+19,KB-ACE,9,0.883266
+19,KB-ACE,10,0.88529
+19,KB-ACE,11,0.879217
+19,KB-ACE,12,0.879892
+19,KB-ACE,13,0.915655
+19,KB-ACE,14,0.915655
+19,KB-ACE,15,0.906208
+19,KB-ACE,16,0.905533
+19,KB-ACE,17,0.905533
+19,KB-ACE,18,0.905533
+19,KB-ACE,19,0.916329
+19,KB-ACE,20,0.905533
+19,KB-ACE,21,0.904184
+19,KB-ACE,22,0.904184
+19,KB-ACE + monotone constraints,0,0.989204
+19,KB-ACE + monotone constraints,1,0.968961
+19,KB-ACE + monotone constraints,2,0.91498
+19,KB-ACE + monotone constraints,3,0.893387
+19,KB-ACE + monotone constraints,4,0.889339
+19,KB-ACE + monotone constraints,5,0.875843
+19,KB-ACE + monotone constraints,6,0.873144
+19,KB-ACE + monotone constraints,7,0.862348
+19,KB-ACE + monotone constraints,8,0.858974
+19,KB-ACE + monotone constraints,9,0.84413
+19,KB-ACE + monotone constraints,10,0.851552
+19,KB-ACE + monotone constraints,11,0.848178
+19,KB-ACE + monotone constraints,12,0.846829
+19,KB-ACE + monotone constraints,13,0.847503
+19,KB-ACE + monotone constraints,14,0.847503
+19,KB-ACE + monotone constraints,15,0.745614
+19,KB-ACE + monotone constraints,16,0.74224
+19,KB-ACE + monotone constraints,17,0.746289
+19,KB-ACE + monotone constraints,18,0.767206
+19,KB-ACE + monotone constraints,19,0.862348
+19,KB-ACE + monotone constraints,20,0.838057
+19,KB-ACE + monotone constraints,21,0.838057
+19,KB-ACE + monotone constraints,22,0.838057
+19,KB-ACE w/o trust anchoring,0,0.991903
+19,KB-ACE w/o trust anchoring,1,0.946019
+19,KB-ACE w/o trust anchoring,2,0.825236
+19,KB-ACE w/o trust anchoring,3,0.761134
+19,KB-ACE w/o trust anchoring,4,0.761808
+19,KB-ACE w/o trust anchoring,5,0.755735
+19,KB-ACE w/o trust anchoring,6,0.755735
+19,KB-ACE w/o trust anchoring,7,0.752362
+19,KB-ACE w/o trust anchoring,8,0.776653
+19,KB-ACE w/o trust anchoring,9,0.772605
+19,KB-ACE w/o trust anchoring,10,0.809042
+19,KB-ACE w/o trust anchoring,11,0.809042
+19,KB-ACE w/o trust anchoring,12,0.834008
+19,KB-ACE w/o trust anchoring,13,0.834008
+19,KB-ACE w/o trust anchoring,14,0.834008
+19,KB-ACE w/o trust anchoring,15,0.834008
+19,KB-ACE w/o trust anchoring,16,0.834008
+19,KB-ACE w/o trust anchoring,17,0.834008
+19,KB-ACE w/o trust anchoring,18,0.834008
+19,KB-ACE w/o trust anchoring,19,0.834008
+19,KB-ACE w/o trust anchoring,20,0.834008
+19,KB-ACE w/o trust anchoring,21,0.834008
+19,KB-ACE w/o trust anchoring,22,0.834008
+19,KB-ACE w/o threat augmentation,0,0.993927
+19,KB-ACE w/o threat augmentation,1,0.887989
+19,KB-ACE w/o threat augmentation,2,0.00607287
+19,KB-ACE w/o threat augmentation,3,0.00134953
+19,KB-ACE w/o threat augmentation,4,0
+19,KB-ACE w/o threat augmentation,5,0
+19,KB-ACE w/o threat augmentation,6,0
+19,KB-ACE w/o threat augmentation,7,0
+19,KB-ACE w/o threat augmentation,8,0
+19,KB-ACE w/o threat augmentation,9,0
+19,KB-ACE w/o threat augmentation,10,0
+19,KB-ACE w/o threat augmentation,11,0
+19,KB-ACE w/o threat augmentation,12,0
+19,KB-ACE w/o threat augmentation,13,0
+19,KB-ACE w/o threat augmentation,14,0
+19,KB-ACE w/o threat augmentation,15,0
+19,KB-ACE w/o threat augmentation,16,0
+19,KB-ACE w/o threat augmentation,17,0
+19,KB-ACE w/o threat augmentation,18,0
+19,KB-ACE w/o threat augmentation,19,0
+19,KB-ACE w/o threat augmentation,20,0
+19,KB-ACE w/o threat augmentation,21,0
+19,KB-ACE w/o threat augmentation,22,0
+19,Cost-aware cascade,0,0.989204
+19,Cost-aware cascade,1,0.848853
+19,Cost-aware cascade,2,0
+19,Cost-aware cascade,3,0
+19,Cost-aware cascade,4,0
+19,Cost-aware cascade,5,0
+19,Cost-aware cascade,6,0
+19,Cost-aware cascade,7,0
+19,Cost-aware cascade,8,0
+19,Cost-aware cascade,9,0
+19,Cost-aware cascade,10,0
+19,Cost-aware cascade,11,0
+19,Cost-aware cascade,12,0
+19,Cost-aware cascade,13,0
+19,Cost-aware cascade,14,0
+19,Cost-aware cascade,15,0
+19,Cost-aware cascade,16,0
+19,Cost-aware cascade,17,0
+19,Cost-aware cascade,18,0
+19,Cost-aware cascade,19,0
+19,Cost-aware cascade,20,0
+19,Cost-aware cascade,21,0
+19,Cost-aware cascade,22,0
