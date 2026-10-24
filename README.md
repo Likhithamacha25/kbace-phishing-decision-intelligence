@@ -42,13 +42,13 @@ python figures.py      # Figures 1-2, Tables 1-2 and the graphical abstract -> f
 | Path | Content |
 |---|---|
 | `kbace.py` | knowledge base, audit, learners, cascade decision layer, forgery stress test, statistics |
-| `figures.py` | figures, tables and graphical abstract built from `results/` |
-| `results/per_split.csv` | every metric for every policy and split |
-| `results/attack_curve.csv` | recall for k = 0…22 forged cues, per policy and split |
-| `results/sensitivity.csv` | costs over the 4 × 5 cost-ratio × acquisition-cost grid |
-| `results/paired_tests.csv` | Wilcoxon + Holm and corrected resampled t-tests |
-| `results/knowledge_audit.csv` | documented polarity versus data, per cue |
-| `results/summary.csv`, `run_summary.json`, `breakeven.json` | aggregates used in the paper |
+| `figures.py` | figures, tables and graphical abstract built from the result files |
+| `per_split.csv` | every metric for every policy and split |
+| `attack_curve.csv` | recall for k = 0…22 forged cues, per policy and split |
+| `sensitivity.csv` | costs over the 4 × 5 cost-ratio × acquisition-cost grid |
+| `paired_tests.csv` | Wilcoxon + Holm and corrected resampled t-tests |
+| `knowledge_audit.csv` | documented polarity versus data, per cue |
+| `summary.csv`, `run_summary.json`, `breakeven.json` | aggregates used in the paper |
 
 ## Data
 

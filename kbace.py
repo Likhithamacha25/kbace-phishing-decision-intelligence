@@ -18,7 +18,7 @@ from sklearn.metrics import roc_auc_score
 from sklearn.model_selection import GroupShuffleSplit, GroupKFold
 
 ROOT = Path(__file__).parent
-OUT = ROOT / "results"
+OUT = ROOT                                    # result files live next to the code
 
 # --------------------------------------------------------------------------
 # 1. Knowledge base: the analyst-owned evidence ontology

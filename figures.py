@@ -1,4 +1,4 @@
-"""Builds Figures 1-2, Tables 1-2 and the graphical abstract from results/*.csv (run kbace.py first)."""
+"""Builds Figures 1-2, Tables 1-2 and the graphical abstract from the result CSV/JSON files (run kbace.py first)."""
 from pathlib import Path
 import json
 import numpy as np, pandas as pd
@@ -7,7 +7,7 @@ matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 from matplotlib.patches import FancyBboxPatch
 
-ROOT = Path(__file__).parent; R = ROOT / "results"; F = ROOT / "figures"; F.mkdir(exist_ok=True)
+ROOT = Path(__file__).parent; R = ROOT; F = ROOT / "figures"; F.mkdir(exist_ok=True)
 plt.rcParams.update({"font.family": "DejaVu Sans", "font.size": 9, "axes.spines.top": False,
                      "axes.spines.right": False, "axes.edgecolor": "#52514e", "axes.labelcolor": "#0b0b0b",
                      "xtick.color": "#52514e", "ytick.color": "#52514e", "axes.titlesize": 10,
